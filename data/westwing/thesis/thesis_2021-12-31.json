@@ -1,0 +1,96 @@
+{
+  "empresa": "Westwing",
+  "ticker": "WEST3",
+  "data_avaliacao": "2021-12-31",
+  "recomendacao": "evitar",
+  "confianca": "alta",
+  "tese_resumo": "Recomendamos evitar WEST3. Apesar da queda de 70% no preço da ação, a empresa exibe múltiplos ainda elevados e uma série de 'red flags' de governança, incluindo alta rotatividade na diretoria, venda de ações por insiders e um processo de M&A fracassado. A tese de investimento parece quebrada, com a performance de 2020 se mostrando um evento isolado da pandemia, não um novo patamar de crescimento sustentável.",
+  "valuation": {
+    "market_cap_mm": 388.8,
+    "caixa_liquido_mm": 21.005,
+    "desconto_sobre_caixa_pct": null,
+    "pl_por_acao": 0.39,
+    "preco_sobre_pl": 89.4,
+    "ev_ebitda": 89.6,
+    "observacao_valuation": "Os múltiplos são extremamente elevados (P/PL ~89x, EV/EBITDA ~90x) com base nos dados de 2020, indicando uma total desconexão com os fundamentos atuais. A queda de 70% da ação em um ano reflete um severo 'de-rating' pelo mercado, que não acredita mais na tese de crescimento. O caixa líquido representa apenas 5.4% do market cap, não oferecendo uma rede de segurança relevante."
+  },
+  "tese_bull": {
+    "resumo": "O mercado puniu excessivamente a ação, criando uma oportunidade de 'turnaround'. Se a gestão conseguir estabilizar a operação, demonstrar crescimento rentável e alocar capital de forma eficiente, o ativo pode ter uma reavaliação expressiva, dado o baixo valor de mercado atual.",
+    "target_price": null,
+    "upside_pct": null,
+    "probabilidade_estimada": 0.2,
+    "catalalisadores": [
+      "Retomada do crescimento de receita com margens estáveis ou crescentes.",
+      "Execução de uma aquisição bem-sucedida e com sinergias claras.",
+      "Anúncio de um programa de recompra de ações, sinalizando confiança da gestão.",
+      "Entrada de um investidor ativista com um plano claro de criação de valor."
+    ]
+  },
+  "tese_bear": {
+    "resumo": "O forte desempenho de 2020 foi um evento único impulsionado pela pandemia e não é sustentável. A empresa enfrenta forte concorrência, demonstrou má alocação de capital com o M&A fracassado e os sinais de governança, como a venda de ações pela diretoria, indicam problemas internos. A tendência de queda deve continuar à medida que os resultados decepcionem.",
+    "target_price": null,
+    "downside_pct": null,
+    "probabilidade_estimada": 0.8,
+    "riscos": [
+      "Desaceleração contínua do crescimento, confirmando 2020 como um ponto fora da curva.",
+      "Compressão de margens devido à concorrência e aumento do custo de aquisição de clientes.",
+      "Novas tentativas de M&A que destruam valor ou falhem novamente, minando a credibilidade.",
+      "Queima de caixa para sustentar crescimento não lucrativo.",
+      "Perda total de credibilidade da gestão junto ao mercado de capitais."
+    ]
+  },
+  "governanca": {
+    "score": "2",
+    "red_flags": [
+      "Venda de ações pela diretoria ('insider selling') durante uma queda acentuada do preço do papel.",
+      "Processo de M&A relevante (aquisição da Zarpo) anunciado e cancelado em menos de 3 meses, indicando falha na diligência ou execução.",
+      "Troca de Diretor Financeiro (CFO) após renúncia, um sinal de instabilidade em uma posição chave.",
+      "Ataque cibernético (ransomware), levantando questões sobre a robustez da infraestrutura de TI e gestão de riscos.",
+      "Movimentação atípica de investidor institucional (Itaú), que adquiriu e vendeu participação relevante em poucos dias."
+    ],
+    "pontos_positivos": [
+      "Tag along de 100% para ações ordinárias."
+    ],
+    "rotatividade_management": "media",
+    "risco_ativismo": "alto",
+    "comentario": "A governança é o principal ponto de preocupação. A combinação de insider selling, um M&A fracassado e a troca de CFO em um curto espaço de tempo destrói a credibilidade da gestão. O risco de ativismo é elevado, com a entrada de gestoras como Tork e Must, o que pode ser a única esperança para os minoritários."
+  },
+  "triggers": [
+    {
+      "trigger": "Divulgação de resultados trimestrais com queima de caixa e queda de margens.",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "alta",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Um investidor ativista (Tork ou Must) consegue assentos no conselho e força uma mudança na gestão ou estratégia.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "medio"
+    },
+    {
+      "trigger": "Anúncio de um novo plano estratégico crível, focado em rentabilidade (ROIC) e não apenas crescimento, acompanhado de um programa de recompra de ações.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "baixa",
+      "prazo": "medio"
+    },
+    {
+      "trigger": "Novas vendas relevantes de ações pela diretoria ou a saída de outro executivo-chave.",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "curto"
+    }
+  ],
+  "proximos_passos": [
+    "Monitorar os próximos resultados trimestrais para avaliar a dinâmica de crescimento, margens e geração de caixa.",
+    "Acompanhar as movimentações acionárias dos fundos Tork e Must para identificar sinais de um movimento ativista.",
+    "Analisar o relatório da administração e as teleconferências de resultados em busca de explicações sobre a falha na aquisição da Zarpo e a nova estratégia.",
+    "Reavaliar a tese apenas em caso de uma mudança completa na diretoria executiva e no conselho de administração."
+  ],
+  "nota_final": "A Westwing é um caso clássico de uma tese de IPO que se desfez rapidamente. A gestão demonstrou inabilidade em alocação de capital e desalinhamento com acionistas através da venda de suas próprias ações em um momento crítico. A valuation, mesmo após a forte queda, não oferece margem de segurança para compensar os enormes riscos de governança e execução. O capital deve ser preservado; portanto, a distância deste ativo é a recomendação mais prudente.",
+  "snapshot_used": "============================================================\nSNAPSHOT: WESTWING (WEST3) — Data: 2021-12-31\n============================================================\n\n## DADOS DE MERCADO\nPreco: R$35.0\nVolume medio 30d: 90354\nVariacao 30d: 12.9%\nVariacao 1 ano: -69.8%\nMin/Max 1 ano: R$31.0 / R$121.8\nMarket Cap estimado: R$388.8 milhoes (11,109,348 acoes)\n\n## DADOS FINANCEIROS (R$ mil)\nPeriodo mais recente: 2020\nCaixa total: R$31830 mil\nDivida bruta: R$10825 mil\nPL: R$4348 mil\nReceita liquida: R$245254 mil\nLucro liquido: R$11701 mil\nEBITDA: R$4104 mil\n\nEvolucao historica:\n  2019: caixa=4404 | LL=383 | rec=127289\n  1T20: caixa=11668 | LL=-2553 | rec=33052\n  2T20: caixa=45623 | LL=13278 | rec=85926\n  2020: caixa=31830 | LL=11701 | rec=245254\n\n## ESTATUTO SOCIAL\nTag along ON: 100%\nPoison pill: ? (trigger: ?%)\nVoto multiplo: ?\nConselho: ?-? membros\nCapital autorizado: 25000000 acoes\nTotal acoes: 11109348\n\n## COMPOSICAO ACIONARIA (movimentacoes recentes)\n  2021-02-18 | Itaú Unibanco S.A.             | aquisicao  | 5.744%\n    Intencao: não tem o objetivo de alterar a composição do controle ou a \n  2021-02-23 | Tork Capital Gestão de Recurso | aquisicao  | 6.46%\n    Intencao: não tem objetivo de alterar a composição de controle ou a es\n  2021-02-24 | Itaú Unibanco S.A.             | alienacao  | 4.573%\n    Intencao: não tem o objetivo de alterar a composição do controle ou a \n  2021-04-13 | Diretoria                      | posicao    | None%\n  2021-04-14 | Diretoria da WESTWING COMÉRCIO | aquisicao  | None%\n  2021-08-13 | Diretoria da WestWing          | alienacao  | None%\n  2021-10-05 | Diretoria                      | posicao    | None%\n    Intencao: Não foram realizadas operações com valores mobiliários e der\n  2021-11-18 | Diretoria                      | alienacao  | None%\n  2021-12-29 | Must Asset Management          | aquisicao  | 5.002%\n    Intencao: Tal participação não tem objetivo de alterar a composição de\n  2021-12-31 | Diretoria                      | posicao    | None%\n\n## EVENTOS RECENTES (severidade >= 4)\n  [6] 2021-02-25 — A Westwing recebeu comunicação do Itaú Unibanco S.A. informando a alienação de sua participação acio\n      flags: alienacao_participacao\n  [8] 2021-03-31 — A Westwing apresentou forte crescimento no 4T20 e em 2020, com GMV e Receita Líquida dobrando, EBITD\n  [7] 2021-04-19 — A Westwing identificou um ataque cibernético criminoso do tipo ransomware em 17 de abril, que tornou\n  [6] 2021-04-22 — A Westwing elegeu Thiago Deiab como seu novo Diretor Financeiro e de Relações com Investidores, após\n      flags: renunciadiretoria\n  [4] 2021-08-10 — A Westwing esclarece notícia do Valor Econômico sobre a busca por um sócio, afirmando que monitora o\n  [7] 2021-08-13 — A Westwing (WEST3) apresentou seus resultados do 2T21, destacando o crescimento acelerado do GMV (+1\n  [7] 2021-09-28 — A Westwing assinou um memorando de entendimentos para adquirir 100% do capital social da Zarpo Viage\n      flags: aquisicao\n  [8] 2021-10-04 — Westwing anuncia a aquisição da Zarpo para expandir sua atuação na categoria de viagens e lifestyle,\n      flags: aquisicao\n  [6] 2021-12-13 — A Westwing comunicou a descontinuidade das negociações para a possível aquisição de 100% do capital \n      flags: aquisição\n  [5] 2021-12-29 — A Must Asset Management adquiriu 5,002% das ações ordinárias da Westwing, declarando que a participa\n      flags: aquisicao"
+}

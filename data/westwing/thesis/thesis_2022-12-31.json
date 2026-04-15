@@ -1,0 +1,87 @@
+{
+  "empresa": "Westwing Comércio Varejista S.A.",
+  "ticker": "WEST3",
+  "data_avaliacao": "2022-12-31",
+  "recomendacao": "monitorar",
+  "confianca": "baixa",
+  "tese_resumo": "Westwing é um caso de 'special situation' negociando com desconto sobre seu caixa líquido, o que oferece uma aparente margem de segurança. Contudo, a empresa enfrenta uma severa crise operacional e de governança, evidenciada pela queima de caixa, alta rotatividade de executivos e republicação de balanços. O investimento é uma aposta de alto risco em um turnaround a ser potencialmente liderado por um novo acionista ativista (WNT).",
+  "valuation": {
+    "market_cap_mm": 132.2,
+    "caixa_liquido_mm": 158.2,
+    "desconto_sobre_caixa_pct": -16.4,
+    "pl_por_acao": 27.78,
+    "preco_sobre_pl": 0.43,
+    "ev_ebitda": "N/A",
+    "observacao_valuation": "A empresa negocia com um Enterprise Value negativo de R$26 milhões, indicando que o mercado atribui valor nulo ou negativo à sua operação, precificando-a abaixo do seu caixa líquido. O múltiplo P/PL é extremamente baixo. A ausência de EBITDA e o prejuízo líquido tornam métricas de lucro ineficazes. A avaliação é puramente uma tese de 'cash box' com alto risco operacional."
+  },
+  "tese_bull": {
+    "resumo": "A tese otimista se baseia em um turnaround operacional liderado pelo novo acionista ativista (WNT). O valuation de 'cash box' oferece uma margem de segurança, onde uma reestruturação que estanque a queima de caixa poderia destravar o valor do balanço e reavaliar a operação.",
+    "target_price": 14.24,
+    "upside_pct": 19.7,
+    "probabilidade_estimada": "baixa",
+    "catalalisadores": [
+      "Anúncio de um plano de reestruturação crível pela nova gestão ou pelo acionista WNT.",
+      "Retorno ao breakeven de fluxo de caixa operacional.",
+      "Mudanças no Conselho de Administração ou na Diretoria Executiva propostas pelo novo acionista relevante.",
+      "WNT Gestora aumentando a participação e solicitando assento no conselho."
+    ]
+  },
+  "tese_bear": {
+    "resumo": "A tese pessimista é a continuação da queima de caixa, erodindo o principal atrativo do valuation. A alta rotatividade da gestão e as falhas contábeis indicam problemas operacionais e de controle profundos, que podem ser difíceis de reverter, destruindo o valor do balanço antes de uma estabilização.",
+    "target_price": 8.6,
+    "downside_pct": -27.7,
+    "probabilidade_estimada": "alta",
+    "riscos": [
+      "Queima de caixa acelerada, erodindo a posição de caixa líquido mais rápido que o esperado.",
+      "Falha na execução do turnaround, com a receita continuando a estagnar ou cair.",
+      "Novos problemas contábeis ou de controle interno, minando ainda mais a confiança do investidor.",
+      "Conflito entre o novo acionista (WNT) e a gestão/conselho atual, levando a uma paralisia estratégica."
+    ]
+  },
+  "governanca": {
+    "score": "2",
+    "red_flags": [
+      "Alta rotatividade de C-Level: Renúncia do Diretor Comercial (Jan/22) e do CFO/DRI (Jun/22) em menos de 6 meses.",
+      "Reapresentação de resultados financeiros (1T22): Sinaliza fraqueza crítica nos controles internos e contábeis.",
+      "Fuga de investidores institucionais: Tork Capital, Equitas e Must Asset Management venderam participações relevantes em 2022.",
+      "Falta de informação sobre mecanismos de defesa como 'poison pill'."
+    ],
+    "pontos_positivos": [
+      "Tag along de 100% para ações ordinárias."
+    ],
+    "rotatividade_management": "alta",
+    "risco_ativismo": "alto",
+    "comentario": "A governança é extremamente frágil. A combinação de alta rotatividade na diretoria, republicação de balanço e a saída de múltiplos fundos institucionais pinta um quadro de instabilidade e falta de confiança. A rápida entrada da WNT Gestora, atingindo 16.16%, configura um cenário de alto potencial para ativismo, o que pode ser tanto um risco quanto um catalisador."
+  },
+  "triggers": [
+    {
+      "trigger": "WNT Gestora aumenta sua participação para mais de 20% e/ou solicita formalmente assento no Conselho de Administração.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Divulgação de resultados trimestrais mostrando a continuação ou aceleração da queima de caixa (prejuízo líquido e FCF negativo).",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "alta",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Anúncio de um plano de reestruturação detalhado e crível, com metas claras de redução de custos e foco em rentabilidade.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "baixa",
+      "prazo": "medio"
+    }
+  ],
+  "proximos_passos": [
+    "Monitorar de perto os comunicados da CVM sobre movimentações acionárias da WNT Gestora.",
+    "Analisar com extremo ceticismo o próximo resultado trimestral, focando na evolução da queima de caixa e na margem bruta.",
+    "Investigar o histórico e a estratégia da WNT Gestora em outros investimentos para entender seu perfil (ativista, financeiro, estratégico).",
+    "Agendar uma conversa com o novo CFO (Marcelo Kenji) para avaliar sua credibilidade e visão para a empresa."
+  ],
+  "nota_final": "Este não é um investimento para o investidor fundamentalista tradicional que busca qualidade e crescimento previsível. É um 'deep value' ou 'special situation' clássico, onde a tese se apoia quase que exclusivamente no balanço patrimonial. O risco é que a má gestão do P&L destrua o valor do balanço. A entrada do acionista WNT é o evento-chave a ser monitorado, pois pode ser o catalisador para destravar valor ou o início de uma custosa batalha corporativa. A recomendação é 'Monitorar' com o dedo no gatilho, aguardando sinais claros de que a sangria operacional foi estancada antes de considerar uma posição.",
+  "snapshot_used": "============================================================\nSNAPSHOT: WESTWING (WEST3) — Data: 2022-12-31\n============================================================\n\n## DADOS DE MERCADO\nPreco: R$11.9\nVolume medio 30d: 61450\nVariacao 30d: 24.0%\nVariacao 1 ano: -62.1%\nMin/Max 1 ano: R$8.6 / R$37.3\nMarket Cap estimado: R$132.2 milhoes (11,109,348 acoes)\n\n## DADOS FINANCEIROS (R$ mil)\nPeriodo mais recente: 2022\nCaixa total: R$158199 mil\nDivida bruta: R$None mil\nPL: R$308614 mil\nReceita liquida: R$256800 mil\nLucro liquido: R$-54271 mil\nEBITDA: R$None mil\n\nEvolucao historica:\n  2019: caixa=4404 | LL=383 | rec=127289\n  1T20: caixa=11668 | LL=-2553 | rec=33052\n  2T20: caixa=45623 | LL=13278 | rec=85926\n  2020: caixa=31830 | LL=11701 | rec=245254\n  1T22: caixa=10130.0 | LL=-9918.0 | rec=63968.0\n  2022: caixa=158199 | LL=-54271 | rec=256800\n\n## ESTATUTO SOCIAL\nTag along ON: 100%\nPoison pill: ? (trigger: ?%)\nVoto multiplo: ?\nConselho: ?-? membros\nCapital autorizado: 25000000 acoes\nTotal acoes: 11109348\n\n## COMPOSICAO ACIONARIA (movimentacoes recentes)\n  2022-05-31 | Diretoria                      | posicao    | None%\n    Intencao: não foram realizadas operações com valores mobiliários e der\n  2022-07-06 | Diretoria                      | posicao    | None%\n  2022-08-16 | Equitas Administração De Fundo | alienacao  | 4.53%\n  2022-09-08 | Diretoria                      | posicao    | None%\n    Intencao: Não foram realizadas operações com valores mobiliários e der\n  2022-10-13 | Must Asset Management          | alienacao  | 4.986%\n    Intencao: O decréscimo das participações acionárias mencionadas acima \n  2022-10-19 | Diretoria                      | aquisicao  | None%\n  2022-11-17 | WNT Gestora De Recursos Ltda.  | aquisicao  | 7.06%\n    Intencao: Os Acionistas não pretendem, neste momento, fazer mudanças n\n  2022-12-01 | WNT Gestora De Recursos Ltda.  | aquisicao  | 10.54%\n  2022-12-06 | Membro da Diretoria            | posicao    | None%\n  2022-12-26 | WNT Gestora De Recursos Ltda.  | aquisicao  | 16.16%\n\n## EVENTOS RECENTES (severidade >= 4)\n  [5] 2021-12-29 — A Must Asset Management adquiriu 5,002% das ações ordinárias da Westwing, declarando que a participa\n      flags: aquisicao\n  [4] 2022-01-26 — A Westwing comunicou a renúncia do Sr. Ricardo Romano ao cargo de Diretor Comercial por questões pes\n      flags: renunciadiretoria\n  [5] 2022-03-17 — A Westwing recebeu um comunicado da Tork Capital Gestão de Recursos Ltda. informando sobre a alienaç\n      flags: alienacao_participacao\n  [7] 2022-05-12 — A WestWing reportou crescimento de 12,7% na Receita Líquida no 1T22, atingindo R$ 68,3 milhões, apes\n  [7] 2022-06-20 — A Westwing comunica a renúncia de Thiago Deiab dos cargos de Diretor Financeiro e de Relações com In\n      flags: renunciadiretoria\n  [5] 2022-08-08 — A Westwing decidiu descontinuar sua operação de marketplace-out 'Mezzanine' para focar em seu negóci\n  [6] 2022-08-15 — A Westwing reapresentou suas Informações Financeiras Trimestrais do 1T22 após detectar uma diferença\n      flags: reapresentacao_df\n  [6] 2022-08-18 — A Westwing comunicou que a Equitas Administração De Fundos De Investimentos Ltda. alienou sua partic\n      flags: alienacao_participacao\n  [7] 2022-11-10 — A Westwing elegeu Marcelo Kenji como seu novo Diretor Financeiro e Diretor de Relações com Investido\n  [6] 2022-11-17 — A Westwing comunicou que recebeu da WNT Gestora De Recursos Ltda. a informação de que os fundos sob \n      flags: aquisicao"
+}

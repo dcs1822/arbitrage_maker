@@ -1,0 +1,600 @@
+[
+  {
+    "tipo": "DFP",
+    "data_referencia": "2019-12-31",
+    "periodo": "2019",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 127289,
+      "custo_produtos_vendidos": 70338,
+      "lucro_bruto": 56951,
+      "margem_bruta_pct": 44.74,
+      "despesas_operacionais": 54147,
+      "ebitda": 5684,
+      "margem_ebitda_pct": 4.47,
+      "resultado_financeiro": -3097,
+      "lucro_liquido": 383,
+      "margem_liquida_pct": 0.3
+    },
+    "balanco": {
+      "caixa_equivalentes": 4336,
+      "aplicacoes_financeiras": 68,
+      "caixa_total": 4404,
+      "contas_a_receber": 7745,
+      "estoques": 8822,
+      "ativo_total": 30648,
+      "emprestimos_cp": 7363,
+      "emprestimos_lp": 845,
+      "divida_bruta": 8208,
+      "patrimonio_liquido": -5193,
+      "divida_liquida": 3804
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": -2008,
+      "capex": 1940,
+      "fcf": -3948
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": null,
+      "vpa": null
+    },
+    "source_file": "20201202_Dados_Econômico_Fina_029fe9673806.txt",
+    "data_entrega": "2020-12-02"
+  },
+  {
+    "tipo": "DFP",
+    "data_referencia": "2019-12-31",
+    "periodo": "2019",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 130906,
+      "custo_produtos_vendidos": 70689,
+      "lucro_bruto": 60217,
+      "margem_bruta_pct": 0.46,
+      "despesas_operacionais": 58335,
+      "ebitda": 4762,
+      "margem_ebitda_pct": 0.0364,
+      "resultado_financeiro": -3098,
+      "lucro_liquido": -1474,
+      "margem_liquida_pct": -0.0113
+    },
+    "balanco": {
+      "caixa_equivalentes": 4336,
+      "aplicacoes_financeiras": 68,
+      "caixa_total": 4404,
+      "contas_a_receber": 7745,
+      "estoques": 8822,
+      "ativo_total": 30680,
+      "emprestimos_cp": 5200,
+      "emprestimos_lp": null,
+      "divida_bruta": 5200,
+      "patrimonio_liquido": -8545,
+      "divida_liquida": 796
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": -698,
+      "capex": 1940,
+      "fcf": -2638
+    },
+    "indicadores": {
+      "acoes_circulacao": 71172000,
+      "lpa": -0.0207,
+      "vpa": -0.00012005
+    },
+    "source_file": "20210118_Dados_Econômico_Fina_c5b52bd46ebd.txt",
+    "data_entrega": "2021-01-18"
+  },
+  {
+    "tipo": "ITR",
+    "data_referencia": "2020-03-31",
+    "periodo": "1T20",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 33052,
+      "custo_produtos_vendidos": -17537,
+      "lucro_bruto": 15515,
+      "margem_bruta_pct": 46.94,
+      "despesas_operacionais": -16639,
+      "ebitda": -190,
+      "margem_ebitda_pct": -0.57,
+      "resultado_financeiro": -1195,
+      "lucro_liquido": -2553,
+      "margem_liquida_pct": -7.72
+    },
+    "balanco": {
+      "caixa_equivalentes": 11600,
+      "aplicacoes_financeiras": 68,
+      "caixa_total": 11668,
+      "contas_a_receber": 5034,
+      "estoques": 11609,
+      "ativo_total": 42352,
+      "emprestimos_cp": 13090,
+      "emprestimos_lp": 1018,
+      "divida_bruta": 14108,
+      "patrimonio_liquido": -11098,
+      "divida_liquida": 2440
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": 2823,
+      "capex": -1306,
+      "fcf": 1517
+    },
+    "indicadores": {
+      "acoes_circulacao": 71172000,
+      "lpa": -0.0359,
+      "vpa": -0.1559
+    },
+    "source_file": "20201203_Dados_Econômico_Fina_0f2cc5474d12.txt",
+    "data_entrega": "2020-12-03"
+  },
+  {
+    "tipo": "ITR",
+    "data_referencia": "2020-06-30",
+    "periodo": "2T20",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 85926,
+      "custo_produtos_vendidos": -45456,
+      "lucro_bruto": 40470,
+      "margem_bruta_pct": 47.1,
+      "despesas_operacionais": -39380,
+      "ebitda": 2820,
+      "margem_ebitda_pct": 3.28,
+      "resultado_financeiro": -3081,
+      "lucro_liquido": 13278,
+      "margem_liquida_pct": 15.45
+    },
+    "balanco": {
+      "caixa_equivalentes": 45555,
+      "aplicacoes_financeiras": 68,
+      "caixa_total": 45623,
+      "contas_a_receber": 6825,
+      "estoques": 11697,
+      "ativo_total": 96779,
+      "emprestimos_cp": 13241,
+      "emprestimos_lp": 891,
+      "divida_bruta": 14132,
+      "patrimonio_liquido": 4733,
+      "divida_liquida": -31491
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": 38871,
+      "capex": -2560,
+      "fcf": 36311
+    },
+    "indicadores": {
+      "acoes_circulacao": 71172000,
+      "lpa": 0.1866,
+      "vpa": null
+    },
+    "source_file": "20201203_Dados_Econômico_Fina_1ee767bc6d9e.txt",
+    "data_entrega": "2020-12-03"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"DFP\",\n  \"data_referencia\": \"2017-12-31\",\n  \"periodo\": \"2017\",\n  \"unidade\": \"R$ milhoes\",\n  \"dre\": {\n    \"receita_liquida\": null,\n    \"custo_produtos_vendidos\": null,\n    \"lucro_bruto\": null,\n    \"margem_bruta_pct\": null,\n    \"despesas_operacionais\": null,\n    \"ebitda\": null,\n    \"margem_ebitda_pct\": null,\n    \"resultado_financeiro",
+    "source_file": "20201202_Dados_Econômico_Fina_2d27590d1e5c.txt",
+    "data_entrega": "2020-12-02"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"DFP\",\n  \"data_referencia\": \"2018-12-31\",\n  \"periodo\": \"2018\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 117454,\n    \"custo_produtos_vendidos\": -64203,\n    \"lucro_bruto\": 53251,\n    \"margem_bruta_pct\": 45.33,\n    \"despesas_operacionais\": -44197,\n    \"",
+    "source_file": "20201202_Dados_Econômico_Fina_4d256c964b78.txt",
+    "data_entrega": "2020-12-02"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"DFP\",\n  \"data_referencia\": \"2019-12-31\",\n  \"periodo\": \"2019\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 130906,\n    \"custo_produtos_vendidos\": -70689,\n    \"lucro_bruto\": 60217,\n    \"margem_bruta_pct\": 46.00,\n    \"despesas_operacionais\": -58335,\n    \"ebitda",
+    "source_file": "20201203_Dados_Econômico_Fina_4b6346811b30.txt",
+    "data_entrega": "2020-12-03"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2020-09-30\",\n  \"periodo\": \"9M2020\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 167866,\n    \"custo_produtos_vendidos\": -89437,\n    \"lucro_bruto\": 78429,\n    \"margem_bruta_pct\": 46.72,\n    \"despesas_operacionais\": -70820,\n    \"",
+    "source_file": "20201203_Dados_Econômico_Fina_aa0506db6023.txt",
+    "data_entrega": "2020-12-03"
+  },
+  {
+    "tipo": "ITR",
+    "data_referencia": "2020-12-31",
+    "periodo": "4T20",
+    "unidade": "R$ milhoes",
+    "dre": {
+      "receita_liquida": 77.4,
+      "custo_produtos_vendidos": null,
+      "lucro_bruto": null,
+      "margem_bruta_pct": null,
+      "despesas_operacionais": null,
+      "ebitda": 7.5,
+      "margem_ebitda_pct": null,
+      "resultado_financeiro": null,
+      "lucro_liquido": null,
+      "margem_liquida_pct": null
+    },
+    "balanco": {
+      "caixa_equivalentes": null,
+      "aplicacoes_financeiras": null,
+      "caixa_total": null,
+      "contas_a_receber": null,
+      "estoques": null,
+      "ativo_total": null,
+      "emprestimos_cp": null,
+      "emprestimos_lp": null,
+      "divida_bruta": null,
+      "patrimonio_liquido": null,
+      "divida_liquida": null
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": 33.1,
+      "capex": null,
+      "fcf": null
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": null,
+      "vpa": null
+    },
+    "source_file": "20210331_Dados_Econômico_Fina_2c54315018b8.txt",
+    "data_entrega": "2021-03-31"
+  },
+  {
+    "tipo": "DFP",
+    "data_referencia": "2020-12-31",
+    "periodo": "2020",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 245254,
+      "custo_produtos_vendidos": -134606,
+      "lucro_bruto": 110648,
+      "margem_bruta_pct": 45.11,
+      "despesas_operacionais": -110586,
+      "ebitda": 4104,
+      "margem_ebitda_pct": 1.67,
+      "resultado_financeiro": -6227,
+      "lucro_liquido": 11701,
+      "margem_liquida_pct": 4.77
+    },
+    "balanco": {
+      "caixa_equivalentes": 29931,
+      "aplicacoes_financeiras": 1899,
+      "caixa_total": 31830,
+      "contas_a_receber": 8872,
+      "estoques": 20147,
+      "ativo_total": 97877,
+      "emprestimos_cp": 7190,
+      "emprestimos_lp": 3635,
+      "divida_bruta": 10825,
+      "patrimonio_liquido": 4348,
+      "divida_liquida": -21005
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": 33138,
+      "capex": -7916,
+      "fcf": 25222
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": 0.1642,
+      "vpa": null
+    },
+    "source_file": "20210417_Dados_Econômico_Fina_0370ce781be6.txt",
+    "data_entrega": "2021-04-17"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2020-09-30\",\n  \"periodo\": \"9M20\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 167866,\n    \"custo_produtos_vendidos\": -89437,\n    \"lucro_bruto\": 78429,\n    \"margem_bruta_pct\": 46.72,\n    \"despesas_operacionais\": -70820,\n    \"",
+    "source_file": "20210118_Dados_Econômico_Fina_f06c1c3d295c.txt",
+    "data_entrega": "2021-01-18"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2021-03-31\",\n  \"periodo\": \"1T21\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 60575.0,\n    \"custo_produtos_vendidos\": -32807.0,\n    \"lucro_bruto\": 27768.0,\n    \"margem_bruta_pct\": 45.8,\n    \"despesas_operacionais\": 52769.2,",
+    "source_file": "20210513_Dados_Econômico_Fina_06bc98e0c2e2.txt",
+    "data_entrega": "2021-05-13"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"ITR\",\n    \"data_referencia\": \"2021-06-30\",\n    \"periodo\": \"2T21\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 79602,\n      \"custo_produtos_vendidos\": -42276,\n      \"lucro_bruto\": 37326,\n      \"margem_bruta_pct\": 46.9,\n      \"despesas_operacionais\": 45667,\n      \"",
+    "source_file": "20210812_Dados_Econômico_Fina_228b2de9e1b6.txt",
+    "data_entrega": "2021-08-12"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"ITR\",\n    \"data_referencia\": \"2021-09-30\",\n    \"periodo\": \"3T21\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 86120,\n      \"custo_produtos_vendidos\": 49458,\n      \"lucro_bruto\": 36662,\n      \"margem_bruta_pct\": 42.6,\n      \"despesas_operacionais\": 52639,",
+    "source_file": "20211111_Dados_Econômico_Fina_c1799bb8cd09.txt",
+    "data_entrega": "2021-11-11"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"DFP\",\n  \"data_referencia\": \"2021-12-31\",\n  \"periodo\": \"2021\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 313939,\n    \"custo_produtos_vendidos\": -177106,\n    \"lucro_bruto\": 136833,\n    \"margem_bruta_pct\": 0.4358,\n    \"despesas_operacionais\": -200749,",
+    "source_file": "20220322_Dados_Econômico_Fina_cde0cb01e662.txt",
+    "data_entrega": "2022-03-22"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2021-12-31\",\n  \"periodo\": \"4T21\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 87642,\n    \"custo_produtos_vendidos\": -52565,\n    \"lucro_bruto\": 35077,\n    \"margem_bruta_pct\": 0.40,\n    \"despesas_operacionais\": -54874,\n    \"ebitda\":",
+    "source_file": "20220322_Dados_Econômico_Fina_aa6beb4ccea0.txt",
+    "data_entrega": "2022-03-22"
+  },
+  {
+    "tipo": "ITR",
+    "data_referencia": "2022-03-31",
+    "periodo": "1T22",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 63968.0,
+      "custo_produtos_vendidos": -35881.0,
+      "lucro_bruto": 28087.0,
+      "margem_bruta_pct": 43.9,
+      "despesas_operacionais": -45293.0,
+      "ebitda": -11999.0,
+      "margem_ebitda_pct": -18.8,
+      "resultado_financeiro": 2472.0,
+      "lucro_liquido": -9918.0,
+      "margem_liquida_pct": null
+    },
+    "balanco": {
+      "caixa_equivalentes": 10130.0,
+      "aplicacoes_financeiras": 219322.0,
+      "caixa_total": null,
+      "contas_a_receber": 50980.0,
+      "estoques": 47644.0,
+      "ativo_total": 463294.0,
+      "emprestimos_cp": 5391.0,
+      "emprestimos_lp": 5493.0,
+      "divida_bruta": null,
+      "patrimonio_liquido": 470914.0,
+      "divida_liquida": null
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": -44444.0,
+      "capex": null,
+      "fcf": null
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": null,
+      "vpa": null
+    },
+    "source_file": "20220815_Dados_Econômico_Fina_b4fdf12ecdaf.txt",
+    "data_entrega": "2022-08-15"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2022-03-31\",\n  \"periodo\": \"1T22\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 68271.0,\n    \"custo_produtos_vendidos\": 35881.0,\n    \"lucro_bruto\": 32390.0,\n    \"margem_bruta_pct\": 47.4,\n    \"despesas_operacionais\": 45293.",
+    "source_file": "20220511_Dados_Econômico_Fina_9a18af167d0d.txt",
+    "data_entrega": "2022-05-11"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"ITR\",\n    \"data_referencia\": \"2022-08-15\",\n    \"periodo\": \"2T22\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 61541,\n      \"custo_produtos_vendidos\": 36036,\n      \"lucro_bruto\": 25505,\n      \"margem_bruta_pct\": 41.4,\n      \"despesas_operacionais\": 44482,",
+    "source_file": "20220815_Dados_Econômico_Fina_302cf924e9d8.txt",
+    "data_entrega": "2022-08-15"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2022-09-30\",\n  \"periodo\": \"3T22\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"trimestre\": {\n      \"receita_liquida\": 61718,\n      \"custo_produtos_vendidos\": 35021,\n      \"lucro_bruto\": 26697,\n      \"margem_bruta_pct\": 0.433,\n      \"despesas_operacionais\": 43646,",
+    "source_file": "20221111_Dados_Econômico_Fina_455073b2f096.txt",
+    "data_entrega": "2022-11-11"
+  },
+  {
+    "tipo": "DFP",
+    "data_referencia": "2022-12-31",
+    "periodo": "2022",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 256800,
+      "custo_produtos_vendidos": -148554,
+      "lucro_bruto": 108246,
+      "margem_bruta_pct": 42.15,
+      "despesas_operacionais": -192513,
+      "ebitda": null,
+      "margem_ebitda_pct": null,
+      "resultado_financeiro": 18949,
+      "lucro_liquido": -54271,
+      "margem_liquida_pct": -21.13
+    },
+    "balanco": {
+      "caixa_equivalentes": 155213,
+      "aplicacoes_financeiras": 2986,
+      "caixa_total": 158199,
+      "contas_a_receber": 60178,
+      "estoques": 38882,
+      "ativo_total": 422041,
+      "emprestimos_cp": 0,
+      "emprestimos_lp": null,
+      "divida_bruta": null,
+      "patrimonio_liquido": 308614,
+      "divida_liquida": null
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": null,
+      "capex": null,
+      "fcf": null
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": -0.4919,
+      "vpa": null
+    },
+    "source_file": "20230331_Dados_Econômico_Fina_4cb396e3e3c5.txt",
+    "data_entrega": "2023-03-31"
+  },
+  {
+    "tipo": "DFP",
+    "data_referencia": "2022-12-31",
+    "periodo": "2022",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 256800,
+      "custo_produtos_vendidos": -148554,
+      "lucro_bruto": 108246,
+      "margem_bruta_pct": 42.15,
+      "despesas_operacionais": -192513,
+      "ebitda": null,
+      "margem_ebitda_pct": null,
+      "resultado_financeiro": 18949,
+      "lucro_liquido": -54271,
+      "margem_liquida_pct": -21.13
+    },
+    "balanco": {
+      "caixa_equivalentes": 155213,
+      "aplicacoes_financeiras": 2986,
+      "caixa_total": 158199,
+      "contas_a_receber": 60178,
+      "estoques": 38882,
+      "ativo_total": 422041,
+      "emprestimos_cp": 0,
+      "emprestimos_lp": 0,
+      "divida_bruta": 30519,
+      "patrimonio_liquido": 308614,
+      "divida_liquida": -127680
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": null,
+      "capex": null,
+      "fcf": null
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": -0.4919,
+      "vpa": null
+    },
+    "source_file": "20230418_Dados_Econômico_Fina_26762986c932.txt",
+    "data_entrega": "2023-04-18"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"ITR\",\n    \"data_referencia\": \"2022-12-31\",\n    \"periodo\": \"4T22\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 69573,\n      \"custo_produtos_vendidos\": 41616,\n      \"lucro_bruto\": 27917,\n      \"margem_bruta_pct\": 40.2,\n      \"despesas_operacionais\": 59091,",
+    "source_file": "20230331_Dados_Econômico_Fina_7d2d57e59b99.txt",
+    "data_entrega": "2023-03-31"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2023-03-31\",\n  \"periodo\": \"1T23\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 44445,\n    \"custo_produtos_vendidos\": -24908,\n    \"lucro_bruto\": 19537,\n    \"margem_bruta_pct\": 0.44,\n    \"despesas_operacionais\": -36028,\n    \"ebitda",
+    "source_file": "20230515_Dados_Econômico_Fina_c2b8ed406b5f.txt",
+    "data_entrega": "2023-05-15"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"ITR\",\n    \"data_referencia\": \"2023-06-30\",\n    \"periodo\": \"2T23\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 45743,\n      \"custo_produtos_vendidos\": 25903,\n      \"lucro_bruto\": 19840,\n      \"margem_bruta_pct\": 43.4,\n      \"despesas_operacionais\": 37570,\n      \"ebit",
+    "source_file": "20230814_Dados_Econômico_Fina_da50ddcdf363.txt",
+    "data_entrega": "2023-08-14"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2023-09-30\",\n  \"periodo\": \"3T23\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"trimestre\": {\n      \"receita_liquida\": 51016,\n      \"custo_produtos_vendidos\": 29667,\n      \"lucro_bruto\": 21349,\n      \"margem_bruta_pct\": 41.8,\n      \"despesas_operacionais\": 4399",
+    "source_file": "20231114_Dados_Econômico_Fina_5ae97635b4cb.txt",
+    "data_entrega": "2023-11-14"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"ITR\",\n    \"data_referencia\": \"2023-12-31\",\n    \"periodo\": \"4T23\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 56948,\n      \"custo_produtos_vendidos\": 38040,\n      \"lucro_bruto\": 18908,\n      \"margem_bruta_pct\": 0.332,\n      \"despesas_operacionais\": 42891,\n      \"eb",
+    "source_file": "20240320_Dados_Econômico_Fina_2202289e5cad.txt",
+    "data_entrega": "2024-03-20"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"DFP\",\n  \"data_referencia\": \"2023-12-31\",\n  \"periodo\": \"2023\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 198152,\n    \"custo_produtos_vendidos\": -118518,\n    \"lucro_bruto\": 79634,\n    \"margem_bruta_pct\": 40.19,\n    \"despesas_operacionais\": -150722,",
+    "source_file": "20240320_Dados_Econômico_Fina_d1b7fabc906d.txt",
+    "data_entrega": "2024-03-20"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"DFP\",\n  \"data_referencia\": \"2023-12-31\",\n  \"periodo\": \"2023\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 198152,\n    \"custo_produtos_vendidos\": -118518,\n    \"lucro_bruto\": 79634,\n    \"margem_bruta_pct\": 40.19,\n    \"despesas_operacionais\": -160599,",
+    "source_file": "20240321_Dados_Econômico_Fina_7d6ed6b38546.txt",
+    "data_entrega": "2024-03-21"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2024-03-31\",\n  \"periodo\": \"1T24\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 40712,\n    \"custo_produtos_vendidos\": 24348,\n    \"lucro_bruto\": 16364,\n    \"margem_bruta_pct\": 40.2,\n    \"despesas_operacionais\": 37020,\n    \"ebitda\": -10591,\n    \"margem",
+    "source_file": "20240515_Dados_Econômico_Fina_0d614f24a47d.txt",
+    "data_entrega": "2024-05-15"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"ITR\",\n  \"data_referencia\": \"2024-09-30\",\n  \"periodo\": \"3T24\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"trimestre\": {\n      \"receita_liquida\": 44016,\n      \"custo_produtos_vendidos\": -25494,\n      \"lucro_bruto\": 18522,\n      \"margem_bruta_pct\": 0.421,\n      \"despesas_operacionais\": -128",
+    "source_file": "20241113_Dados_Econômico_Fina_2c68a7a4c9f9.txt",
+    "data_entrega": "2024-11-13"
+  },
+  {
+    "tipo": "DFP",
+    "data_referencia": "2024-12-31",
+    "periodo": "2024",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 167739,
+      "custo_produtos_vendidos": -100673,
+      "lucro_bruto": 67066,
+      "margem_bruta_pct": 39.98,
+      "despesas_operacionais": -119450,
+      "ebitda": -21015,
+      "margem_ebitda_pct": -12.53,
+      "resultado_financeiro": 13710,
+      "lucro_liquido": -25560,
+      "margem_liquida_pct": -15.24
+    },
+    "balanco": {
+      "caixa_equivalentes": 126936,
+      "aplicacoes_financeiras": 2503,
+      "caixa_total": 129439,
+      "contas_a_receber": 32916,
+      "estoques": 16955,
+      "ativo_total": 315028,
+      "emprestimos_cp": null,
+      "emprestimos_lp": null,
+      "divida_bruta": null,
+      "patrimonio_liquido": 230203,
+      "divida_liquida": null
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": null,
+      "capex": null,
+      "fcf": null
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": -0.2301,
+      "vpa": null
+    },
+    "source_file": "20250319_Dados_Econômico_Fina_7f96cda31cf4.txt",
+    "data_entrega": "2025-03-19"
+  },
+  {
+    "raw": "{\n  \"tipo\": \"DFP\",\n  \"data_referencia\": \"2024-12-31\",\n  \"periodo\": \"2024\",\n  \"unidade\": \"R$ mil\",\n  \"dre\": {\n    \"receita_liquida\": 167739,\n    \"custo_produtos_vendidos\": 100673,\n    \"lucro_bruto\": 67066,\n    \"margem_bruta_pct\": 0.40,\n    \"despesas_operacionais\": 106976,",
+    "source_file": "20250319_Dados_Econômico_Fina_693187f5bb89.txt",
+    "data_entrega": "2025-03-19"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"ITR\",\n    \"data_referencia\": \"2025-03-31\",\n    \"periodo\": \"1T25\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 33369,\n      \"custo_produtos_vendidos\": -19785,\n      \"lucro_bruto\": 13584,\n      \"margem_bruta_pct\": 40.7,\n      \"despesas_operacionais\": -25387,\n      \"",
+    "source_file": "20250514_Dados_Econômico_Fina_227f850f7f9a.txt",
+    "data_entrega": "2025-05-14"
+  },
+  {
+    "tipo": "ITR",
+    "data_referencia": "2025-12-31",
+    "periodo": "4T25",
+    "unidade": "R$ mil",
+    "dre": {
+      "receita_liquida": 45938,
+      "custo_produtos_vendidos": -29101,
+      "lucro_bruto": 16837,
+      "margem_bruta_pct": 36.7,
+      "despesas_operacionais": -23224,
+      "ebitda": -3215,
+      "margem_ebitda_pct": -7.0,
+      "resultado_financeiro": 5916,
+      "lucro_liquido": -399,
+      "margem_liquida_pct": -0.9
+    },
+    "balanco": {
+      "caixa_equivalentes": 121348,
+      "aplicacoes_financeiras": null,
+      "caixa_total": 121348,
+      "contas_a_receber": 26815,
+      "estoques": 21944,
+      "ativo_total": 307039,
+      "emprestimos_cp": null,
+      "emprestimos_lp": null,
+      "divida_bruta": null,
+      "patrimonio_liquido": 220337,
+      "divida_liquida": null
+    },
+    "fluxo_caixa": {
+      "caixa_operacional": 3287,
+      "capex": -2344,
+      "fcf": null
+    },
+    "indicadores": {
+      "acoes_circulacao": null,
+      "lpa": null,
+      "vpa": null
+    },
+    "source_file": "20260319_Dados_Econômico_Fina_5be6ba947f6e.txt",
+    "data_entrega": "2026-03-19"
+  },
+  {
+    "raw": "[\n  {\n    \"tipo\": \"DFP\",\n    \"data_referencia\": \"2025-12-31\",\n    \"periodo\": \"2025\",\n    \"unidade\": \"R$ mil\",\n    \"dre\": {\n      \"receita_liquida\": 150962,\n      \"custo_produtos_vendidos\": -91297,\n      \"lucro_bruto\": 59665,\n      \"margem_bruta_pct\": 39.52,\n      \"despesas_operacionais\": -89839,",
+    "source_file": "20260319_Dados_Econômico_Fina_cdc5de1b6e67.txt",
+    "data_entrega": "2026-03-19"
+  }
+]

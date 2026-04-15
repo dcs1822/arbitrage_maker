@@ -1,0 +1,535 @@
+================================================================================
+  TIMELINE DE ALERTAS — WESTWING (WEST3)
+  Backtest Integrado: Evento + Tese do Agente de Avaliacao
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+  2021Q3 | Tese vigente: 2021-06-30 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+  !!! [ 7] 2021-08-10 | Comunicado ao Mercado
+       WESTWING: Busca por Sócio Estratégico em Pauta
+       Acao: investigar | Relacao: novo_fator
+       A Westwing confirmou que monitora oportunidades de operações
+       societárias, após notícia do Valor Econômico. Embora não haja acordo
+       concreto, a sinalização de abertura para M&A é relevante para uma
+       empresa com múltiplos elevados e riscos de governança. Isso pode
+       indicar uma tentativa de destravar valor ou uma dificuldade em
+       justificar o valuation atual, exigindo monitoramento atento.
+       Valuation: Potencial para um evento de M&A que pode gerar prêmio ou diluição, dependendo dos termos. Não altera
+       Governanca: A busca por um sócio pode ser vista como uma tentativa de estabilizar a gestão ou de trazer um parce
+       Proximo passo: Monitorar de perto novos comunicados da CVM e notícias de mercado sobre possíveis negociações ou acordos. Avaliar o perf
+
+      [ ?] 2021-08-13 | Comunicado ao Mercado
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+  !!! [ 8] 2021-09-28 | Fato Relevante
+       WEST3: Aquisição da Zarpo levanta sérias dúvidas sobre estratégia e valuation
+       Acao: investigar | Relacao: confirma
+       Westwing anunciou a aquisição da Zarpo, uma OTA. Esta expansão para um
+       setor distinto do core de casa e decoração, em um momento de múltiplos
+       já esticados e instabilidade gerencial, levanta sérias dúvidas sobre a
+       estratégia e a alocação de capital. A transação adiciona complexidade
+       e risco de execução, reforçando a tese de 'EVITAR'.
+       Triggers: Anúncio de aquisição relevante financiada com dívida, aumentando o risco financeiro sem sinergias claras.
+       Valuation: Potencial diluição de foco, aumento de dívida (se financiada assim), e dificuldade em justificar múl
+       Governanca: A decisão de uma aquisição relevante logo após a troca de CFO e um ciberataque, sem um plano de aloc
+       Proximo passo: Monitorar de perto os termos finais da aquisição (preço, forma de pagamento e financiamento) após a conclusão da due dil
+
+────────────────────────────────────────────────────────────────────────────────
+  2021Q4 | Tese vigente: 2021-06-30 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+      [ ?] 2021-10-04 | Comunicado ao Mercado
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+  !!! [ 6] 2021-12-13 | Fato Relevante
+       WEST3: Aquisição da Zarpo descontinuada; Reforça riscos de governança e execução
+       Acao: manter | Relacao: confirma
+       A Westwing anunciou a descontinuidade das negociações para a aquisição
+       da Zarpo, citando falta de consenso em elementos negociais e de
+       governança. Este evento, embora evite um potencial aumento de dívida,
+       reforça as preocupações da tese sobre a capacidade de execução da
+       gestão e a qualidade da governança corporativa. Mantemos a
+       recomendação de EVITAR.
+       Valuation: Neutro no curto prazo, pois evita potencial endividamento, mas também a possibilidade de sinergias. 
+       Governanca: Negativo. Confirma as preocupações com a instabilidade gerencial e a capacidade de execução de trans
+       Proximo passo: Monitorar próximos resultados (4T21) para sinais de desaceleração de crescimento e/ou compressão de margem, e acompanhar
+
+      [ 5] 2021-12-29 | Comunicado ao Mercado
+       WEST3: Hedge fund coreano Must Asset Management adquire 5% das ações
+       Acao: monitorar | Relacao: novo_fator
+       Um hedge fund coreano, Must Asset Management, adquiriu 5% das ações da
+       Westwing, declarando propósito de investimento puro. Embora a intenção
+       seja passiva, a entrada de um novo acionista relevante em um ambiente
+       já marcado por alta rotatividade de gestão e riscos de governança,
+       reforça o 'alto risco ativismo' da tese e merece atenção.
+       Valuation: Neutro no curto prazo. Não altera os múltiplos proibitivos ou a geração de caixa. Pode gerar volatil
+       Governanca: Aumenta a complexidade do quadro acionário e o potencial de ativismo, confirmando o 'alto risco ativ
+       Proximo passo: Monitorar a movimentação acionária da Must Asset Management. Acompanhar de perto os próximos resultados (3T21 e 4T21) pa
+
+────────────────────────────────────────────────────────────────────────────────
+  2022Q1 | Tese vigente: 2021-12-31 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+  !!  [ 7] 2022-01-26 | Fato Relevante
+       WEST3: Diretor Comercial Renuncia, Reforçando Instabilidade Gerencial
+       Acao: manter | Relacao: confirma
+       O Diretor Comercial da Westwing (WEST3) renunciou por questões
+       pessoais, com substituição interina. Este evento reforça as
+       preocupações de governança e alta rotatividade na diretoria, um dos
+       pilares da nossa tese de EVITAR. A instabilidade em posições chave
+       pode impactar a execução e a confiança do mercado. Manter a
+       recomendação de EVITAR.
+       Triggers: Novas vendas relevantes de ações pela diretoria ou a saída de outro executivo-chave.
+       Valuation: Não há impacto direto nos números de valuation (Market Cap, Caixa, Múltiplos), mas a instabilidade g
+       Governanca: Aumenta a percepção de instabilidade na gestão e reforça a baixa pontuação de governança (2/10). Adi
+       Proximo passo: Monitorar a nomeação de um novo Diretor Comercial permanente e a comunicação da empresa sobre a estratégia para a área. 
+
+  !!! [ 7] 2022-03-17 | Comunicado ao Mercado
+       Tork Capital aliena participação relevante em WEST3, eliminando potencial ativismo
+       Acao: manter | Relacao: confirma
+       A Tork Capital, mencionada como potencial investidor ativista em nossa
+       tese, comunicou a alienação de sua participação relevante na WEST3.
+       Este movimento indica uma perda de confiança institucional e remove um
+       dos poucos catalisadores positivos que poderiam impulsionar uma
+       reavaliação da ação. A tese de 'EVITAR' é reforçada.
+       Valuation: Neutro no valuation direto, mas negativo na percepção de risco e potencial de upside. A ausência de 
+       Governanca: Negativo. Embora a Tork tenha declarado que não tinha intenção de mudar o controle, sua saída de um 
+       Proximo passo: Atualizar a tese para remover a Tork Capital como um potencial investidor ativista positivo e reavaliar outros potenciai
+
+────────────────────────────────────────────────────────────────────────────────
+  2022Q2 | Tese vigente: 2021-12-31 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+      [ ?] 2022-05-12 | Comunicado ao Mercado
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+  !!! [ 8] 2022-06-20 | Fato Relevante
+       WEST3: CFO/DRI Renuncia, Reforça Instabilidade de Governança
+       Acao: manter | Relacao: confirma
+       O CFO e DRI da Westwing (WEST3) renunciou, confirmando a alta
+       rotatividade na diretoria e a instabilidade na gestão, um dos
+       principais 'red flags' da nossa tese. O Diretor de Relações com
+       Investidores atual assumirá interinamente as funções de CFO, o que
+       adiciona incerteza à sucessão e à continuidade estratégica. Mantemos a
+       recomendação de EVITAR, pois os riscos de execução e credibilidade
+       permanecem elevados.
+       Triggers: Novas vendas relevantes de ações pela diretoria ou a saída de outro executivo-chave.
+       Valuation: Neutro no curto prazo, mas contribui para o 'de-rating' contínuo e a desconexão dos múltiplos com os
+       Governanca: Negativo. Confirma a baixa pontuação de governança (2/10) e a preocupação com a rotatividade de gest
+       Proximo passo: Monitorar a nomeação de um novo CFO permanente e suas qualificações. Buscar informações adicionais sobre os motivos da r
+
+────────────────────────────────────────────────────────────────────────────────
+  2022Q3 | Tese vigente: 2022-06-30 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+  !!  [ 6] 2022-08-08 | Comunicado ao Mercado
+       WEST3: Descontinua marketplace-out para focar em rentabilidade e caixa
+       Acao: monitorar | Relacao: novo_fator
+       A Westwing anunciou a descontinuação da operação 'Mezzanine'
+       (marketplace-out) para focar em seu core business, buscando maior
+       rentabilidade e preservação de caixa. Esta medida é um primeiro passo
+       positivo para endereçar a queima de caixa e a falta de lucratividade,
+       pontos centrais da nossa tese 'EVITAR'. Recomenda-se monitorar os
+       próximos resultados para avaliar o impacto real desta decisão.
+       Valuation: Potencialmente positivo no caixa e na rentabilidade futura, o que poderia reduzir a destruição de va
+       Governanca: Neutro. A decisão mostra proatividade da gestão em reestruturar a operação, o que é positivo, mas nã
+       >>> MUDAR REC: EVITAR -> MONITORAR
+       >>> Motivo: A descontinuação da operação 'Mezzanine' demonstra um esforço da gestão para focar na rentabilidade 
+       Proximo passo: Acompanhar os próximos resultados trimestrais para verificar o impacto da descontinuação na queima de caixa e na margem 
+
+  !!! [ 8] 2022-08-15 | Fato Relevante
+       WEST3: Reapresentação de DFs por falha em receita agrava crise de credibilidade
+       Acao: manter | Relacao: confirma
+       A Westwing reapresentou as DFs do 1T22 devido a reconhecimento
+       indevido de receita por erro em script de desconto. Este evento
+       reforça as preocupações com a governança e a confiabilidade dos
+       controles internos, agravando a crise de credibilidade já mapeada.
+       Mantemos a recomendação de EVITAR, pois a instabilidade financeira e
+       operacional se aprofunda.
+       Valuation: Aumenta a incerteza sobre a qualidade dos resultados reportados, tornando qualquer análise de valuat
+       Governanca: Confirma falhas nos controles internos e na integridade da informação financeira, deteriorando ainda
+       Proximo passo: Revisar as demonstrações financeiras reapresentadas para quantificar o impacto exato na receita e lucratividade do 1T22 
+
+  !!  [ 8] 2022-08-18 | Comunicado ao Mercado
+       WEST3: Equitas reduz participação, reforçando tese de EVITAR
+       Acao: manter | Relacao: confirma
+       A Equitas Administração de Fundos de Investimentos Ltda. alienou
+       participação relevante em WEST3, reduzindo sua posição para 4,53%.
+       Este movimento de venda por um investidor institucional confirma a
+       tese de que a empresa enfrenta uma crise de credibilidade e
+       operacional, validando o bear case e a recomendação de EVITAR. O
+       mercado continua precificando corretamente o alto risco de execução.
+       Valuation: Reforça a percepção de que o baixo P/PL é uma armadilha de valor, indicando que o mercado está corre
+       Governanca: Confirma um dos red flags de governança mapeados (venda por gestoras institucionais), indicando uma 
+       Proximo passo: Monitorar a reação do preço da ação, verificar se outros investidores institucionais seguem o movimento de venda e conti
+
+────────────────────────────────────────────────────────────────────────────────
+  2022Q4 | Tese vigente: 2022-06-30 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+  !!! [ 8] 2022-11-10 | Fato Relevante
+       WESTWING (WEST3): Novo CFO endereça instabilidade na gestão, mas desafios persistem
+       Acao: monitorar | Relacao: contradiz
+       A Westwing anunciou a eleição de Marcelo Kenji como novo CFO e DRI,
+       com início em 1º de dezembro. Este movimento é positivo, pois endereça
+       a alta rotatividade na diretoria, um ponto crítico da nossa tese de
+       'EVITAR'. Embora seja um passo importante para a estabilização da
+       governança, a empresa ainda enfrenta queima de caixa e desafios
+       operacionais. Recomendamos monitorar de perto os próximos resultados e
+       as primeiras ações da nova gestão.
+       Triggers: Anúncio da contratação de um novo CFO com reputação sólida e track record comprovado no varejo/e-commerce.
+       Valuation: Não há impacto direto nos múltiplos atuais, mas a estabilização da gestão é um pré-requisito para qu
+       Governanca: Positivo. A contratação de um CFO com experiência em varejo e M&A mitiga a preocupação com a alta ro
+       >>> MUDAR REC: EVITAR -> MONITORAR
+       >>> Motivo: A contratação de um novo CFO com experiência relevante em varejo e M&A, como Marcelo Kenji, endereça
+       Proximo passo: Realizar due diligence aprofundada sobre o histórico de Marcelo Kenji nas empresas anteriores (MOB e La Guapa) e sua rep
+
+  !!! [ 7] 2022-11-17 | Comunicado ao Mercado
+       Novo Acionista Relevante (WNT) Adquire 7,06% da WEST3 - Potencial para Ativismo Futuro
+       Acao: monitorar | Relacao: novo_fator
+       A WNT Gestora de Recursos Ltda. adquiriu uma participação de 7,06% na
+       Westwing. Embora a WNT declare não ter intenção de mudar a
+       administração *neste momento*, esta é uma posição relevante que pode
+       sinalizar interesse em um turnaround ou potencial ativismo futuro. Os
+       problemas operacionais e de queima de caixa da WEST3 persistem, mas a
+       presença de um novo investidor institucional merece atenção.
+       Valuation: Neutro no curto prazo, pois não altera os fundamentos de destruição de valor ou queima de caixa. Pod
+       Governanca: Potencialmente positivo no médio prazo, introduzindo um novo player com capacidade de influência. Au
+       Proximo passo: Monitorar as próximas comunicações da WNT e da WEST3. Pesquisar o histórico da WNT em outras empresas, especialmente em 
+
+────────────────────────────────────────────────────────────────────────────────
+  2023Q2 | Tese vigente: 2023-03-31 | Rec: MONITORAR
+────────────────────────────────────────────────────────────────────────────────
+
+      [ ?] 2023-05-16 | Comunicado ao Mercado
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+  !!! [ 7] 2023-06-13 | Fato Relevante
+       WEST3: Nova Rodada de Saídas na Alta Gestão e Conselho Aumenta Risco
+       Acao: reduzir | Relacao: contradiz
+       A Westwing anunciou a renúncia do Diretor Vice-Presidente e de um
+       membro independente do Conselho. Este evento ativa um trigger negativo
+       da nossa tese, reforçando a preocupação com a alta rotatividade na
+       gestão e a dificuldade de estabilizar a empresa para a reestruturação.
+       Aumenta a probabilidade do bear case, exigindo uma reavaliação da
+       posição.
+       Triggers: [-] Anúncio da renúncia do novo CFO (Marcelo Kenji) ou de outro diretor C-level.
+       Valuation: A instabilidade gerencial contínua aumenta o risco de aceleração da queima de caixa operacional, ero
+       Governanca: Confirma e agrava a baixa governança (score 2/10) devido à persistência da alta rotatividade na alta
+       >>> MUDAR REC: monitorar -> reduzir
+       >>> Motivo: A saída do Diretor Vice-Presidente e de um membro independente do Conselho, somada à alta rotativida
+       Proximo passo: Monitorar a reação do mercado e a comunicação da WNT. Buscar mais detalhes sobre os motivos das saídas e o impacto na es
+
+      [ ?] 2023-06-27 | Assembleia
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+      [ ?] 2023-06-27 | Fato Relevante
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+  !!! [ 8] 2023-06-29 | Fato Relevante
+       WEST3: CEO renuncia, CFO assume interinamente com foco em caixa
+       Acao: monitorar | Relacao: novo_fator
+       O CEO Andres Mutschler renunciou, mas permanecerá no Conselho. O CFO
+       Marcelo Kenji assume como CEO interino, com o Conselho destacando seu
+       papel na redução da queima de caixa. Este evento reforça a alta
+       rotatividade na gestão, um risco mapeado, mas a nomeação do CFO com
+       foco em caixa pode ser um sinal positivo para a tese de estancar a
+       queima. A situação de governança permanece frágil, mas a prioridade no
+       caixa é um ponto a ser observado.
+       Triggers: [-] Anúncio da renúncia do novo CFO (Marcelo Kenji) ou de outro diretor C-level.
+       Valuation: Neutro no curto prazo. A saída do CEO é um fator de instabilidade, mas a prioridade na preservação d
+       Governanca: Negativo. A renúncia do CEO contribui para a alta rotatividade na gestão (já um ponto fraco da gover
+       Proximo passo: Monitorar de perto as declarações e ações do novo CEO interino, Marcelo Kenji, especialmente em relação a planos concret
+
+────────────────────────────────────────────────────────────────────────────────
+  2023Q3 | Tese vigente: 2023-06-30 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+      [ ?] 2023-07-19 | Fato Relevante
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+  !!! [ 8] 2023-07-26 | Aviso aos Acionistas
+       WEST3: Pedido de Voto Múltiplo Intensifica Crise de Governança
+       Acao: manter | Relacao: confirma
+       Acionistas com mais de 5% do capital votante da Westwing solicitaram
+       voto múltiplo para a eleição do novo Conselho de Administração na AGE
+       de 01/08. Este movimento confirma a escalada do ativismo acionário e a
+       crise de gestão, elementos centrais da nossa tese de 'special
+       situation'. A incerteza sobre a futura governança e a capacidade de
+       reverter a queima de caixa permanece alta, reforçando a recomendação
+       de EVITAR.
+       Valuation: Indiretamente, aumenta o risco percebido e a incerteza sobre a capacidade da empresa de estancar a q
+       Governanca: Impacto direto e significativo. Confirma e intensifica o 'Risco ativismo: alto' e a 'Crise de gestão
+       Proximo passo: Monitorar de perto a AGE de 01/08/2023 para a destituição do conselho atual e a eleição dos novos membros, com foco na c
+
+  !!! [ 8] 2023-08-07 | Comunicado ao Mercado
+       WEST3: WNT aumenta participação para 32.35%, solidificando controle
+       Acao: monitorar | Relacao: confirma
+       A WNT Gestora De Recursos Ltda. comunicou ter atingido 32,35% das
+       ações ordinárias da Westwing. Este movimento solidifica a posição do
+       acionista ativista, confirmando a tese de um turnaround liderado por
+       ele. No entanto, os desafios de queima de caixa e governança ainda
+       persistem, mantendo o alto risco de execução.
+       Valuation: Neutro no curto prazo. Potencial positivo no longo prazo se o maior controle da WNT resultar em um t
+       Governanca: Reforça o controle do acionista ativista, o que pode ser um passo para resolver a crise de governanç
+       Proximo passo: Monitorar de perto os próximos anúncios da WNT e da Companhia, especialmente sobre a nomeação de um novo CEO e diretoria
+
+      [ ?] 2023-08-07 | Aviso aos Acionistas
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+  !!! [ 8] 2023-08-10 | Comunicado ao Mercado
+       Kapitalo Investimentos Reduz Participação Relevante em WEST3
+       Acao: manter | Relacao: confirma
+       A Kapitalo Investimentos Ltda. comunicou a alienação de sua
+       participação relevante em WEST3, reduzindo-a para aproximadamente
+       2.41%. Este movimento de um investidor institucional em meio à crise
+       de governança e alto risco de execução da empresa reforça a tese de
+       EVITAR, sinalizando uma falta de confiança na capacidade da nova
+       gestão de reverter a queima de caixa.
+       Valuation: Não afeta diretamente o valuation (Market Cap, Caixa Líquido), mas pode gerar pressão vendedora no c
+       Governanca: Neutro a ligeiramente negativo. Embora a Kapitalo afirmasse ter um objetivo estritamente de investim
+       Proximo passo: Monitorar o fluxo de notícias sobre a nomeação de um novo CEO e diretoria, bem como a divulgação dos resultados do 2T23 
+
+  !!  [ 7] 2023-08-11 | Comunicado ao Mercado
+       WEST3: WNT Aumenta Participação para 37,60%, Reforçando Controle Acionista
+       Acao: monitorar | Relacao: confirma
+       A WNT Gestora de Recursos Ltda. comunicou ter atingido 37,60% das
+       ações ordinárias da Westwing. Este movimento solidifica a posição do
+       acionista ativista, confirmando seu comprometimento com o turnaround
+       da companhia. Embora não resolva os problemas de queima de caixa e
+       governança, indica uma consolidação do controle que pode acelerar
+       futuras decisões estratégicas.
+       Valuation: Nenhum impacto direto imediato nos múltiplos ou no caixa. O impacto será indireto, dependendo da cap
+       Governanca: Positivamente, consolida o controle do acionista ativista, o que pode levar a uma governança mais es
+       Proximo passo: Monitorar de perto os próximos comunicados da companhia e da WNT, especialmente em relação à nomeação de nova diretoria 
+
+  !!! [ 7] 2023-09-06 | Aviso aos Acionistas
+       WEST3: Ativista pede voto múltiplo para eleição do Conselho
+       Acao: monitorar | Relacao: confirma
+       O acionista ativista da Westwing (WNT) solicitou a adoção de voto
+       múltiplo para a eleição do Conselho de Administração na AGE de 15/09.
+       Este movimento confirma a tese de special situation e a intenção do
+       ativista em influenciar a governança e a futura gestão. Acompanhar de
+       perto a composição do novo conselho e os próximos passos da
+       reestruturação.
+       Valuation: Neutro no curto prazo, mas aumenta a probabilidade de um turnaround que poderia impactar positivamen
+       Governanca: Positivo, pois o voto múltiplo permite maior representatividade de minoritários e do acionista ativi
+       >>> MUDAR REC: EVITAR -> MONITORAR
+       >>> Motivo: O pedido de voto múltiplo pelo acionista ativista confirma a intensificação da special situation e a
+       Proximo passo: Acompanhar a Assembleia Geral Extraordinária de 15 de setembro de 2023 para verificar a composição do novo Conselho de A
+
+────────────────────────────────────────────────────────────────────────────────
+  2023Q4 | Tese vigente: 2023-09-30 | Rec: MONITORAR
+────────────────────────────────────────────────────────────────────────────────
+
+      [ ?] 2023-10-26 | Assembleia
+       (sem titulo)
+       Acao: ? | Relacao: ?
+
+────────────────────────────────────────────────────────────────────────────────
+  2024Q1 | Tese vigente: 2023-12-31 | Rec: ?
+────────────────────────────────────────────────────────────────────────────────
+
+  !!  [ 7] 2024-02-05 | Fato Relevante
+       WEST3: CTO Renuncia Após 10 Anos; Risco de Descontinuidade Tecnológica
+       Acao: investigar | Relacao: novo_fator
+       O CTO da Westwing, Arthur Staudt, renunciou após mais de 10 anos na
+       Companhia. Esta saída é relevante para uma varejista digital e pode
+       indicar descontinuidade na estratégia tecnológica. É crucial
+       investigar o plano de sucessão e o impacto potencial nas operações e
+       projetos futuros.
+       Valuation: Potencial impacto negativo na eficiência operacional, capacidade de inovação e execução de projetos 
+       Governanca: Saída de executivo chave com longa tenure pode levantar questões sobre a estabilidade da gestão e o 
+       >>> MUDAR REC: Não Definida -> Investigar
+       >>> Motivo: A renúncia do CTO, que estava na empresa há mais de 10 anos, é um evento relevante para uma varejist
+       Proximo passo: Entrar em contato com o Diretor de Relações com Investidores para entender o plano de sucessão, a estrutura do time de t
+
+────────────────────────────────────────────────────────────────────────────────
+  2024Q4 | Tese vigente: 2024-06-30 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+  !!! [ 7] 2024-12-13 | Fato Relevante
+       WEST3: Grupamento de Ações Confirma Sinais de Dificuldade e 'Value Trap'
+       Acao: manter | Relacao: confirma
+       A Westwing anunciou um grupamento de ações (10:1) para elevar o preço
+       da ação acima de R$1,00, em conformidade com as regras da B3. Este
+       movimento, embora técnico, reforça a tese de que a empresa enfrenta
+       sérias dificuldades e é uma 'value trap', sem abordar os problemas
+       fundamentais de queima de caixa e governança. A recomendação de EVITAR
+       é mantida, e a situação deve ser monitorada de perto.
+       Valuation: Não altera o Market Cap ou o valor intrínseco da empresa. É uma medida cosmética que não resolve a q
+       Governanca: A necessidade de um grupamento para cumprir regras da B3 pode ser vista como mais um sinal de má ges
+       Proximo passo: Monitorar a efetivação do grupamento e a negociação das ações 'ex-grupamento'. Aguardar a divulgação de resultados finan
+
+────────────────────────────────────────────────────────────────────────────────
+  2025Q1 | Tese vigente: 2024-12-31 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+      [ 6] 2025-01-15 | Aviso aos Acionistas
+       WEST3: Grupamento de Ações Concluído - Confirmação de Distress
+       Acao: manter | Relacao: confirma
+       A Westwing (WEST3) concluiu o grupamento de ações na proporção 10:1,
+       com negociação das ações grupadas a partir de 16 de janeiro de 2025.
+       Este evento, já antecipado e mapeado em nossa tese, reforça o cenário
+       de 'distress' financeiro e os severos problemas de governança da
+       companhia. A recomendação de EVITAR é mantida, pois o caso continua
+       sendo um 'value trap' de alto risco devido à queima de caixa e
+       conflitos.
+       Valuation: Neutro no curto prazo, pois o grupamento não altera o valor de mercado ou o caixa líquido diretament
+       Governanca: Confirma a baixa qualidade da governança (score 2/10) e o alto risco de ativismo/distress, conforme 
+       Proximo passo: Monitorar os próximos resultados trimestrais para avaliar a queima de caixa e a evolução dos conflitos de governança, qu
+
+────────────────────────────────────────────────────────────────────────────────
+  2025Q2 | Tese vigente: 2024-12-31 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+      [ 5] 2025-05-20 | Fato Relevante
+       WEST3: Nova Mudança no Conselho de Administração Reforça Instabilidade de Governança
+       Acao: monitorar | Relacao: confirma
+       A Westwing anunciou a renúncia de um membro do Conselho de
+       Administração e a eleição de um novo, com perfil em IA e
+       desenvolvimento. Este evento, embora seja uma alteração na diretoria,
+       não vem acompanhado de um plano claro de alocação de capital para
+       destravar o valor do caixa, conforme esperado pelo trigger positivo.
+       Pelo contrário, reforça a alta rotatividade na gestão e os riscos de
+       governança já mapeados na tese.
+       Valuation: Neutro no curto prazo. O perfil do novo conselheiro pode sinalizar futuras iniciativas de tecnologia
+       Governanca: Negativo. A rotatividade no conselho, mesmo que por iniciativa própria, contribui para a percepção d
+       Proximo passo: Monitorar próximos comunicados da companhia sobre a estratégia do novo conselho e a alocação de capital. Acompanhar os r
+
+────────────────────────────────────────────────────────────────────────────────
+  2025Q3 | Tese vigente: 2025-06-30 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+  !!  [ 7] 2025-08-20 | Fato Relevante
+       WEST3: Novo CEO eleito, potencial para turnaround e melhoria de governança
+       Acao: investigar | Relacao: contradiz
+       A Westwing elegeu André Machado como novo CEO, separando o cargo de
+       CFO/DRI. André possui experiência relevante em Investment Banking e
+       como CEO, com foco declarado em rentabilidade e crescimento. Este
+       movimento é um sinal positivo que endereça a instabilidade na gestão e
+       a pressão ativista, podendo ser o início de um turnaround. É crucial
+       monitorar as primeiras ações e resultados sob a nova liderança.
+       Valuation: Nenhum impacto direto imediato nos múltiplos ou caixa, mas potencialmente positivo a longo prazo se 
+       Governanca: Positivo. A separação dos cargos de CEO, CFO e DRI melhora a estrutura de governança. A entrada de u
+       >>> MUDAR REC: EVITAR -> INVESTIGAR
+       >>> Motivo: A eleição de um novo CEO dedicado, com experiência relevante e foco em rentabilidade e crescimento, 
+       Proximo passo: Agendar call com o novo DRI (Marcelo Kenji) para entender a visão e os planos iniciais do novo CEO. Monitorar de perto a
+
+────────────────────────────────────────────────────────────────────────────────
+  2026Q1 | Tese vigente: 2025-12-31 | Rec: EVITAR
+────────────────────────────────────────────────────────────────────────────────
+
+  !!! [ 8] 2026-01-09 | Fato Relevante
+       WEST3: Diretor de Operações e Tecnologia Renuncia, Aumentando Instabilidade na Gestão
+       Acao: manter | Relacao: confirma
+       A renúncia do Diretor de Operações e Tecnologia da Westwing, Sr.
+       Felipe Jardim, reforça a alta rotatividade na gestão, um ponto crítico
+       da nossa tese de 'EVITAR'. O CEO assumir a área de tecnologia adiciona
+       mais responsabilidades em um momento de turnaround, elevando o risco
+       de execução. Este evento aumenta a incerteza sobre a capacidade da
+       empresa de estancar a queima de caixa e reverter o cenário
+       operacional.
+       Valuation: Indireto. Aumenta o risco de execução do turnaround, o que pode acelerar a queima de caixa e erodir 
+       Governanca: Negativo. Confirma a alta rotatividade no C-level, um dos principais pontos de preocupação (score 2/
+       Proximo passo: Monitorar a comunicação da empresa sobre a reestruturação das áreas de Operações e Tecnologia e a busca por um novo líde
+
+  !!! [ 8] 2026-01-20 | Fato Relevante
+       Mastercard assume 31.87% de WEST3 via dívida e anuncia venda
+       Acao: manter | Relacao: novo_fator
+       Mastercard adquiriu 31.87% das ações de WEST3 via excussão de
+       alienação fiduciária e anunciou que venderá a participação. Este
+       evento cria um overhang significativo no papel, aumentando a incerteza
+       sobre a governança e a realização de valor do caixa, reforçando a tese
+       de EVITAR.
+       Valuation: A venda forçada de um bloco tão grande de ações (31.87%) pode gerar pressão vendedora substancial, p
+       Governanca: A entrada e saída forçada de um acionista relevante (mesmo que temporário e passivo) adiciona uma ca
+       Proximo passo: Monitorar de perto o processo de venda das ações pela Mastercard e seu impacto no preço de WEST3. Investigar a origem da
+
+  !!! [ 8] 2026-01-27 | Comunicado ao Mercado
+       WEST3: Novos Acionistas Ativistas Adquirem Participação Relevante e Buscam Assento no Conselho
+       Acao: investigar | Relacao: confirma
+       Hix Investimentos (8.70%) e BlueOak Investments Asset (6.62%)
+       declararam aquisição de participação relevante na Westwing,
+       totalizando 15.32% do capital. Ambos manifestaram intenção de
+       colaborar ativamente com a gestão e eleger membros para o Conselho de
+       Administração. Este movimento intensifica o cenário de ativismo
+       acionário, podendo acelerar a busca por soluções para a queima de
+       caixa e o destravamento do valor do balanço.
+       Valuation: Potencialmente positivo, pois a pressão ativista pode reduzir o risco de destruição do caixa operaci
+       Governanca: Positivo. Aumenta a pressão sobre a gestão e o conselho para endereçar os problemas operacionais e d
+       >>> MUDAR REC: EVITAR -> INVESTIGAR
+       >>> Motivo: A entrada de dois novos acionistas ativistas com participação relevante (totalizando 15.32% do capit
+       Proximo passo: Pesquisar o histórico e a filosofia de investimento da Hix Investimentos e da BlueOak Investments Asset, bem como analis
+
+  !!! [ 9] 2026-03-18 | Comunicado ao Mercado
+       Oriz Asset adquire 32.15% da Westwing e busca assento no Conselho
+       Acao: investigar | Relacao: confirma
+       Oriz Asset Management se tornou acionista relevante da Westwing,
+       detendo 32,15% das ações e manifestando intenção de eleger
+       conselheiros. Este movimento aumenta significativamente a pressão por
+       mudanças na gestão e estratégia, podendo destravar valor do caixa.
+       Acompanhar de perto os próximos passos da Oriz e a reação da gestão é
+       crucial.
+       Valuation: Não há impacto direto no valuation atual, mas a entrada de um acionista ativista pode aumentar a pro
+       Governanca: Impacto potencialmente positivo na governança. A entrada de um acionista relevante com intenção de p
+       >>> MUDAR REC: EVITAR -> MONITORAR
+       >>> Motivo: A entrada de um acionista relevante (Oriz Asset Management) com 32,15% do capital e a intenção de el
+       Proximo passo: Monitorar comunicados subsequentes da Oriz ou da Westwing sobre a eleição de conselheiros. Buscar contato com a Oriz par
+
+  !!! [ 8] 2026-03-18 | Comunicado ao Mercado
+       WEST3: FIP Oikos aliena 25,5% da participação; novo investidor assume bloco relevante
+       Acao: investigar | Relacao: confirma
+       FIP Oikos vendeu sua participação de 25,5% na Westwing para Oriz
+       Albright FIP. Esta alienação de um bloco relevante de ações por um
+       investidor que não visava controle pode indicar falta de confiança na
+       tese de turnaround e reforça a percepção de risco. É crucial
+       investigar as intenções do novo acionista, Oriz Albright, e seu
+       potencial impacto na governança e estratégia da companhia,
+       especialmente dado o alto risco de ativismo e a queima de caixa.
+       Valuation: Não há impacto direto imediato no valuation, que se baseia no caixa líquido e no EV negativo. No ent
+       Governanca: Aumenta a incerteza na governança. Embora o FIP Oikos não fosse ativista, a entrada de um novo acion
+       Proximo passo: Pesquisar o perfil e histórico da Oriz Asset Management Ltda. e do ORIZ ALBRIGHT FIP para entender suas estratégias de i
+
+  !!! [ 9] 2026-03-22 | Fato Relevante
+       WEST3: Proposta de Redução de Capital de R$60M - Destravando Valor do Caixa
+       Acao: monitorar | Relacao: confirma
+       Westwing propôs uma redução de capital de R$60M com restituição em
+       dinheiro aos acionistas, citando capital excessivo. Este movimento
+       valida nossa tese de que o valor da empresa reside no balanço e
+       representa um destravamento significativo de valor, mitigando o risco
+       de queima de caixa. A recomendação muda de EVITAR para MONITORAR, mas
+       os riscos operacionais persistem.
+       Triggers: Anúncio de um programa de recompra de ações ou pagamento de dividendos extraordinários.
+       Valuation: Reduz o caixa líquido da empresa em R$60M, mas deve reduzir o desconto do Market Cap sobre o caixa e
+       Governanca: Positivo. Sinaliza um foco na criação de valor para o acionista e pode ser resultado da pressão ativ
+       >>> MUDAR REC: EVITAR -> MONITORAR
+       >>> Motivo: A proposta de redução de capital com restituição em dinheiro valida a tese de valor do balanço e o p
+       Proximo passo: Atualizar o modelo de valuation para refletir a redução de capital e o novo caixa líquido. Analisar o impacto na estrutu
+
+  !!! [ 7] 2026-03-24 | Fato Relevante
+       WEST3: Nova Mudança na Diretoria Reforça Instabilidade na Gestão
+       Acao: manter | Relacao: confirma
+       A Westwing anunciou a destituição do CFO/IRO e a nomeação de
+       interinos, com o CEO acumulando a função de RI. Este é mais um sinal
+       de alta rotatividade na gestão, um ponto crítico da nossa tese de
+       'EVITAR'. A instabilidade na governança aumenta o risco de destruição
+       de valor e dificulta a execução de um turnaround.
+       Valuation: Não há impacto direto no valuation atual, que já precifica um EV negativo e risco de queima de caixa
+       Governanca: Confirma e agrava a preocupação com a alta rotatividade na gestão e a instabilidade na governança, u
+       Proximo passo: Monitorar a performance operacional nos próximos trimestres para verificar se a instabilidade gerencial impacta a queima
+
+================================================================================
+  Total: 40 alertas
+================================================================================

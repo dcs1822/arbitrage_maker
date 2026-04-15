@@ -1,0 +1,617 @@
+[
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 3,
+    "tipo_oportunidade": "nenhum",
+    "resumo": "A gestora Kapitalo atingiu participação relevante de 5,27% no capital da Westwing, logo após o IPO da companhia. A gestora declarou que o investimento não visa alterar o controle ou a estrutura administrativa.",
+    "justificativa": "A aquisição de uma participação relevante pela Kapitalo, uma gestora de renome, imediatamente após o IPO da Westwing (posição de 11/02/2021) é um sinal de confiança na tese de investimento da companhia. Embora declarada como passiva, a movimentação de um investidor qualificado como este deve ser monitorada para identificar potenciais futuras influências ou o início de uma tese de investimento mais ampla no setor.",
+    "flags_detectadas": [
+      "AUMENTO_POSICAO_RELEVANTE",
+      "INVESTIDOR_QUALIFICADO"
+    ],
+    "proximo_passo": "Monitorar futuras comunicações de participação relevante da Kapitalo ou de outras gestoras. Iniciar o mapeamento da base acionária pós-IPO da Westwing.",
+    "confianca": "alta",
+    "input_data": "2021-02-15",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 6
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 6,
+    "tipo_oportunidade": "nenhum",
+    "resumo": "A Westwing reportou ter sido vítima de um ataque cibernético do tipo ransomware, que tornou alguns sistemas indisponíveis. A empresa afirma que dados financeiros de clientes não foram comprometidos e que a operação segue normalmente.",
+    "justificativa": "Para uma empresa de e-commerce em fase de alto crescimento (GMV +96% em 2020), a integridade e disponibilidade de seus sistemas de TI são críticas. Embora a empresa afirme que a operação não foi afetada e dados sensíveis de clientes não foram expostos, o incidente representa um risco operacional e reputacional relevante que pode impactar a confiança do consumidor e dos investidores institucionais que recentemente montaram posições relevantes.",
+    "flags_detectadas": [
+      "incidente_cibernetico",
+      "ataque_cibernetico",
+      "ransomware",
+      "risco_operacional",
+      "vazamento_de_dados"
+    ],
+    "proximo_passo": "Monitorar os próximos comunicados da empresa sobre a extensão do incidente, os custos de remediação e qualquer impacto potencial nas operações ou resultados financeiros. Observar a reação do mercado ao Fato Relevante.",
+    "confianca": "alta",
+    "input_data": "2021-04-19",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Incidente Cibernético",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 6,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Westwing anuncia a contratação de Thiago Deiab, ex-CFO da Samsonite e Starbucks, como novo Diretor Financeiro e de RI. Os cargos eram anteriormente acumulados pelo CEO e pelo VP de Operações, que permanecem em suas funções principais.",
+    "justificativa": "A mudança representa uma profissionalização da gestão e melhoria na governança corporativa, um movimento positivo para uma empresa recém-listada na bolsa. A contratação de um executivo com vasta experiência em finanças no varejo (Samsonite, Starbucks) fortalece a diretoria, especialmente após a divulgação de fortes resultados em 2020 e o recente interesse de investidores institucionais.",
+    "flags_detectadas": [
+      "mudanca_diretoria",
+      "governanca_corporativa",
+      "contratacao_executivo"
+    ],
+    "proximo_passo": "Atualizar o perfil da diretoria da empresa e monitorar a próxima teleconferência de resultados para avaliar as primeiras declarações e a estratégia do novo CFO.",
+    "confianca": "alta",
+    "input_data": "2021-04-22",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Eleição de CFO e DRI",
+    "input_severidade_triage": 6
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 4,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A gestora sul-coreana Must Asset Management adquiriu uma participação relevante de 5,002% na Westwing, declarando que o objetivo é de puro investimento e não visa alterar o controle ou a estrutura administrativa.",
+    "justificativa": "Este evento é relevante pois adiciona um novo investidor institucional, e estrangeiro, à base acionária da Westwing, que já viu movimentações relevantes de outros fundos como Tork Capital e Equitas em 2021. Embora a intenção declarada seja passiva, a contínua entrada de gestoras pode sinalizar uma percepção de valor no ativo e aumentar a possibilidade de futuras discussões estratégicas ou de governança.",
+    "flags_detectadas": [
+      "aquisicao_participacao_relevante"
+    ],
+    "proximo_passo": "Monitorar futuras movimentações na base acionária e pesquisar o histórico e o estilo de investimento da Must Asset Management para entender se possuem um perfil ativista em outros investimentos.",
+    "confianca": "alta",
+    "input_data": "2021-12-29",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 5
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 1,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Westwing comunicou a data de sua Assembleia Geral Ordinária (AGO) para 26 de abril de 2022, em um aviso de rotina ao mercado.",
+    "justificativa": "Este é um comunicado meramente informativo e procedural, sem impacto imediato no preço do ativo. A relevância está no evento futuro (a AGO), que será uma oportunidade para a administração apresentar resultados e planos estratégicos, especialmente após a recente descontinuidade da aquisição da Zarpo. No entanto, este documento específico não contém nenhuma informação nova ou acionável.",
+    "flags_detectadas": [
+      "agendamento_assembleia"
+    ],
+    "proximo_passo": "Aguardar a divulgação da Proposta da Administração para a AGO, que conterá a pauta e os materiais para deliberação, para analisar possíveis mudanças na estratégia, governança ou remuneração.",
+    "confianca": "alta",
+    "input_data": "2022-01-14",
+    "input_categoria": "Aviso aos Acionistas",
+    "input_assunto": "Informações sobre a Assembleia Geral Ordinária de 2022",
+    "input_severidade_triage": 3
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 6,
+    "tipo_oportunidade": "governanca",
+    "resumo": "O Diretor Comercial da Westwing, Ricardo Romano, renunciou ao cargo por motivos pessoais, com o CEO, Andres Mutschler, assumindo a função interinamente.",
+    "justificativa": "A renúncia é relevante por ocorrer apenas um mês após a descontinuidade das negociações para aquisição da Zarpo (fato relevante de 13/12/2021), o que pode sinalizar instabilidade interna ou desalinhamento sobre a direção estratégica da companhia. A saída de um executivo C-level chave após um revés estratégico importante é um sinal de alerta sobre a governança e a execução.",
+    "flags_detectadas": [
+      "renunciadiretoria",
+      "risco_governanca",
+      "instabilidade_gestao"
+    ],
+    "proximo_passo": "Investigar as razões subjacentes à renúncia, monitorar notícias sobre o executivo e a empresa, e aguardar a nomeação de um substituto permanente. Analisar a próxima teleconferência de resultados para obter mais detalhes sobre a estratégia comercial.",
+    "confianca": "alta",
+    "input_data": "2022-01-26",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Renúncia de Diretor Estatutário",
+    "input_severidade_triage": 4
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 4,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Tork Capital Gestão de Recursos Ltda. comunicou a alienação de sua participação acionária relevante na Westwing, indicando que sua posição caiu abaixo do patamar de 5%.",
+    "justificativa": "A Tork Capital havia adquirido uma participação relevante de 6,46% em 23 de fevereiro de 2021, logo após o IPO da companhia. A venda dessa posição, cerca de um ano depois e três meses após o cancelamento da aquisição estratégica da Zarpo (dezembro de 2021), pode sinalizar uma reavaliação da tese de investimento por parte de um acionista institucional, o que é um ponto de atenção para a percepção do mercado.",
+    "flags_detectadas": [
+      "alienacao_participacao_relevante"
+    ],
+    "proximo_passo": "Monitorar futuras movimentações na base acionária para identificar se outros fundos que entraram no IPO estão seguindo a mesma tendência de saída. Observar o volume de negociação e o comportamento do preço da ação nos dias seguintes ao comunicado.",
+    "confianca": "alta",
+    "input_data": "2022-03-17",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 5
+  },
+  {
+    "raw": "",
+    "input_data": "2022-05-03",
+    "input_categoria": "Assembleia",
+    "input_assunto": "Mapa de Votação Final Detalhado",
+    "input_severidade_triage": 3
+  },
+  {
+    "raw": "",
+    "input_data": "2022-05-12",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 8,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Westwing comunicou a renúncia do seu CFO e Diretor de Relações com Investidores, Thiago Deiab. O CEO, Andres Mutschler, acumulará as funções interinamente.",
+    "justificativa": "Esta é a segunda renúncia de um diretor estatutário em menos de seis meses, seguindo a saída do Diretor Comercial em 26 de janeiro de 2022. A acumulação de funções críticas (CEO, CFO, DRI e Comercial) pelo Sr. Andres Mutschler representa um risco de governança significativo e pode sinalizar instabilidade interna ou dificuldades na execução da estratégia. A curta permanência de Thiago Deiab no cargo (aprox. 14 meses, desde abril de 2021) agrava a preocupação.",
+    "flags_detectadas": [
+      "renunciadiretoria",
+      "governanca",
+      "risco_concentracao_gestao",
+      "instabilidade_c-level"
+    ],
+    "proximo_passo": "Monitorar a divulgação dos próximos resultados trimestrais para avaliar o impacto da instabilidade da gestão na performance financeira. Investigar o tempo para a nomeação de substitutos permanentes e analisar o perfil dos novos executivos. Acompanhar qualquer nova movimentação acionária relevante que possa ser uma reação a esta mudança.",
+    "confianca": "alta",
+    "input_data": "2022-06-20",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Renúncia CFO e DRI",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 5,
+    "tipo_oportunidade": "evento_corporativo",
+    "resumo": "Westwing descontinua sua operação de marketplace-out ('Mezzanine') para focar em seus canais proprietários (Club, Now, Stores), visando maior rentabilidade e preservação de caixa.",
+    "justificativa": "A decisão está alinhada com a estratégia de foco em rentabilidade já sinalizada nos resultados do 1T22, que mostraram melhora na Margem Bruta (+1,6pp a.a.) apesar da queda no GMV (-2,9%). A descontinuidade de uma operação não-core reforça o compromisso da gestão, em um período de transição com a recente renúncia do CFO/DRI (2022-06-20), em otimizar a alocação de capital e simplificar o negócio.",
+    "flags_detectadas": [
+      "reestruturacao_operacional",
+      "foco_rentabilidade",
+      "desinvestimento"
+    ],
+    "proximo_passo": "Analisar o impacto financeiro desta descontinuidade nos próximos resultados trimestrais (2T22 e 3T22), observando especificamente a evolução da Margem Bruta, despesas operacionais (SG&A) e geração de caixa.",
+    "confianca": "alta",
+    "input_data": "2022-08-08",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "Descontinuidade do marketplace-out",
+    "input_severidade_triage": 5
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 4,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Westwing adiou em poucos dias a divulgação dos resultados do 2T22 para 15 de agosto e a teleconferência para 16 de agosto. Embora seja um atraso curto, o evento merece atenção.",
+    "justificativa": "O adiamento ocorre menos de dois meses após a renúncia do Diretor Financeiro e de RI (20/06/2022), com o CEO, Andres Mutschler, acumulando interinamente as funções. Este atraso, mesmo que breve, pode sinalizar sobrecarga na gestão ou dificuldades no processo de fechamento contábil, levantando uma bandeira amarela sobre a estabilidade da área financeira e a governança corporativa.",
+    "flags_detectadas": [
+      "atraso_divulgacao_resultados",
+      "governanca"
+    ],
+    "proximo_passo": "Monitorar a divulgação dos resultados na nova data (15/08) e a teleconferência (16/08). Analisar com atenção os números reportados e, principalmente, a seção de comentários da administração e as perguntas na teleconferência para qualquer sinal de instabilidade ou problemas operacionais.",
+    "confianca": "alta",
+    "input_data": "2022-08-11",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 3
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 8,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Westwing está reapresentando seus resultados do 1T22 devido a um erro que causou reconhecimento indevido de receita. Este evento levanta sérias preocupações sobre os controles internos da empresa, especialmente por ocorrer logo após a renúncia do Diretor Financeiro.",
+    "justificativa": "A reapresentação de demonstrações financeiras é um evento de alta severidade que abala a confiança do mercado. A relevância é amplificada pelo contexto recente: a renúncia do CFO e DRI, Thiago Deiab, em 20 de junho de 2022. A proximidade dos eventos sugere uma potencial fragilidade nos controles financeiros e de governança, apesar da empresa atribuir o erro a uma falha técnica ('script de programação') e ter um relatório de revisão sem ressalvas dos auditores sobre os números corrigidos.",
+    "flags_detectadas": [
+      "reapresentacao_df",
+      "fragilidade_controles_internos",
+      "governanca"
+    ],
+    "proximo_passo": "Localizar imediatamente o ITR do 1T22 reapresentado no site da CVM ou de RI da empresa. Realizar uma análise comparativa ('de-para') entre os números originais e os reapresentados para quantificar o impacto na receita, margens e lucro. Avaliar a magnitude do ajuste para determinar se foi um erro pontual ou um problema sistêmico.",
+    "confianca": "alta",
+    "input_data": "2022-08-15",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Reapresentação DFs 1T22",
+    "input_severidade_triage": 6
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 6,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Equitas, um investidor institucional relevante, comunicou a alienação de parte de sua participação na Westwing, reduzindo sua posição para 4,53%, abaixo do limiar de 5%. Este movimento pode sinalizar uma diminuição da confiança no ativo por parte de um investidor qualificado.",
+    "justificativa": "A saída da Equitas de uma posição relevante (originalmente 7,03% em fev/2021) não é um evento isolado. Ele segue um padrão de desinvestimento institucional, como a alienação completa da Tork Capital em março de 2022. Ocorrido após resultados mistos no 1T22 e a recente renúncia do CFO/DRI em junho de 2022, este movimento reforça a percepção de risco e incerteza sobre a governança e a estratégia de turnaround da companhia.",
+    "flags_detectadas": [
+      "alienacao_participacao",
+      "desinvestimento_institucional"
+    ],
+    "proximo_passo": "Monitorar a posição acionária de outros fundos institucionais relevantes, como a Must Asset Management e a Kapitalo, para verificar se esta é uma tendência de desinvestimento mais ampla. Analisar o volume de negociação e a pressão vendedora sobre o ticker WEST3 nos próximos pregões.",
+    "confianca": "alta",
+    "input_data": "2022-08-18",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 6
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 8,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Westwing anuncia a renúncia de seu Chief Technology Officer (CTO), Eughenio Constantino. Esta é a segunda renúncia de um diretor estatutário C-level em um período de aproximadamente 70 dias, sinalizando potencial instabilidade na alta gestão.",
+    "justificativa": "Esta renúncia é altamente relevante pois ocorre logo após a saída do Diretor Financeiro e de RI em 20 de junho de 2022. A alta rotatividade no C-level, com duas saídas importantes em um curto período, levanta sérias questões sobre a governança corporativa, a estabilidade da equipe de gestão e a execução da estratégia da empresa, especialmente em um momento financeiro delicado (prejuízo de R$ 7,1 milhões no 1T22).",
+    "flags_detectadas": [
+      "renuncia_diretoria",
+      "alta_rotatividade_c-level",
+      "risco_governanca"
+    ],
+    "proximo_passo": "Investigar os motivos por trás da alta rotatividade na diretoria. Analisar o perfil do substituto, Arthur Staudt, e buscar informações sobre a cultura interna e a coesão da equipe de gestão. Acompanhar de perto a próxima teleconferência de resultados para questionar a administração sobre as mudanças.",
+    "confianca": "alta",
+    "input_data": "2022-09-01",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Renúncia de Diretor Estatutário",
+    "input_severidade_triage": 3
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 6,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Westwing elegeu Marcelo Kenji como novo CFO e Diretor de RI, preenchendo a posição vaga desde junho de 2022 e sinalizando uma estabilização em sua alta administração.",
+    "justificativa": "A nomeação de um CFO/DRI permanente encerra um período de cinco meses em que o CEO Andres Mutschler acumulava as funções. Este evento é relevante no contexto de recentes instabilidades, como a renúncia do CFO anterior em junho de 2022, a reapresentação dos resultados do 1T22 em agosto, e a descontinuidade de operações. A chegada de um executivo com experiência em varejo e M&A é um passo crucial para a busca de rentabilidade e estabilidade na governança.",
+    "flags_detectadas": [
+      "mudanca_diretoria",
+      "governanca"
+    ],
+    "proximo_passo": "Pesquisar o histórico de Marcelo Kenji em suas posições anteriores (MOB, La Guapa) para avaliar seu perfil e resultados. Acompanhar a próxima teleconferência de resultados para ouvir suas primeiras declarações sobre a estratégia financeira da empresa.",
+    "confianca": "alta",
+    "input_data": "2022-11-10",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Eleição CFO e DRI",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 7,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A gestora WNT atingiu uma participação acionária relevante de 7,06% na Westwing, tornando-se um dos principais acionistas da companhia. A movimentação indica um novo agente de influência potencial na estrutura de capital e governança da empresa.",
+    "justificativa": "A entrada de um novo acionista com 7,06% é altamente relevante no contexto atual da Westwing, que passou por saídas de outros fundos (Equitas e Tork em 2022), alta rotatividade na diretoria (renúncias de CFO, DRI e CTO em 2022) e uma recente reapresentação de resultados financeiros (agosto/2022). A chegada de um acionista concentrado como a WNT pode sinalizar uma tese de 'turnaround' ou o início de uma pressão por mudanças na governança ou estratégia, representando um potencial catalisador para o papel.",
+    "flags_detectadas": [
+      "aquisicao_participacao_relevante",
+      "ativismo_potencial",
+      "mudanca_acionaria"
+    ],
+    "proximo_passo": "Investigar o perfil da WNT Gestora de Recursos, seu histórico de investimentos e se possuem um histórico de ativismo. Monitorar futuras movimentações acionárias e comunicações da WNT e da Westwing para identificar os próximos passos do novo acionista.",
+    "confianca": "alta",
+    "input_data": "2022-11-17",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 6
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 7,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Westwing anunciou a renúncia do Diretor Vice-Presidente, Eduardo Oliveira, e de um membro independente do Conselho de Administração, Daniel Funis. O CEO, Andres Mutschler, acumulará a função de membro do conselho, e um novo VP foi promovido internamente.",
+    "justificativa": "O evento é relevante pois agrava um quadro de alta rotatividade na alta gestão, com múltiplas saídas de diretores (CTO em 2022-01, CFO/DRI em 2022-06, CTO em 2022-09) nos últimos dois anos. A eleição do CEO para o Conselho de Administração, somada à saída de um membro independente, representa uma concentração de poder e uma potencial fragilização da governança corporativa, o que pode ser um sinal de instabilidade ou de mudanças estratégicas profundas.",
+    "flags_detectadas": [
+      "renunciadiretoria",
+      "renunciaconselho",
+      "mudanca_governanca",
+      "concentracao_poder_ceo"
+    ],
+    "proximo_passo": "Analisar a nova composição do Conselho de Administração para verificar o percentual de membros independentes restantes. Investigar o histórico do novo VP, Felipe Jardim, para entender o novo foco operacional da companhia. Monitorar o mercado em busca de rumores ou notícias que possam contextualizar a alta rotatividade na gestão.",
+    "confianca": "alta",
+    "input_data": "2023-06-13",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Eleição Vice-Presidente e Membro do Conselho de Administração||Renúncia Vice-Presidente e Membro do Conselho de Administração",
+    "input_severidade_triage": 6
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 10,
+    "tipo_oportunidade": "evento_corporativo",
+    "resumo": "Acionista relevante WNT, com 14,78% do capital, convocou AGE para destituir todo o Conselho de Administração e eleger uma nova chapa. A administração atual recomenda a rejeição, configurando uma disputa de procuração (proxy fight).",
+    "justificativa": "A WNT mais do que dobrou sua participação de 7,06% (registrada em Nov/2022) para 14,78% e agora busca ativamente o controle do conselho, revertendo sua posição anterior de não interferir na gestão. Este evento é um ponto de inflexão para a Westwing, podendo levar a uma mudança radical na estratégia, especialmente considerando o histórico recente de instabilidade na diretoria e resultados financeiros desafiadores. A disputa pelo controle do conselho é um catalisador significativo para o preço da ação.",
+    "flags_detectadas": [
+      "proxy_fight",
+      "convocacao_age_acionista",
+      "destituicao_conselho",
+      "ativismo_acionario"
+    ],
+    "proximo_passo": "Analisar o histórico e a tese de investimento da gestora WNT. Avaliar a biografia dos candidatos da chapa proposta pelo acionista. Monitorar as comunicações da administração atual e do acionista ativista para entender os argumentos de cada lado e estimar a probabilidade de sucesso da proposta na AGE de 01/08/2023.",
+    "confianca": "alta",
+    "input_data": "2023-06-27",
+    "input_categoria": "Assembleia",
+    "input_assunto": "",
+    "input_severidade_triage": 8
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 8,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Acionistas ativistas, detentores de mais de 5% do capital, solicitaram o uso do voto múltiplo para a eleição do novo Conselho de Administração na AGE de 01/08. Este movimento é uma escalada na disputa pelo controle da companhia, aumentando a chance de sucesso da chapa da oposição.",
+    "justificativa": "Este evento é um desdobramento direto da convocação da AGE pelo acionista Montenegro Fundo (14,78%), que propôs a destituição do conselho atual. O pedido de voto múltiplo é uma ferramenta legal que maximiza o poder de voto de minoritários, indicando que os ativistas estão utilizando todos os mecanismos para garantir a eleição de seus indicados e efetivar uma mudança na governança e estratégia da empresa.",
+    "flags_detectadas": [
+      "ativismo",
+      "disputa_conselho",
+      "voto_multiplo"
+    ],
+    "proximo_passo": "Analisar a composição acionária para identificar quais outros acionistas podem ter se juntado ao pedido. Avaliar os cenários de votação na AGE de 01/08 e estimar a probabilidade de sucesso da destituição do conselho atual. Monitorar o posicionamento de outros acionistas relevantes.",
+    "confianca": "alta",
+    "input_data": "2023-07-26",
+    "input_categoria": "Aviso aos Acionistas",
+    "input_assunto": "Pedido de Voto Múltiplo",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 8,
+    "tipo_oportunidade": "governanca",
+    "resumo": "O acionista ativista Montenegro Fundo (WNT) formaliza a indicação de três candidatos para o Conselho de Administração, intensificando a disputa pelo controle do board na AGE de 30 de agosto.",
+    "justificativa": "Este documento é um passo crucial na campanha ativista iniciada em 27/06/2023 pelo Montenegro Fundo, que detém 14,78% do capital. A nomeação de uma chapa de conselheiros formaliza a disputa pelo controle (proxy fight) em um momento de alta rotatividade na gestão (renúncia do CEO em 29/06/2023) e de foco da empresa em preservação de caixa. O resultado da AGE em 30/08 definirá a futura estratégia da companhia.",
+    "flags_detectadas": [
+      "ativismo",
+      "disputa_conselho",
+      "proxy_fight",
+      "governanca"
+    ],
+    "proximo_passo": "Monitorar as manifestações da administração e do acionista ativista, analisar o perfil dos candidatos indicados e, principalmente, acompanhar o resultado da votação na AGE de 30 de agosto de 2023.",
+    "confianca": "alta",
+    "input_data": "2023-08-07",
+    "input_categoria": "Aviso aos Acionistas",
+    "input_assunto": "Indicação Candidatos AGE 30/08",
+    "input_severidade_triage": 6
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 5,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A gestora Kapitalo, um dos investidores institucionais relevantes desde o IPO, comunicou a alienação de sua participação, reduzindo-a para 2,41% e deixando de ser um acionista relevante.",
+    "justificativa": "A venda da Kapitalo é relevante devido ao seu timing. Ocorre em 10/08/2023, logo após a Assembleia Geral Extraordinária de 01/08/2023, que foi convocada pelo acionista ativista Montenegro (14,78%) para destituir o conselho. A saída de um investidor institucional que estava na base acionária desde fevereiro de 2021 (com 5,27%) em meio a uma disputa de governança e troca de CEO pode sinalizar descontentamento com os rumos da companhia ou com o resultado da assembleia.",
+    "flags_detectadas": [
+      "alienacao_participacao"
+    ],
+    "proximo_passo": "Verificar a ata e o resultado da AGE de 01/08/2023 para entender se a chapa do acionista ativista venceu ou foi derrotada, e assim contextualizar a venda da Kapitalo como uma possível reação a este evento.",
+    "confianca": "alta",
+    "input_data": "2023-08-10",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 4
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 10,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A WNT Gestora de Recursos elevou drasticamente sua participação na Westwing de 7,06% para 37,60%, tornando-se a acionista de referência e indicando uma provável mudança de controle em meio a um conflito societário já existente.",
+    "justificativa": "Este aumento massivo de participação, de 7,06% para 37,60%, ocorre logo após a convocação de uma AGE (01/08/2023) pelo acionista ativista Montenegro (com 14,78%) para destituir o conselho. A nova posição da WNT é suficiente para determinar os rumos da companhia, representando uma escalada significativa na disputa pelo controle e sinalizando uma iminente e profunda reestruturação na governança e estratégia da Westwing.",
+    "flags_detectadas": [
+      "aquisicao_relevante",
+      "potencial_mudanca_controle",
+      "ativismo"
+    ],
+    "proximo_passo": "Verificar a ata da AGE de 01/08/2023 para entender o resultado da votação e a posição da WNT. Investigar o perfil da WNT Gestora, seu histórico em outras investidas e analisar a probabilidade de uma Oferta Pública de Aquisição (OPA) por alienação de controle. Reavaliar a tese de investimento com base no novo controlador.",
+    "confianca": "alta",
+    "input_data": "2023-08-11",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 8
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 9,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Acionista relevante solicita a adoção de voto múltiplo para a eleição do Conselho de Administração na AGE de 15 de setembro, intensificando a disputa pelo controle da companhia.",
+    "justificativa": "Este evento é uma escalada direta do ativismo iniciado em 27/06/2023 pelo Montenegro Fundo (detentor de 14,78%), que propôs a destituição do conselho. O uso do mecanismo de voto múltiplo é uma ferramenta estratégica para que o acionista minoritário maximize suas chances de eleger representantes, confirmando que a disputa pelo controle da empresa é séria e terá um desfecho na próxima assembleia.",
+    "flags_detectadas": [
+      "ativismo",
+      "disputa_conselho",
+      "voto_multiplo",
+      "mudanca_controle_potencial"
+    ],
+    "proximo_passo": "Analisar as chapas propostas para o conselho, o histórico do acionista ativista e calcular os cenários de votação para a AGE de 15 de setembro, a fim de estimar a probabilidade de sucesso da chapa ativista e o potencial impacto na estratégia da empresa.",
+    "confianca": "alta",
+    "input_data": "2023-09-06",
+    "input_categoria": "Aviso aos Acionistas",
+    "input_assunto": "Adoção de voto múltiplo",
+    "input_severidade_triage": 7
+  },
+  {
+    "raw": "{\n  \"acao_recomendada\": \"monitorar\",\n  \"severidade\": 4,\n  \"tipo_oportunidade\": \"governanca\",\n  \"resumo\": \"A nova administração, instalada após a campanha do acionista ativista WNT, convocou uma AGE para aprovar a remuneração anual de R$6,08 milhões para 2023. Este é um passo administrativo que consolida a nova estrutura de governança.\",\n  \"justificativa\": \"O evento é relevante por ser uma das primeiras ações formais do novo Conselho de Administração, presidido por Luciano Mathia Penha, que foi indicado pelo acionista WNT (detentor de 37,60%). A aprovação da remuneração ocorre em um contexto de reestruturação e foco em preservação de caixa, sendo um sinal importante sobre",
+    "input_data": "2023-10-26",
+    "input_categoria": "Assembleia",
+    "input_assunto": "Remuneração dos Administradores e Conselheiros",
+    "input_severidade_triage": 5
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 6,
+    "tipo_oportunidade": "governanca",
+    "resumo": "O Diretor de Tecnologia (CTO), Arthur Staudt, renunciou após mais de 10 anos na empresa, aprofundando o quadro de alta rotatividade na gestão em meio a um período de forte ativismo acionário.",
+    "justificativa": "A renúncia do CTO é relevante pois se soma a uma série de saídas de executivos-chave, incluindo o CEO fundador (Andres Mutschler) e o VP (Eduardo Oliveira) em 2023. Este evento ocorre em um contexto de forte influência do acionista WNT Gestora (37,60% de participação), que tem promovido mudanças na governança. A saída de um executivo de longa data de uma área crítica para um e-commerce pode sinalizar instabilidade contínua ou desalinhamento com a nova estratégia focada em preservação de caixa e rentabilidade.",
+    "flags_detectadas": [
+      "renunciadiretoria",
+      "governanca",
+      "instabilidade_gestao"
+    ],
+    "proximo_passo": "Monitorar o anúncio do substituto para a posição de CTO e avaliar se o novo nome está alinhado com a gestão atual ou com o acionista ativista. Acompanhar os resultados do 4T23 para avaliar o impacto das mudanças de gestão na operação.",
+    "confianca": "alta",
+    "input_data": "2024-02-05",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Renúncia CTO",
+    "input_severidade_triage": 5
+  },
+  {
+    "raw": "",
+    "input_data": "2024-12-13",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Grupamento de ações",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 2,
+    "tipo_oportunidade": "evento_corporativo",
+    "resumo": "A Westwing confirma a efetivação do grupamento de ações na proporção de 10 para 1, com as ações passando a ser negociadas na forma grupada a partir de 16 de janeiro de 2025. As frações de ações resultantes serão vendidas em leilão.",
+    "justificativa": "Este documento é a confirmação processual de um evento já aprovado e divulgado em 13 de dezembro de 2024. A relevância é baixa, pois não há informação nova que altere a tese, mas confirma o cronograma exato do evento. O foco agora se volta para a reação do mercado ao novo patamar de preço e para os detalhes do futuro leilão das frações.",
+    "flags_detectadas": [
+      "grupamento",
+      "leilao_fracoes"
+    ],
+    "proximo_passo": "Monitorar a liquidez e o comportamento da cotação de WEST3 a partir de 16/01/2025. Aguardar o comunicado com a data e as condições do leilão das frações de ações.",
+    "confianca": "alta",
+    "input_data": "2025-01-15",
+    "input_categoria": "Aviso aos Acionistas",
+    "input_assunto": "Grupamento de Ações",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "ignorar",
+    "severidade": 1,
+    "tipo_oportunidade": "nenhum",
+    "resumo": "A Westwing anuncia o leilão de 1.024 ações fracionárias resultantes do grupamento aprovado em dezembro de 2024. Este é um procedimento padrão sem impacto material para a tese de investimento.",
+    "justificativa": "O leilão das frações é uma consequência direta e esperada do grupamento de ações (10 para 1) aprovado na AGE de 13 de dezembro de 2024, já registrado no contexto. O volume de 1.024 ações é imaterial e o evento é puramente administrativo, não alterando a estrutura de capital, a estratégia da empresa ou gerando uma oportunidade de investimento.",
+    "flags_detectadas": [
+      "grupamento",
+      "leilao_fracoes"
+    ],
+    "proximo_passo": "Arquivar o documento. Nenhuma ação adicional é necessária, pois este evento é um desdobramento administrativo já previsto.",
+    "confianca": "alta",
+    "input_data": "2025-01-27",
+    "input_categoria": "Aviso aos Acionistas",
+    "input_assunto": "Leilão de frações de ações após grupamento",
+    "input_severidade_triage": 3
+  },
+  {
+    "acao_recomendada": "ignorar",
+    "severidade": 1,
+    "tipo_oportunidade": "evento_corporativo",
+    "resumo": "A Westwing concluiu o leilão das frações de ações resultantes do grupamento 10:1, pagando R$ 4,73 por ação aos acionistas elegíveis. Este é um evento administrativo sem impacto material.",
+    "justificativa": "Este comunicado é um passo processual e esperado, decorrente do grupamento de ações na proporção 10:1 aprovado em 13/12/2024. O valor total do leilão (R$ 4.851,11) é imaterial e o evento não altera a tese de investimento, a estrutura de capital ou a governança da companhia, apenas finaliza uma ação corporativa já conhecida pelo mercado.",
+    "flags_detectadas": [
+      "grupamento"
+    ],
+    "proximo_passo": "Arquivar a informação como conclusão do evento de grupamento e manter o monitoramento regular da companhia para eventos de maior relevância.",
+    "confianca": "alta",
+    "input_data": "2025-02-06",
+    "input_categoria": "Aviso aos Acionistas",
+    "input_assunto": "Pagamento de frações após grupamento",
+    "input_severidade_triage": 3
+  },
+  {
+    "acao_recomendada": "monitorar",
+    "severidade": 5,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Membro do Conselho de Administração, Luciano Pascon, ligado ao acionista ativista WNT, renunciou, sendo substituído por Roberto de Oliveira, um especialista em tecnologia e inteligência artificial.",
+    "justificativa": "A mudança é relevante pois Luciano Pascon foi eleito em 2023 como parte de uma chapa indicada pelo acionista ativista Montenegro/WNT, que detém participação relevante (37,60%). Sua saída pode indicar uma alteração na dinâmica de influência deste acionista. Além disso, a entrada de um especialista em IA e desenvolvimento de negócios, Roberto de Oliveira, pode sinalizar um novo foco estratégico em tecnologia para a companhia, que passou por recentes trocas de CTOs e busca maior rentabilidade.",
+    "flags_detectadas": [
+      "renuncia_conselho",
+      "mudanca_estrategica_potencial"
+    ],
+    "proximo_passo": "Monitorar futuras comunicações da WNT Gestora de Recursos sobre sua participação e observar se a nova composição do conselho resultará em anúncios de iniciativas estratégicas focadas em tecnologia ou IA.",
+    "confianca": "alta",
+    "input_data": "2025-05-20",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Mudança no Conselho de Administração",
+    "input_severidade_triage": 5
+  },
+  {
+    "raw": "{\n  \"acao_recomendada\": \"monitorar\",\n  \"severidade\": 5,\n  \"tipo_oportunidade\": \"governanca\",\n  \"resumo\": \"O Diretor de Marketing e Comercial (CMO), Renato Grego, renunciou ao cargo. Suas funções serão absorvidas pelos demais diretores, indicando uma reestruturação e potencial corte de custos na alta gestão.\",\n  \"justificativa\": \"Esta renúncia é relevante no contexto de alta rotatividade executiva e da recente mudança de controle acionário liderada pelo acionista ativista WNT (que detém 37,60%). A empresa já passou por múltiplas trocas de CEO, CFO e CTO desde 2021. A decisão de não substituir o CMO e distribuir suas funções está alinhada com a estratégia declarada de 'preservação de caixa' e redução de despesas, mencionada em comunicados anteriores (e.g., 2023-06-29 e 2023-07-19). Este evento reforça a tese de uma reestruturação profunda em andamento, impulsionada pelo novo controlador.\",\n  \"flags_detectadas\": [\n    \"renunciadiretoria\",\n    \"reestruturacao",
+    "input_data": "2025-06-27",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Renúncia CMO",
+    "input_severidade_triage": 3
+  },
+  {
+    "raw": "{\n  \"acao_recomendada\": \"investigar\",\n  \"severidade\": 8,\n  \"tipo_oportunidade\": \"evento_corporativo\",\n  \"resumo\": \"A Westwing negou conhecimento sobre qualquer fato que justifique a recente e atípica alta de mais de 17% em suas ações, acompanhada de um aumento expressivo no volume de negócios. Esta situação, comumente, precede anúncios de eventos corporativos relevantes.\",\n  \"justificativa\": \"A resposta padrão da empresa a um ofício da B3 sobre a forte valorização das ações (alta",
+    "input_data": "2025-08-05",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "Negociações atípicas de valores mobiliários",
+    "input_severidade_triage": 3
+  },
+  {
+    "raw": "{\n  \"acao_recomendada\": \"monitorar\",\n  \"severidade\": 6,\n  \"tipo_oportunidade\": \"governanca\",\n  \"resumo\": \"Westwing elegeu André Machado como novo Diretor Presidente, encerrando o mandato interino de Marcelo Kenji, que retorna às suas funções de CFO e DRI. A mudança sinaliza uma nova fase para a companhia, com foco em rentabilidade e crescimento.\",\n  \"justificativa\": \"A nomeação de um CEO permanente, com experiência em logística (Vex Soluções Logísticas) e mercado financeiro (Itaú BBA), é um evento de governança significativo após um longo período de instabilidade na alta gestão e um mandato interino de dois anos. Isso ocorre após a consolidação do acionista ativista WNT (37,60% em ago/2023) e um forte foco em 'preservação de caixa' (mencionado em 2023-06-29). A manutenção de Marcelo Kenji como CFO/DRI garante continuidade na gestão financeira, enquanto o novo CEO tem o mandato de aliar a busca por rentabilidade ao crescimento, potencialmente marcando o fim da fase de reestruturação e o início de uma nova estratégia.\",\n  \"flags_detectadas\": [\n    \"governanca\",\n    \"mudanca_ceo\"\n  ],\n  \"proximo_passo\": \"Acompanhar a próxima teleconferência de resultados para ouvir as diretrizes do novo CEO e avaliar as primeiras mudanças estratégicas sob sua liderança, especialmente em relação ao equilíbrio entre crescimento de vendas e manutenção da rentabilidade.\",\n  \"confianca\":",
+    "input_data": "2025-08-20",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Eleição CEO",
+    "input_severidade_triage": 7
+  },
+  {
+    "raw": "{\n  \"acao_recomendada\": \"monitorar\",\n  \"severidade\": 6,\n  \"tipo_oportunidade\": \"governanca\",\n  \"resumo\": \"A Westwing anunciou a renúncia imediata de seu Diretor de Operações e Tecnologia, Felipe Jardim. O CEO, André Machado, assumirá diretamente a área de tecnologia, enquanto operações passará a ser liderada por uma diretoria não estatutária.\",\n  \"justificativa\": \"A renúncia de mais um diretor estatutário perpetua um histórico de alta rotatividade executiva na Westwing, gerando incertezas sobre a estabilidade da gestão e a execução da estratégia. A acumulação da área de tecnologia pelo CEO, no cargo há apenas 5 meses (desde agosto de 2025), e o rebaixamento da liderança de operações para um cargo não estatutário são mudanças estruturais relevantes que indicam tanto um risco de sobrecarga quanto uma possível reorientação estratégica.\",\n  \"flags_detectadas\": [\n    \"renunciadiretoria\",\n    \"governanca\"\n  ],\n  \"proximo_passo\": \"Monitorar futuras comunicações sobre a estrutura organizacional, especialmente a nomeação do novo líder de operações e quaisquer atualizações sobre a estratégia de tecnologia sob a liderança direta do CEO. Observar o impacto nos próximos resultados trimestrais.\",\n  \"confianca",
+    "input_data": "2026-01-09",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Renúncia de diretor estatutário",
+    "input_severidade_triage": 5
+  },
+  {
+    "raw": "{\n  \"acao_recomendada\": \"investigar\",\n  \"severidade\": 9,\n  \"tipo_oportunidade\": \"evento_corporativo\",\n  \"resumo\": \"Mastercard executou uma garantia e passou a deter 31,87% das ações da Westwing, com a intenção declarada de vender toda a posição. Isso cria um enorme 'overhang' técnico e sinaliza provável dificuldade financeira de um acionista de referência.\",\n  \"justificativa\": \"A aquisição de 3",
+    "input_data": "2026-01-20",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Participação Acionária Relevante",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 9,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Dois novos fundos, Hix Investimentos e BlueOak Investments, adquiriram em leilão uma participação combinada de 15,32% na Westwing e declararam explicitamente a intenção de eleger membros para o Conselho de Administração, sinalizando um novo movimento ativista.",
+    "justificativa": "O evento é altamente relevante dado o histórico de ativismo acionário na companhia, como o movimento da WNT Gestora em 2023 que também visava mudanças no conselho. A entrada coordenada de dois novos acionistas com uma participação conjunta de 15,32% e a intenção declarada de influenciar a governança corporativa na próxima AGO indicam uma alta probabilidade de uma nova disputa por controle ou uma mudança estratégica significativa. A aquisição via leilão sugere a saída de um acionista relevante, alterando fundamentalmente a base acionária.",
+    "flags_detectadas": [
+      "ativismo",
+      "aquisicao_participacao_relevante",
+      "mudanca_controle_potencial",
+      "proxy_fight"
+    ],
+    "proximo_passo": "Investigar o perfil e o histórico dos gestores Hix e BlueOak, tentar identificar o vendedor do bloco de ações no leilão e modelar cenários para a próxima Assembleia Geral, incluindo a possibilidade de uma disputa por assentos no conselho (proxy fight).",
+    "confianca": "alta",
+    "input_data": "2026-01-27",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 8,
+    "tipo_oportunidade": "governanca",
+    "resumo": "Oriz Asset Management adquiriu 25,5% da Westwing, elevando sua participação total para 32,15% e se tornando o novo acionista de referência. Apesar de declarar que não busca alterar o controle, a Oriz manifestou a intenção de eleger membros para o Conselho de Administração.",
+    "justificativa": "A entrada de um novo acionista com 32,15% e a intenção explícita de indicar conselheiros é um evento de alta relevância. Isso altera drasticamente a estrutura de poder na companhia, que já possui um histórico recente de ativismo acionário liderado pelo antigo maior acionista, a WNT Gestora (que detinha 37,60% em ago/2023). Esta transação, uma venda em bloco, sinaliza uma nova fase de potencial reestruturação na governança e na estratégia da Westwing, podendo levar a disputas ou alianças no conselho.",
+    "flags_detectadas": [
+      "aquisicao_relevante",
+      "ativismo_potencial",
+      "mudanca_acionista_referencia",
+      "governanca"
+    ],
+    "proximo_passo": "Investigar o perfil da Oriz Asset Management, seu histórico de ativismo e investimentos anteriores. Monitorar a convocação da próxima assembleia geral e as chapas que serão indicadas para o Conselho de Administração. Analisar a possível saída completa ou parcial da WNT e o impacto no equilíbrio de forças.",
+    "confianca": "alta",
+    "input_data": "2026-03-18",
+    "input_categoria": "Comunicado ao Mercado",
+    "input_assunto": "",
+    "input_severidade_triage": 7
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 8,
+    "tipo_oportunidade": "evento_corporativo",
+    "resumo": "O Conselho de Administração propôs uma redução de capital de R$ 60 milhões, a ser restituído em dinheiro aos acionistas, por considerar o montante excessivo. A proposta será votada em Assembleia Geral Extraordinária (AGE).",
+    "justificativa": "Este é um evento material que representa um retorno de capital significativo, equivalente a uma parcela substancial da posição de caixa da empresa (reportada em R$ 150 milhões em meados de 2023). A ação reflete o sucesso da estratégia de preservação de caixa e a influência do acionista ativista WNT, sinalizando uma mudança de foco de reinvestimento para distribuição de valor aos acionistas.",
+    "flags_detectadas": [
+      "reducao_capital",
+      "retorno_capital_acionista",
+      "evento_corporativo",
+      "ativismo"
+    ],
+    "proximo_passo": "Calcular o valor por ação da restituição, comparar com a cotação atual para avaliar o yield, e monitorar a convocação da AGE para obter a data de corte ('data com') e outros detalhes operacionais.",
+    "confianca": "alta",
+    "input_data": "2026-03-22",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Redução de Capital",
+    "input_severidade_triage": 8
+  },
+  {
+    "acao_recomendada": "investigar",
+    "severidade": 8,
+    "tipo_oportunidade": "governanca",
+    "resumo": "A Westwing destituiu seu Diretor Financeiro e de RI, Marcelo Kenji, nomeando um CFO interino e acumulando a função de RI com o CEO, André Machado. A mudança abrupta e o termo 'destituição' sinalizam potencial instabilidade ou conflito na alta gestão.",
+    "justificativa": "A destituição de um executivo-chave como Marcelo Kenji, que ocupou interinamente o cargo de CEO em 2023 e era uma figura central na gestão financeira, é um evento de alta relevância. Diferente de uma renúncia, uma destituição sugere um desalinhamento estratégico ou de performance, especialmente considerando a recente troca de CEO em agosto de 2025 e o histórico de ativismo do acionista WNT. A nomeação de substitutos interinos aumenta a incerteza sobre a liderança e a estratégia financeira da companhia no curto prazo.",
+    "flags_detectadas": [
+      "mudanca_administracao",
+      "destituicao_diretoria",
+      "governanca_corporativa",
+      "instabilidade_gestao"
+    ],
+    "proximo_passo": "Monitorar comunicações da empresa e do mercado para entender o motivo da destituição. Analisar o perfil do novo CFO interino e buscar informações sobre a busca por um substituto permanente. Reavaliar a tese de investimento com base na nova configuração da diretoria e potencial mudança na estratégia financeira.",
+    "confianca": "alta",
+    "input_data": "2026-03-24",
+    "input_categoria": "Fato Relevante",
+    "input_assunto": "Mudanças na Administração",
+    "input_severidade_triage": 7
+  }
+]

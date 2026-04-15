@@ -1,0 +1,88 @@
+{
+  "empresa": "WESTWING",
+  "ticker": "WEST3",
+  "data_avaliacao": "2021-06-30",
+  "recomendacao": "evitar",
+  "confianca": "alta",
+  "tese_resumo": "A empresa é uma tese de crescimento em e-commerce com múltiplos de valuation estratosféricos e insustentáveis com base nos dados financeiros de 2020. A recente troca de CFO e um ciberataque relevante adicionam riscos operacionais e de governança significativos, tornando o case excessivamente especulativo nos níveis de preço atuais.",
+  "valuation": {
+    "market_cap_mm": 1022.1,
+    "caixa_liquido_mm": 21.005,
+    "desconto_sobre_caixa_pct": null,
+    "pl_por_acao": 0.39,
+    "preco_sobre_pl": 235.1,
+    "ev_ebitda": 243.9,
+    "observacao_valuation": "Os múltiplos são proibitivos. Um P/PL de 235x e um EV/EBITDA de 244x indicam que o mercado precifica um cenário de crescimento perfeito e de altíssima rentabilidade, o que não se reflete nos dados históricos. A posição de caixa líquido é positiva, mas insignificante frente ao valor de mercado, não oferecendo qualquer colchão de segurança para o valuation."
+  },
+  "tese_bull": {
+    "resumo": "A companhia consegue sustentar o forte ritmo de crescimento apresentado em 2020, capturando a digitalização do setor de casa e decoração. A alavancagem operacional resultante expande as margens EBITDA de forma expressiva, começando a justificar os múltiplos atuais.",
+    "target_price": null,
+    "upside_pct": null,
+    "probabilidade_estimada": "baixa",
+    "catalalisadores": [
+      "Aceleração do crescimento da receita acima das expectativas nos próximos trimestres.",
+      "Expansão de margem EBITDA para dois dígitos, demonstrando alavancagem operacional.",
+      "Estabilização da gestão com o novo CFO apresentando um plano estratégico crível."
+    ]
+  },
+  "tese_bear": {
+    "resumo": "O crescimento de 2020 foi um evento pontual da pandemia e irá desacelerar bruscamente. A companhia não conseguirá atingir a rentabilidade implícita no preço, levando a uma compressão severa dos múltiplos e a uma correção relevante no preço da ação.",
+    "target_price": null,
+    "downside_pct": null,
+    "probabilidade_estimada": "alta",
+    "riscos": [
+      "Valuation extremo e desconectado da geração de caixa e lucro atuais.",
+      "Desaceleração do crescimento do e-commerce com a normalização pós-pandemia.",
+      "Risco de execução e instabilidade gerencial após a troca do CFO em um momento crítico.",
+      "Vulnerabilidade de controles internos e segurança de TI, evidenciada pelo ataque de ransomware.",
+      "Aumento da concorrência e pressão sobre as margens."
+    ]
+  },
+  "governanca": {
+    "score": "3",
+    "red_flags": [
+      "Troca de Diretor Financeiro (CFO) em abril de 2021, logo após um período de intensa movimentação acionária em fevereiro, o que é um sinal de alerta máximo para instabilidade ou desalinhamento estratégico.",
+      "Ataque de ransomware, que questiona a qualidade dos controles internos e da infraestrutura de TI da empresa.",
+      "Alienação de ações pela diretoria em fevereiro de 2021, um sinal negativo vindo de insiders.",
+      "Informações críticas como 'poison pill' e 'voto múltiplo' ausentes, sugerindo falta de transparência ou de mecanismos de proteção robustos."
+    ],
+    "pontos_positivos": [
+      "Tag along de 100% para ações ON, garantindo tratamento equitativo para minoritários.",
+      "Presença de investidores institucionais qualificados na base acionária (Kapitalo, Equitas, Tork)."
+    ],
+    "rotatividade_management": "alta",
+    "risco_ativismo": "alto",
+    "comentario": "A governança apresenta fragilidades preocupantes. A saída do CFO em um momento que parece ser pós-IPO é um evento adverso grave. A presença de múltiplos fundos com participações relevantes, embora possa trazer disciplina, também eleva o risco de conflitos e ativismo caso a performance operacional não corresponda às altíssimas expectativas."
+  },
+  "triggers": [
+    {
+      "trigger": "Divulgação de resultados do 2T21 com desaceleração de receita e/ou compressão de margem EBITDA.",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Anúncio de aquisição relevante financiada com dívida, aumentando o risco financeiro sem sinergias claras.",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "baixa",
+      "prazo": "medio"
+    },
+    {
+      "trigger": "O novo CFO anuncia um plano de alocação de capital focado em ROIC e geração de caixa livre, com metas realistas.",
+      "direcao": "positivo",
+      "impacto_estimado": "medio",
+      "probabilidade": "media",
+      "prazo": "curto"
+    }
+  ],
+  "proximos_passos": [
+    "Investigar a fundo o motivo da renúncia do CFO anterior e o histórico do novo executivo.",
+    "Analisar o relatório de resultados do 4T20 para entender a composição do forte crescimento e a qualidade do EBITDA.",
+    "Monitorar os dados do próximo balanço (2T21) para avaliar a sustentabilidade do crescimento e o impacto financeiro do ciberataque.",
+    "Buscar informações sobre o lock-up de acionistas originais e insiders, caso a empresa tenha realizado um IPO recente."
+  ],
+  "nota_final": "Westwing é a personificação do risco em um mercado eufórico. A narrativa de crescimento é atrativa, mas o preço atual exige uma execução impecável e um futuro sem percalços, algo que já foi desmentido pela recente troca de gestão e pelo ciberataque. A assimetria é claramente negativa; há pouco espaço para surpresas positivas que já não estejam no preço, enquanto qualquer decepção pode levar a uma derrocada da cotação. A disciplina manda ficar de fora.",
+  "snapshot_used": "============================================================\nSNAPSHOT: WESTWING (WEST3) — Data: 2021-06-30\n============================================================\n\n## DADOS DE MERCADO\nPreco: R$92.0\nVolume medio 30d: 47567\nVariacao 30d: -3.4%\nVariacao 1 ano: -20.6%\nMin/Max 1 ano: R$75.5 / R$121.8\nMarket Cap estimado: R$1022.1 milhoes (11,109,348 acoes)\n\n## DADOS FINANCEIROS (R$ mil)\nPeriodo mais recente: 2020\nCaixa total: R$31830 mil\nDivida bruta: R$10825 mil\nPL: R$4348 mil\nReceita liquida: R$245254 mil\nLucro liquido: R$11701 mil\nEBITDA: R$4104 mil\n\nEvolucao historica:\n  2019: caixa=4404 | LL=383 | rec=127289\n  1T20: caixa=11668 | LL=-2553 | rec=33052\n  2T20: caixa=45623 | LL=13278 | rec=85926\n  2020: caixa=31830 | LL=11701 | rec=245254\n\n## ESTATUTO SOCIAL\nTag along ON: 100%\nPoison pill: ? (trigger: ?%)\nVoto multiplo: ?\nConselho: ?-? membros\nCapital autorizado: 25000000 acoes\nTotal acoes: 11109348\n\n## COMPOSICAO ACIONARIA (movimentacoes recentes)\n  2021-01-31 | Controlador                    | posicao    | None%\n  2021-02-11 | Kapitalo Investimentos Ltda. e | aquisicao  | 5.27%\n    Intencao: não tem objetivo de alterar a composição de controle ou a es\n  2021-02-11 | Diretoria                      | alienacao  | None%\n  2021-02-11 | Diretoria                      | alienacao  | None%\n  2021-02-17 | Equitas Administração de Fundo | aquisicao  | 7.03%\n    Intencao: não tem objetivo de alterar a composição de controle ou a es\n  2021-02-18 | Itaú Unibanco S.A.             | aquisicao  | 5.744%\n    Intencao: não tem o objetivo de alterar a composição do controle ou a \n  2021-02-23 | Tork Capital Gestão de Recurso | aquisicao  | 6.46%\n    Intencao: não tem objetivo de alterar a composição de controle ou a es\n  2021-02-24 | Itaú Unibanco S.A.             | alienacao  | 4.573%\n    Intencao: não tem o objetivo de alterar a composição do controle ou a \n  2021-04-13 | Diretoria                      | posicao    | None%\n  2021-04-14 | Diretoria da WESTWING COMÉRCIO | aquisicao  | None%\n\n## EVENTOS RECENTES (severidade >= 4)\n  [6] 2021-02-15 — A Kapitalo Investimentos Ltda. e a Kapitalo Ciclo Gestora de Recursos Financeiros Ltda. informaram a\n      flags: aquisicao\n  [4] 2021-02-17 — A Westwing comunicou que a Equitas Administração de Fundos de Investimentos Ltda. atingiu uma partic\n      flags: aquisicao\n  [7] 2021-02-18 — O Itaú Unibanco S.A. comunicou que fundos sob sua gestão atingiram 5,74% das ações ordinárias da Wes\n      flags: aquisicao\n  [6] 2021-02-23 — A Westwing recebeu comunicação da Tork Capital Gestão de Recursos LTDA. informando que os fundos sob\n      flags: aquisicao\n  [6] 2021-02-25 — A Westwing recebeu comunicação do Itaú Unibanco S.A. informando a alienação de sua participação acio\n      flags: alienacao_participacao\n  [8] 2021-03-31 — A Westwing apresentou forte crescimento no 4T20 e em 2020, com GMV e Receita Líquida dobrando, EBITD\n  [7] 2021-04-19 — A Westwing identificou um ataque cibernético criminoso do tipo ransomware em 17 de abril, que tornou\n  [6] 2021-04-22 — A Westwing elegeu Thiago Deiab como seu novo Diretor Financeiro e de Relações com Investidores, após\n      flags: renunciadiretoria"
+}

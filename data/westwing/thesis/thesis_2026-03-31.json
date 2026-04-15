@@ -1,0 +1,95 @@
+{
+  "empresa": "Westwing",
+  "ticker": "WEST3",
+  "data_avaliacao": "2026-03-31",
+  "recomendacao": "monitorar",
+  "confianca": "media",
+  "tese_resumo": "A tese de investimento em WEST3 é uma aposta em um evento de reestruturação liderado por investidores ativistas. A empresa negocia com um desconto significativo sobre seu caixa líquido, e os novos acionistas de referência estão promovendo uma reestruturação completa da gestão, com o objetivo provável de estancar a queima de caixa e destravar o valor do balanço. O negócio operacional é secundário à tese de reestruturação de capital.",
+  "valuation": {
+    "market_cap_mm": 87.1,
+    "caixa_liquido_mm": 121.35,
+    "desconto_sobre_caixa_pct": 28.2,
+    "pl_por_acao": 19.83,
+    "preco_sobre_pl": 0.4,
+    "ev_ebitda": null,
+    "observacao_valuation": "A empresa negocia como uma 'cash box', com o valor de mercado R$34.25 milhões abaixo do seu caixa líquido. O P/PL de 0.40x reflete a destruição de valor da operação. O EV/EBITDA é analiticamente irrelevante, pois tanto o Enterprise Value quanto o EBITDA são negativos, indicando que a questão central é a queima de caixa operacional."
+  },
+  "tese_bull": {
+    "resumo": "Os novos acionistas ativistas executam um turnaround bem-sucedido, estancando a queima de caixa e/ou distribuindo o caixa excedente aos acionistas. A operação é redimensionada para o breakeven, e o mercado reavalia a ação para, no mínimo, o valor do seu caixa líquido por ação.",
+    "target_price": 10.92,
+    "upside_pct": 39.3,
+    "probabilidade_estimada": "media",
+    "catalalisadores": [
+      "Anúncio de um plano estratégico claro pelos novos controladores na próxima AGE",
+      "Distribuição de dividendos extraordinários ou programa de recompra de ações",
+      "Resultados trimestrais futuros mostrando EBITDA positivo e estancamento da queima de caixa",
+      "Venda da operação deficitária, transformando a empresa em uma holding de caixa"
+    ]
+  },
+  "tese_bear": {
+    "resumo": "O turnaround falha, a queima de caixa se acelera sob a nova gestão, e o valor intrínseco (caixa) é erodido. A reestruturação consome mais capital do que o esperado, e os acionistas ativistas não conseguem destravar valor, possivelmente utilizando o caixa em uma aquisição destrutiva.",
+    "target_price": 4.0,
+    "downside_pct": -49.0,
+    "probabilidade_estimada": "media",
+    "riscos": [
+      "Falha na execução do plano de reestruturação pela nova gestão",
+      "Deterioração macroeconômica afetando ainda mais o setor de varejo de casa e decoração",
+      "Conflitos entre os novos acionistas controladores sobre a estratégia a ser seguida",
+      "Uso do caixa em uma aquisição que se prove destrutiva de valor"
+    ]
+  },
+  "governanca": {
+    "score": "3",
+    "red_flags": [
+      "Extrema rotatividade no alto escalão, incluindo CEO, CFO e membros do Conselho em um curto período",
+      "Histórico de queima de caixa e destruição de valor para o acionista",
+      "Realização de grupamento de ações em 2025, um sinal de performance de preço muito fraca",
+      "Convocação de AGE para redução de capital, indicando necessidade de reestruturação contábil para absorver prejuízos"
+    ],
+    "pontos_positivos": [
+      "Tag along de 100% para ações ordinárias",
+      "Entrada de acionistas ativistas com histórico de mercado, potencialmente alinhados com a geração de valor para destravar o desconto de holding"
+    ],
+    "rotatividade_management": "alta",
+    "risco_ativismo": "alto",
+    "comentario": "A governança corporativa está em um estado de fluxo total. A alta rotatividade é um sintoma de uma profunda crise interna e da tomada de controle por novos acionistas. Embora a instabilidade seja um risco, a presença de ativistas conhecidos (Oriz, Hix, BlueOak) é o principal, e talvez único, fator que pode forçar uma disciplina de capital e reverter o quadro de destruição de valor."
+  },
+  "triggers": [
+    {
+      "trigger": "Divulgação dos detalhes da proposta de redução de capital, incluindo um plano de retorno de capital aos acionistas.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "alta",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Publicação do resultado do 1T26 mostrando EBITDA positivo e reversão da queima de caixa.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "baixa",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Anúncio de uma aquisição relevante, utilizando o caixa da companhia.",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "medio"
+    },
+    {
+      "trigger": "Saída de um dos fundos ativistas (Oriz, Hix, BlueOak) da base acionária.",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "baixa",
+      "prazo": "medio"
+    }
+  ],
+  "proximos_passos": [
+    "Analisar em detalhe o edital de convocação da AGE para entender a mecânica da redução de capital",
+    "Investigar o histórico e a estratégia dos gestores Oriz, Hix e BlueOak em outros investimentos",
+    "Modelar cenários de cash burn para determinar o 'ponto de não retorno' da tese",
+    "Monitorar de perto as próximas divulgações de resultados trimestrais para avaliar a eficácia da nova gestão"
+  ],
+  "nota_final": "Este é um caso clássico de 'special situation'. A operação da Westwing é, no momento, irrelevante e destrutiva de valor. A tese de investimento não se baseia no crescimento do e-commerce, mas sim na arbitragem do valor do caixa contido no balanço. O preço atual oferece um 'call option' gratuito na capacidade dos novos acionistas ativistas de executarem um turnaround. O risco é que eles falhem e o caixa continue a ser incinerado. A recomendação é 'Monitorar' pois, apesar do valuation atrativo, a incerteza de execução é máxima. Apenas para investidores com apetite para risco e foco em eventos.",
+  "snapshot_used": "============================================================\nSNAPSHOT: WESTWING (WEST3) — Data: 2026-03-31\n============================================================\n\n## DADOS DE MERCADO\nPreco: R$7.84\nVolume medio 30d: 23204\nVariacao 30d: 28.3%\nVariacao 1 ano: 45.2%\nMin/Max 1 ano: R$3.55 / R$7.95\nMarket Cap estimado: R$87.1 milhoes (11,109,348 acoes)\n\n## DADOS FINANCEIROS (R$ mil)\nPeriodo mais recente: 4T25\nCaixa total: R$121348 mil\nDivida bruta: R$None mil\nPL: R$220337 mil\nReceita liquida: R$45938 mil\nLucro liquido: R$-399 mil\nEBITDA: R$-3215 mil\n\nEvolucao historica:\n  2019: caixa=4404 | LL=383 | rec=127289\n  1T20: caixa=11668 | LL=-2553 | rec=33052\n  2T20: caixa=45623 | LL=13278 | rec=85926\n  2020: caixa=31830 | LL=11701 | rec=245254\n  1T22: caixa=10130.0 | LL=-9918.0 | rec=63968.0\n  2022: caixa=158199 | LL=-54271 | rec=256800\n  2024: caixa=129439 | LL=-25560 | rec=167739\n  4T25: caixa=121348 | LL=-399 | rec=45938\n\n## ESTATUTO SOCIAL\nTag along ON: 100%\nPoison pill: ? (trigger: ?%)\nVoto multiplo: ?\nConselho: ?-? membros\nCapital autorizado: 25000000 acoes\nTotal acoes: 11109348\n\n## COMPOSICAO ACIONARIA (movimentacoes recentes)\n  2025-12-31 | Conselho de Administração      | posicao    | None%\n    Intencao: não foram realizadas operações com valores mobiliários e der\n  2025-12-31 | Diretoria                      | posicao    | None%\n    Intencao: não foram realizadas operações com valores mobiliários e der\n  2026-01-09 | Diretoria                      | alienacao  | None%\n  2026-01-26 | Hix Investimentos Ltda.        | aquisicao  | 8.7%\n    Intencao: pretende colaborar ativamente com a Companhia e sua administ\n  2026-01-26 | BlueOak Investments Asset Ltda | aquisicao  | 6.62%\n    Intencao: pretende colaborar ativamente com a Companhia e sua administ\n  2026-01-27 | ORIZ ALBRIGHT FUNDO DE INVESTI | aquisicao  | 6.65%\n    Intencao: sem o objetivo de alterar a composição do controle ou a estr\n  2026-01-31 | Conselho Administração         | posicao    | None%\n  2026-03-10 | Membro do Conselho de Administ | posicao    | None%\n  2026-03-18 | OIKOS FUNDO DE INVESTIMENTO EM | alienacao  | 0.0%\n    Intencao: não visando alteração da composição do controle ou da estrut\n  2026-03-18 | ORIZ ALBRIGHT FUNDO DE INVESTI | aquisicao  | 32.15%\n    Intencao: sem o objetivo de alterar a composição do controle ou a estr\n\n## EVENTOS RECENTES (severidade >= 4)\n  [7] 2025-01-15 — A WestWing comunicou o encerramento do prazo para ajuste de posições e a efetivação do grupamento de\n      flags: grupamento\n  [5] 2025-05-19 — A Westwing informou a renúncia do Sr. Luciano Pascon do Conselho de Administração e a eleição do Sr.\n      flags: renunciadiretoria\n  [7] 2025-08-20 — A Westwing elegeu André Machado como seu novo Diretor Presidente. Marcelo Kenji, que acumulava o car\n  [5] 2026-01-09 — O Conselho de Administração da Westwing acatou o pedido de renúncia do Sr. Felipe Jardim ao cargo de\n      flags: renunciadiretoria\n  [7] 2026-01-20 — A Mastercard Brasil Soluções de Pagamentos Ltda. adquiriu 3.540.768 ações da Westwing, representando\n      flags: aquisicao, alienacao_participacao\n  [7] 2026-01-27 — Hix Investimentos Ltda. e BlueOak Investments Asset Ltda. adquiriram participações relevantes de 8,7\n      flags: aquisicao, ativismo\n  [8] 2026-03-18 — A Bravos Gestão de Recursos Ltda., representando o FIP Oikos, comunicou a alienação total de sua par\n      flags: alienacao_participacao\n  [7] 2026-03-18 — A Oriz Asset Management Ltda. adquiriu 25,5% das ações ordinárias da Westwing, elevando sua particip\n      flags: aquisicao, ativismo\n  [8] 2026-03-22 — O Conselho de Administração da Westwing aprovou a convocação de uma Assembleia Geral Extraordinária \n      flags: reducao_capital\n  [7] 2026-03-24 — A Westwing informou mudanças em sua administração, com a destituição do Diretor Financeiro e de Rela\n      flags: renunciadiretoria"
+}

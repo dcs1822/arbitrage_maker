@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data - raw/heavy files (PDFs, extracted texts)
+data/*/documents/
+data/*/texts/
+data/*/context/
+*.pdf
+
+# Keep structured data, thesis, and results
+!data/*/structured/
+!data/*/thesis/
+!data/*/backtest/
+!data/*/backtest_integrated/
+!data/*/context_samples/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

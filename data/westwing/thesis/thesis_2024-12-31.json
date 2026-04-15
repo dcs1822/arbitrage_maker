@@ -1,0 +1,80 @@
+{
+  "empresa": "Westwing",
+  "ticker": "WEST3",
+  "data_avaliacao": "2024-12-31",
+  "recomendacao": "evitar",
+  "confianca": "media",
+  "tese_resumo": "A empresa negocia com um desconto significativo sobre sua posição de caixa líquido, caracterizando um 'net-net'. No entanto, a queima de caixa acelerada, rentabilidade negativa e severos conflitos de governança, evidenciados por ativismo de acionistas, tornam o caso um 'value trap' de alto risco.",
+  "valuation": {
+    "market_cap_mm": 55.5,
+    "caixa_liquido_mm": 129.44,
+    "desconto_sobre_caixa_pct": 57.12,
+    "pl_por_acao": 20.72,
+    "preco_sobre_pl": 0.24,
+    "ev_ebitda": "Inaplicável",
+    "observacao_valuation": "O valuation é distorcido pela estrutura de capital e performance operacional. A empresa possui um Enterprise Value negativo de R$-73.94 milhões devido ao caixa exceder o valor de mercado. Com EBITDA negativo, o múltiplo EV/EBITDA é matematicamente irrelevante. A tese de valor se baseia unicamente no desconto sobre o caixa líquido, ignorando o PL que está sendo corroído pelos prejuízos."
+  },
+  "tese_bull": {
+    "resumo": "Uma mudança de controle ou uma reestruturação forçada por acionistas ativistas interrompe a queima de caixa. O novo management monetiza o caixa excedente via dividendos/recompras ou executa um turnaround crível, destravando o valor latente no balanço.",
+    "target_price": 9.0,
+    "upside_pct": 80.0,
+    "probabilidade_estimada": "Baixa",
+    "catalalisadores": [
+      "Troca do management e do conselho de administração",
+      "Anúncio de um plano de reestruturação crível com metas claras",
+      "Distribuição de dividendos extraordinários ou programa de recompra relevante",
+      "Venda da companhia para um player estratégico"
+    ]
+  },
+  "tese_bear": {
+    "resumo": "A gestão atual continua a queimar o caixa em iniciativas de crescimento sem retorno, enquanto os conflitos de governança paralisam decisões estratégicas. O valor do caixa é destruído antes que qualquer mudança ocorra, e o preço da ação converge para um valor residual.",
+    "target_price": 2.5,
+    "downside_pct": -50.0,
+    "probabilidade_estimada": "Alta",
+    "riscos": [
+      "Aceleração da queima de caixa trimestral",
+      "Continuidade da queda de receita e margens negativas",
+      "Incapacidade de reter talentos-chave (ex: saída do CTO)",
+      "Conflito entre acionistas se arrasta, impedindo ações estratégicas"
+    ]
+  },
+  "governanca": {
+    "score": "2",
+    "red_flags": [
+      "Ativismo intenso de acionistas com pedidos de voto múltiplo",
+      "Renúncia de diretor executivo chave (CTO)",
+      "Grupamento de ações, um sinal clássico de 'distress' financeiro",
+      "Movimentação relevante e antagônica na base acionária (saída da Kapitalo, entrada agressiva da WNT)"
+    ],
+    "pontos_positivos": [
+      "Tag along de 100% para ações ON"
+    ],
+    "rotatividade_management": "alta",
+    "risco_ativismo": "alto",
+    "comentario": "A governança está em frangalhos. A empresa é palco de uma disputa acionária clara, o que gera instabilidade e incerteza sobre o futuro da gestão e da estratégia. A renúncia do CTO em uma empresa de tecnologia/e-commerce é particularmente preocupante."
+  },
+  "triggers": [
+    {
+      "trigger": "Anúncio de troca no controle ou na diretoria, com um plano claro de alocação de capital focado em destravar o valor do caixa (e.g., dividendos, recompra).",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Divulgação de resultado trimestral com queima de caixa acima de R$20 milhões e queda de receita superior a 15% a.a.",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "alta",
+      "prazo": "curto"
+    }
+  ],
+  "proximos_passos": [
+    "Analisar o histórico e estratégia dos fundos ativistas envolvidos (WNT Gestora)",
+    "Modelar cenários de 'cash burn' para determinar a longevidade da empresa sob o status quo",
+    "Monitorar de perto as atas das assembleias e comunicados sobre mudanças no conselho",
+    "Buscar informações sobre a substituição do CTO"
+  ],
+  "nota_final": "Este é um caso clássico de 'special situation' onde a tese de investimento não reside na operação, mas sim no balanço e na disputa pelo controle. O desconto para o caixa é atrativo, mas o risco de que este valor seja destruído pela má gestão e queima de caixa operacional é iminente e elevado. O investimento se assemelha mais a uma aposta em um evento (mudança de controle) do que a uma análise fundamentalista de um negócio. Para um investidor focado em valor real e geração de caixa, o case é um claro 'EVITAR' até que haja uma mudança estrutural na gestão e na estratégia da companhia.",
+  "snapshot_used": "============================================================\nSNAPSHOT: WESTWING (WEST3) — Data: 2024-12-31\n============================================================\n\n## DADOS DE MERCADO\nPreco: R$5.0\nVolume medio 30d: 8288\nVariacao 30d: -20.6%\nVariacao 1 ano: -63.2%\nMin/Max 1 ano: R$5.0 / R$13.8\nMarket Cap estimado: R$55.5 milhoes (11,109,348 acoes)\n\n## DADOS FINANCEIROS (R$ mil)\nPeriodo mais recente: 2024\nCaixa total: R$129439 mil\nDivida bruta: R$None mil\nPL: R$230203 mil\nReceita liquida: R$167739 mil\nLucro liquido: R$-25560 mil\nEBITDA: R$-21015 mil\n\nEvolucao historica:\n  2019: caixa=4404 | LL=383 | rec=127289\n  1T20: caixa=11668 | LL=-2553 | rec=33052\n  2T20: caixa=45623 | LL=13278 | rec=85926\n  2020: caixa=31830 | LL=11701 | rec=245254\n  1T22: caixa=10130.0 | LL=-9918.0 | rec=63968.0\n  2022: caixa=158199 | LL=-54271 | rec=256800\n  2024: caixa=129439 | LL=-25560 | rec=167739\n\n## ESTATUTO SOCIAL\nTag along ON: 100%\nPoison pill: ? (trigger: ?%)\nVoto multiplo: ?\nConselho: ?-? membros\nCapital autorizado: 25000000 acoes\nTotal acoes: 11109348\n\n## COMPOSICAO ACIONARIA (movimentacoes recentes)\n  2024-08-12 | Diretoria                      | aquisicao  | None%\n  2024-08-31 | Conselho Administração         | posicao    | None%\n  2024-09-30 | Conselho Administração         | posicao    | None%\n  2024-09-30 | Diretoria                      | posicao    | None%\n  2024-10-31 | Conselho de Administração      | posicao    | None%\n  2024-10-31 | Diretoria                      | posicao    | None%\n  2024-11-30 | Conselho Administração         | posicao    | None%\n  2024-11-30 | Diretoria                      | posicao    | None%\n  2024-12-31 | Conselho Administração         | posicao    | None%\n  2024-12-31 | Diretoria                      | posicao    | None%\n\n## EVENTOS RECENTES (severidade >= 4)\n  [7] 2023-07-19 — A Westwing divulgou dados operacionais prévios não auditados do 2T23, com GMV de R$ 68,1 milhões, e \n  [7] 2023-07-26 — A Westwing recebeu um pedido de acionistas titulares de mais de 5% do capital social com direito a v\n      flags: ativismo\n  [6] 2023-08-07 — A Westwing informou que recebeu do acionista Montenegro Fundo de Investimento Multimercado, detentor\n      flags: ativismo\n  [7] 2023-08-07 — A WNT Gestora De Recursos Ltda. comunicou que os fundos sob sua gestão atingiram uma participação de\n      flags: aquisicao\n  [4] 2023-08-10 — A Kapitalo Investimentos Ltda. e fundos sob sua gestão comunicaram a Westwing a redução de sua parti\n      flags: alienacao_participacao\n  [8] 2023-08-11 — A WNT Gestora De Recursos Ltda. comunicou à Westwing que os fundos sob sua gestão atingiram uma part\n      flags: aquisicao\n  [7] 2023-09-06 — Acionista com mais de 5% do capital social com direito a voto solicitou a adoção de voto múltiplo pa\n      flags: ativismo\n  [5] 2023-10-26 — A WestWing convoca Assembleia Geral Extraordinária para 29 de novembro de 2023, com o objetivo de de\n  [5] 2024-02-05 — A Westwing informa a renúncia de Arthur Staudt ao cargo de Diretor de Tecnologia (CTO) para seguir p\n      flags: renunciadiretoria\n  [7] 2024-12-13 — A Westwing (WEST3) aprovou em Assembleia Geral Extraordinária o grupamento de suas ações na proporçã\n      flags: grupamento"
+}

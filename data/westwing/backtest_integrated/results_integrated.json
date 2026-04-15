@@ -1,0 +1,1094 @@
+[
+  {
+    "evento_vs_tese": "novo_fator",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "investigar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "Apesar da sinalização de busca por sócio, os fundamentos de valuation e os riscos operacionais/de governança que embasam a recomendação 'EVITAR' permanecem inalterados. Este evento introduz um novo vetor de análise (potencial M&A), mas não altera a tese principal sobre a sustentabilidade do crescimento e dos múltiplos no momento."
+    },
+    "alerta": {
+      "titulo": "WESTWING: Busca por Sócio Estratégico em Pauta",
+      "corpo": "A Westwing confirmou que monitora oportunidades de operações societárias, após notícia do Valor Econômico. Embora não haja acordo concreto, a sinalização de abertura para M&A é relevante para uma empresa com múltiplos elevados e riscos de governança. Isso pode indicar uma tentativa de destravar valor ou uma dificuldade em justificar o valuation atual, exigindo monitoramento atento.",
+      "impacto_valuation": "Potencial para um evento de M&A que pode gerar prêmio ou diluição, dependendo dos termos. Não altera os múltiplos atuais, mas introduz um novo vetor de valor e incerteza, que pode ser positivo ou negativo.",
+      "impacto_governanca": "A busca por um sócio pode ser vista como uma tentativa de estabilizar a gestão ou de trazer um parceiro estratégico, o que pode ser positivo se trouxer governança mais robusta, ou negativo se for um sinal de desalinhamento ou fraqueza.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "O comunicado da Westwing, embora negando um acordo concreto, confirma que a Companhia 'sempre monitora, no curso normal de seus negócios, por meio de seus assessores financeiros, potenciais oportunidades no mercado que possam gerar valor para a Companhia e para seus acionistas, inclusive por meio de operações societárias'. Isso indica uma postura proativa em relação a M&A, o que não estava explicitamente mapeado na tese como um evento iminente.",
+    "proximo_passo": "Monitorar de perto novos comunicados da CVM e notícias de mercado sobre possíveis negociações ou acordos. Avaliar o perfil de potenciais parceiros e o impacto de diferentes tipos de operações societárias (fusão, aquisição, venda de participação) na estrutura de capital e governança da empresa.",
+    "_meta": {
+      "event_date": "2021-08-10",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "Esclarecimento de notícia do jornal Valor Econômico",
+      "event_especie": "",
+      "event_severidade_triage": 4,
+      "thesis_date": "2021-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20210810_Comunicado_ao_Mercad_7b21998e58fa.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"confirma\",\n  \"triggers_ativados\": [\n    \"Divulgação de resultados do 2T21 com desaceleração de receita e/ou compressão de margem EBITDA.\"\n  ],\n  \"severidade\": 9,\n  \"acao_recomendada\": \"reduzir\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": true,\n    \"de\": \"EVITAR\",\n    \"para\": \"reduzir\",\n    \"motivo\": \"Os resultados do 2T21 confirmam o bear case da tese, com uma desaceleração do crescimento",
+    "_meta": {
+      "event_date": "2021-08-13",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "Apresentação de Resultados 2T21",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2021-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20210813_Comunicado_ao_Mercad_13033d49702b.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [
+      "Anúncio de aquisição relevante financiada com dívida, aumentando o risco financeiro sem sinergias claras."
+    ],
+    "severidade": 8,
+    "acao_recomendada": "investigar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A aquisição da Zarpo, uma agência de viagens online, por uma empresa de e-commerce de casa e decoração, reforça a tese de que o case é excessivamente especulativo e adiciona riscos de execução e governança. Embora a recomendação permaneça 'EVITAR', a convicção nesta tese negativa aumenta, e a necessidade de investigação aprofundada sobre os termos da transação é crucial."
+    },
+    "alerta": {
+      "titulo": "WEST3: Aquisição da Zarpo levanta sérias dúvidas sobre estratégia e valuation",
+      "corpo": "Westwing anunciou a aquisição da Zarpo, uma OTA. Esta expansão para um setor distinto do core de casa e decoração, em um momento de múltiplos já esticados e instabilidade gerencial, levanta sérias dúvidas sobre a estratégia e a alocação de capital. A transação adiciona complexidade e risco de execução, reforçando a tese de 'EVITAR'.",
+      "impacto_valuation": "Potencial diluição de foco, aumento de dívida (se financiada assim), e dificuldade em justificar múltiplos ainda mais altos com uma tese de sinergias incertas em um novo setor. O caixa líquido é insignificante para uma aquisição relevante.",
+      "impacto_governanca": "A decisão de uma aquisição relevante logo após a troca de CFO e um ciberataque, sem um plano de alocação de capital claro do novo CFO, pode indicar falta de disciplina e governança. Adiciona risco de execução à gestão já questionada.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A Zarpo é uma agência de viagens online com 10 anos de mercado, mais de 6 milhões de clientes cadastrados e selo RA1000 no Reclame Aqui. A Westwing justifica a aquisição como parte de uma estratégia de expansão em categorias de 'lifestyle' com 'sinergias comerciais' para conquistar novos clientes e servir a base existente. A precificação final e o fechamento da transação estão sujeitos a due diligence legal e financeira, com prazo estimado de 75 dias.",
+    "proximo_passo": "Monitorar de perto os termos finais da aquisição (preço, forma de pagamento e financiamento) após a conclusão da due diligence. Avaliar a fundo a plausibilidade das sinergias comerciais e operacionais entre os negócios de casa/decoração e viagens. Revisar o modelo de valuation considerando os riscos e oportunidades da nova estrutura.",
+    "_meta": {
+      "event_date": "2021-09-28",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Aquisição da Zarpo",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2021-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20210928_Fato_Relevante_db43b0b8cba1.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"novo_fator\",\n  \"triggers_ativados\": [\n    \"[-] Anúncio de aquisição relevante financiada com dívida, aumentando o risco financeiro sem sinergias claras.\"\n  ],\n  \"severidade\": 7,\n  \"acao_recomendada\": \"monitorar\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": false,\n    \"de\": \"EVITAR\",\n    \"para\": \"EVITAR\",\n    \"motivo\": \"A aquisição da Zarpo introduz um novo vetor de crescimento e diversificação, alinhado à estratégia de 'home & lifestyle', mas também adiciona complexidade e riscos de execução e integração. Isso ocorre em um momento de instabilidade gerencial (troca de CFO, ciberataque) e sem a divulgação dos detalhes financeiros da transação. A aquisição não resolve as preocupações centrais da tese sobre múltiplos de valuation estratosféricos e risco elevado, podendo até exacerbar o risco de execução. A recomendação de 'EVITAR' permanece válida até que haja clareza sobre os termos financeiros e a capacidade de execução da empresa.\"\n  },\n  \"alerta\": {\n    \"titulo\": \"Aquisição da Zarpo: Expansão Estratégica com Riscos Elevados e Sem Detalhes Financeiros\",\n    \"corpo\": \"A empresa anunciou a aquisição da Zarpo, uma plataforma de viagens, como parte de sua estratégia de expansão para 'home & lifestyle'. Embora a aquisição possa oferecer sinergias comerciais e expandir o mercado endereçável, ela introduz riscos adicionais de execução e integração em um momento de instabilidade gerencial. A ausência de detalhes financeiros da transação impede uma avaliação completa do impacto no valuation e no balanço.\",\n    \"impacto_valuation\": \"A aquisição",
+    "_meta": {
+      "event_date": "2021-10-04",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "Call sobre aquisição Zarpo",
+      "event_especie": "",
+      "event_severidade_triage": 8,
+      "thesis_date": "2021-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20211004_Comunicado_ao_Mercad_b268687593bd.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 6,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "O evento reforça as preocupações existentes sobre governança e capacidade de execução da gestão, que já são pilares da recomendação 'EVITAR'. A descontinuidade da aquisição, embora evite um potencial aumento de dívida, destaca a dificuldade em fechar transações estratégicas devido a 'elementos negociais e de governança', validando a baixa pontuação de governança da tese."
+    },
+    "alerta": {
+      "titulo": "WEST3: Aquisição da Zarpo descontinuada; Reforça riscos de governança e execução",
+      "corpo": "A Westwing anunciou a descontinuidade das negociações para a aquisição da Zarpo, citando falta de consenso em elementos negociais e de governança. Este evento, embora evite um potencial aumento de dívida, reforça as preocupações da tese sobre a capacidade de execução da gestão e a qualidade da governança corporativa. Mantemos a recomendação de EVITAR.",
+      "impacto_valuation": "Neutro no curto prazo, pois evita potencial endividamento, mas também a possibilidade de sinergias. Negativo no longo prazo pela percepção de fragilidade na execução estratégica.",
+      "impacto_governanca": "Negativo. Confirma as preocupações com a instabilidade gerencial e a capacidade de execução de transações estratégicas, validando o baixo score de governança (3/10).",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A descontinuidade da aquisição da Zarpo, mencionada em Fato Relevante anterior de 28 de setembro de 2021, foi atribuída à falta de consenso em 'elementos negociais e de governança', o que é um sinal de alerta para a capacidade da gestão em fechar negócios estratégicos.",
+    "proximo_passo": "Monitorar próximos resultados (4T21) para sinais de desaceleração de crescimento e/ou compressão de margem, e acompanhar comunicados sobre a estratégia do novo CFO.",
+    "_meta": {
+      "event_date": "2021-12-13",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Descontinuidade Aquisição Zarpo",
+      "event_especie": "",
+      "event_severidade_triage": 6,
+      "thesis_date": "2021-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20211213_Fato_Relevante_9b1e4f3652ba.json"
+    }
+  },
+  {
+    "evento_vs_tese": "novo_fator",
+    "triggers_ativados": [],
+    "severidade": 5,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A entrada de um novo acionista relevante não altera fundamentalmente os múltiplos de valuation proibitivos ou os riscos operacionais e de governança já mapeados na tese. A declaração de intenção passiva do fundo não mitiga os riscos existentes, mas adiciona um novo player a ser monitorado no contexto de alto risco de ativismo."
+    },
+    "alerta": {
+      "titulo": "WEST3: Hedge fund coreano Must Asset Management adquire 5% das ações",
+      "corpo": "Um hedge fund coreano, Must Asset Management, adquiriu 5% das ações da Westwing, declarando propósito de investimento puro. Embora a intenção seja passiva, a entrada de um novo acionista relevante em um ambiente já marcado por alta rotatividade de gestão e riscos de governança, reforça o 'alto risco ativismo' da tese e merece atenção.",
+      "impacto_valuation": "Neutro no curto prazo. Não altera os múltiplos proibitivos ou a geração de caixa. Pode gerar volatilidade no preço da ação no curto prazo devido à percepção do mercado sobre a entrada de um investidor institucional.",
+      "impacto_governanca": "Aumenta a complexidade do quadro acionário e o potencial de ativismo, confirmando o 'alto risco ativismo' da tese. A declaração de 'puro investimento' é padrão, mas a vigilância é necessária.",
+      "urgencia": "informativo"
+    },
+    "contexto_adicional": "Must Asset Management é um hedge fund de Seul, Coreia, com AUM de aproximadamente US$ 610 milhões. A participação adquirida é de 5.002% do total de ações ordinárias (5.508.133 ações de 110.126.040 totais).",
+    "proximo_passo": "Monitorar a movimentação acionária da Must Asset Management. Acompanhar de perto os próximos resultados (3T21 e 4T21) para verificar sinais de desaceleração de crescimento ou expansão de margens. Pesquisar o histórico de ativismo da Must Asset Management em outras empresas.",
+    "_meta": {
+      "event_date": "2021-12-29",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "event_severidade_triage": 5,
+      "thesis_date": "2021-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20211229_Comunicado_ao_Mercad_2342b773290e.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [
+      "Novas vendas relevantes de ações pela diretoria ou a saída de outro executivo-chave."
+    ],
+    "severidade": 7,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A renúncia do Diretor Comercial reforça as preocupações de governança e instabilidade gerencial já presentes na tese, validando a recomendação de EVITAR em vez de alterá-la."
+    },
+    "alerta": {
+      "titulo": "WEST3: Diretor Comercial Renuncia, Reforçando Instabilidade Gerencial",
+      "corpo": "O Diretor Comercial da Westwing (WEST3) renunciou por questões pessoais, com substituição interina. Este evento reforça as preocupações de governança e alta rotatividade na diretoria, um dos pilares da nossa tese de EVITAR. A instabilidade em posições chave pode impactar a execução e a confiança do mercado. Manter a recomendação de EVITAR.",
+      "impacto_valuation": "Não há impacto direto nos números de valuation (Market Cap, Caixa, Múltiplos), mas a instabilidade gerencial aumenta o risco percebido, podendo levar a um maior 'de-rating' do papel e dificultar qualquer recuperação de valor.",
+      "impacto_governanca": "Aumenta a percepção de instabilidade na gestão e reforça a baixa pontuação de governança (2/10). Adiciona mais um ponto à lista de 'red flags' de rotatividade de executivos em posições chave.",
+      "urgencia": "24h"
+    },
+    "contexto_adicional": "A renúncia é atribuída a 'questões pessoais', e o Sr. Andres Mutschler assumirá a área comercial interinamente. A falta de um substituto permanente imediato para uma posição tão estratégica pode gerar incerteza e impactar a execução comercial da Companhia.",
+    "proximo_passo": "Monitorar a nomeação de um novo Diretor Comercial permanente e a comunicação da empresa sobre a estratégia para a área. Avaliar o perfil do substituto e o impacto na execução comercial e na percepção do mercado.",
+    "_meta": {
+      "event_date": "2022-01-26",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Renúncia de Diretor Estatutário",
+      "event_especie": "",
+      "event_severidade_triage": 4,
+      "thesis_date": "2021-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20220126_Fato_Relevante_842470cea163.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A saída da Tork Capital, um investidor institucional com potencial ativista mapeado em nossa tese, reforça a falta de confiança do mercado na tese de investimento da WEST3 e elimina um potencial catalisador positivo. Isso valida e fortalece a recomendação de EVITAR."
+    },
+    "alerta": {
+      "titulo": "Tork Capital aliena participação relevante em WEST3, eliminando potencial ativismo",
+      "corpo": "A Tork Capital, mencionada como potencial investidor ativista em nossa tese, comunicou a alienação de sua participação relevante na WEST3. Este movimento indica uma perda de confiança institucional e remove um dos poucos catalisadores positivos que poderiam impulsionar uma reavaliação da ação. A tese de 'EVITAR' é reforçada.",
+      "impacto_valuation": "Neutro no valuation direto, mas negativo na percepção de risco e potencial de upside. A ausência de um investidor ativista reduz a probabilidade de mudanças que poderiam destravar valor.",
+      "impacto_governanca": "Negativo. Embora a Tork tenha declarado que não tinha intenção de mudar o controle, sua saída de um papel com governança já fraca é um sinal de que mesmo potenciais agentes de mudança estão desistindo. Reforça a percepção de instabilidade.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A tese vigente mencionava 'Tork ou Must' como potenciais investidores ativistas. O comunicado da Tork Capital não só informa a alienação de sua participação relevante, mas também declara explicitamente que sua participação 'não tem objetivo de alterar a composição de controle ou a estrutura administrativa da sociedade', o que contradiz a especulação de ativismo por parte deste fundo.",
+    "proximo_passo": "Atualizar a tese para remover a Tork Capital como um potencial investidor ativista positivo e reavaliar outros potenciais catalisadores de governança. Monitorar a reação do mercado ao comunicado e os próximos resultados da empresa.",
+    "_meta": {
+      "event_date": "2022-03-17",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Alienação de Participação Acionária Relevante - Art.12, §4º, da Instrução CVM nº358/02",
+      "event_severidade_triage": 5,
+      "thesis_date": "2021-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20220317_Comunicado_ao_Mercad_74bf03af1d3a.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"neutro\",\n  \"triggers_ativados\": [],\n  \"severidade\": 4,\n  \"acao_recomendada\": \"manter\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": false,\n    \"de\": \"EVITAR\",\n    \"para\": \"EVITAR\",\n    \"motivo\": \"Os resultados do 1T22 mostram uma melhora na rentabilidade (margem bruta e EBITDA) e um foco em eficiência (redução de marketing, otimização logística), o que é positivo. No entanto, a receita líquida, embora cresça",
+    "_meta": {
+      "event_date": "2022-05-12",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2021-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20220512_Comunicado_ao_Mercad_b0d8c37bff97.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [
+      "Novas vendas relevantes de ações pela diretoria ou a saída de outro executivo-chave."
+    ],
+    "severidade": 8,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A renúncia do CFO/DRI confirma um dos principais 'red flags' de governança já mapeados na tese (alta rotatividade na diretoria e instabilidade em posição chave). Este evento reforça a tese de 'EVITAR' e não introduz um novo fator que justifique uma mudança na recomendação, apenas valida as preocupações existentes."
+    },
+    "alerta": {
+      "titulo": "WEST3: CFO/DRI Renuncia, Reforça Instabilidade de Governança",
+      "corpo": "O CFO e DRI da Westwing (WEST3) renunciou, confirmando a alta rotatividade na diretoria e a instabilidade na gestão, um dos principais 'red flags' da nossa tese. O Diretor de Relações com Investidores atual assumirá interinamente as funções de CFO, o que adiciona incerteza à sucessão e à continuidade estratégica. Mantemos a recomendação de EVITAR, pois os riscos de execução e credibilidade permanecem elevados.",
+      "impacto_valuation": "Neutro no curto prazo, mas contribui para o 'de-rating' contínuo e a desconexão dos múltiplos com os fundamentos, já que a instabilidade gerencial dificulta a execução de qualquer plano de turnaround.",
+      "impacto_governanca": "Negativo. Confirma a baixa pontuação de governança (2/10) e a preocupação com a rotatividade de gestão. A saída de um CFO/DRI, especialmente com a posição sendo ocupada interinamente, levanta dúvidas sobre a sucessão e a continuidade estratégica.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "O Diretor de Relações com Investidores (DRI) atual, Sr. Andres Mutschler, assumirá as funções de CFO de forma interina. Isso indica que a empresa não tem um substituto imediato e permanente para a posição de CFO, aumentando a percepção de instabilidade na gestão e a incerteza sobre a continuidade das estratégias financeiras e de comunicação com o mercado.",
+    "proximo_passo": "Monitorar a nomeação de um novo CFO permanente e suas qualificações. Buscar informações adicionais sobre os motivos da renúncia e o impacto na estratégia financeira e de RI. Revisar a tese de governança para incorporar a continuidade da alta rotatividade.",
+    "_meta": {
+      "event_date": "2022-06-20",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Renúncia CFO e DRI",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2021-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20220620_Fato_Relevante_27258737a890.json"
+    }
+  },
+  {
+    "evento_vs_tese": "novo_fator",
+    "triggers_ativados": [],
+    "severidade": 6,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "EVITAR",
+      "para": "MONITORAR",
+      "motivo": "A descontinuação da operação 'Mezzanine' demonstra um esforço da gestão para focar na rentabilidade e preservação de caixa, mitigando um dos principais riscos da tese 'EVITAR' (queima de caixa). Embora não resolva todos os problemas da empresa, é um sinal positivo de que a gestão está agindo para reverter o cenário adverso, justificando uma postura de monitoramento mais próximo em vez de evitar completamente."
+    },
+    "alerta": {
+      "titulo": "WEST3: Descontinua marketplace-out para focar em rentabilidade e caixa",
+      "corpo": "A Westwing anunciou a descontinuação da operação 'Mezzanine' (marketplace-out) para focar em seu core business, buscando maior rentabilidade e preservação de caixa. Esta medida é um primeiro passo positivo para endereçar a queima de caixa e a falta de lucratividade, pontos centrais da nossa tese 'EVITAR'. Recomenda-se monitorar os próximos resultados para avaliar o impacto real desta decisão.",
+      "impacto_valuation": "Potencialmente positivo no caixa e na rentabilidade futura, o que poderia reduzir a destruição de valor patrimonial (PL) e, eventualmente, melhorar o EBITDA. Não há impacto imediato nos múltiplos atuais.",
+      "impacto_governanca": "Neutro. A decisão mostra proatividade da gestão em reestruturar a operação, o que é positivo, mas não aborda a alta rotatividade de C-levels ou o fracasso do M&A.",
+      "urgencia": "24h"
+    },
+    "contexto_adicional": "A operação descontinuada era a 'Mezzanine', responsável pela revenda de produtos de marca diferente em marketplaces terceiros. O foco agora será nos canais proprietários: Westwing Club, Now e Stores.",
+    "proximo_passo": "Acompanhar os próximos resultados trimestrais para verificar o impacto da descontinuação na queima de caixa e na margem EBITDA. Buscar informações sobre a nova estrutura de custos e o plano detalhado para os canais core.",
+    "_meta": {
+      "event_date": "2022-08-08",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "Descontinuidade do marketplace-out",
+      "event_especie": "",
+      "event_severidade_triage": 5,
+      "thesis_date": "2022-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20220808_Comunicado_ao_Mercad_4e5b30c57b3b.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A reapresentação das demonstrações financeiras por reconhecimento indevido de receita agrava a crise de credibilidade e as falhas operacionais já mapeadas na tese, reforçando a recomendação de EVITAR. Não há novos elementos que justifiquem uma mudança de recomendação."
+    },
+    "alerta": {
+      "titulo": "WEST3: Reapresentação de DFs por falha em receita agrava crise de credibilidade",
+      "corpo": "A Westwing reapresentou as DFs do 1T22 devido a reconhecimento indevido de receita por erro em script de desconto. Este evento reforça as preocupações com a governança e a confiabilidade dos controles internos, agravando a crise de credibilidade já mapeada. Mantemos a recomendação de EVITAR, pois a instabilidade financeira e operacional se aprofunda.",
+      "impacto_valuation": "Aumenta a incerteza sobre a qualidade dos resultados reportados, tornando qualquer análise de valuation ainda mais desafiadora e potencialmente levando a uma maior destruição de valor percebido pelo mercado. A confiabilidade dos múltiplos atuais é ainda mais comprometida.",
+      "impacto_governanca": "Confirma falhas nos controles internos e na integridade da informação financeira, deteriorando ainda mais o score de governança (já em 3/10) e a confiança na gestão. É um 'red flag' adicional para a rotatividade de management e a falta de visibilidade.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A reapresentação foi motivada por uma 'diferença relacionada ao reconhecimento de receita indevida, ocasionada durante a atualização de um script de programação de desconto'. Embora a auditoria tenha sido sem ressalvas, a causa aponta para uma falha de controle interno na área de TI/sistemas que impacta diretamente a apuração de resultados.",
+    "proximo_passo": "Revisar as demonstrações financeiras reapresentadas para quantificar o impacto exato na receita e lucratividade do 1T22 e avaliar a magnitude da falha de controle. Monitorar a reação do mercado e a comunicação da empresa sobre as medidas para evitar recorrências. Considerar um ajuste no score de governança.",
+    "_meta": {
+      "event_date": "2022-08-15",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Reapresentação DFs 1T22",
+      "event_especie": "",
+      "event_severidade_triage": 6,
+      "thesis_date": "2022-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20220815_Fato_Relevante_083635dadda8.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A alienação de participação relevante por um investidor institucional (Equitas) reforça a tese de crise de credibilidade e operacional, validando o bear case e a recomendação de EVITAR. Não há novos elementos que justifiquem uma mudança de recomendação, mas sim uma consolidação da visão negativa."
+    },
+    "alerta": {
+      "titulo": "WEST3: Equitas reduz participação, reforçando tese de EVITAR",
+      "corpo": "A Equitas Administração de Fundos de Investimentos Ltda. alienou participação relevante em WEST3, reduzindo sua posição para 4,53%. Este movimento de venda por um investidor institucional confirma a tese de que a empresa enfrenta uma crise de credibilidade e operacional, validando o bear case e a recomendação de EVITAR. O mercado continua precificando corretamente o alto risco de execução.",
+      "impacto_valuation": "Reforça a percepção de que o baixo P/PL é uma armadilha de valor, indicando que o mercado está correto em precificar o alto risco. Não altera diretamente os múltiplos, mas sinaliza potencial de desvalorização adicional e falta de confiança no turnaround.",
+      "impacto_governanca": "Confirma um dos red flags de governança mapeados (venda por gestoras institucionais), indicando uma deterioração adicional na confiança do mercado e na percepção de estabilidade da gestão. O score de governança de 3/10 permanece justificado.",
+      "urgencia": "24h"
+    },
+    "contexto_adicional": "A Equitas, que anteriormente detinha uma participação relevante (acima de 5%), reduziu sua posição para 4,53% das ações ordinárias da WEST3. Este é um sinal claro de perda de confiança de um investidor institucional, corroborando a instabilidade e os riscos já identificados na tese.",
+    "proximo_passo": "Monitorar a reação do preço da ação, verificar se outros investidores institucionais seguem o movimento de venda e continuar acompanhando de perto os resultados operacionais da empresa, especialmente a queima de caixa e a estabilidade da gestão. Buscar por notícias sobre a contratação de um novo CFO.",
+    "_meta": {
+      "event_date": "2022-08-18",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Alienação de Participação Acionária Relevante - Art.12, §4º, da Instrução CVM nº358/02",
+      "event_severidade_triage": 6,
+      "thesis_date": "2022-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20220818_Comunicado_ao_Mercad_4e26b67ee33e.json"
+    }
+  },
+  {
+    "evento_vs_tese": "contradiz",
+    "triggers_ativados": [
+      "Anúncio da contratação de um novo CFO com reputação sólida e track record comprovado no varejo/e-commerce."
+    ],
+    "severidade": 8,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "EVITAR",
+      "para": "MONITORAR",
+      "motivo": "A contratação de um novo CFO com experiência relevante em varejo e M&A, como Marcelo Kenji, endereça diretamente um dos principais pontos de preocupação da tese vigente: a alta rotatividade e instabilidade na diretoria. Embora não resolva os problemas operacionais e de queima de caixa, é um passo fundamental para a estabilização da gestão e a possível execução de um plano de turnaround. A recomendação passa de 'EVITAR' para 'MONITORAR', reconhecendo este desenvolvimento positivo, mas mantendo a cautela devido aos desafios remanescentes."
+    },
+    "alerta": {
+      "titulo": "WESTWING (WEST3): Novo CFO endereça instabilidade na gestão, mas desafios persistem",
+      "corpo": "A Westwing anunciou a eleição de Marcelo Kenji como novo CFO e DRI, com início em 1º de dezembro. Este movimento é positivo, pois endereça a alta rotatividade na diretoria, um ponto crítico da nossa tese de 'EVITAR'. Embora seja um passo importante para a estabilização da governança, a empresa ainda enfrenta queima de caixa e desafios operacionais. Recomendamos monitorar de perto os próximos resultados e as primeiras ações da nova gestão.",
+      "impacto_valuation": "Não há impacto direto nos múltiplos atuais, mas a estabilização da gestão é um pré-requisito para qualquer potencial destravamento de valor futuro e redução do risco de execução. Reduz o risco de 'armadilha de valor' ao menos no aspecto de gestão.",
+      "impacto_governanca": "Positivo. A contratação de um CFO com experiência em varejo e M&A mitiga a preocupação com a alta rotatividade da diretoria e a ausência de um líder financeiro, que era um dos principais red flags (score 3/10).",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A tese destacava a 'Renúncia do Diretor Financeiro (CFO) e do Diretor Comercial em um intervalo de 6 meses' como um ponto de governança negativo. A eleição de Marcelo Kenji, com 12 anos de experiência em Finanças Corporativas, 5 anos como CFO (MOB e La Guapa) e experiência em consultoria de gestão com foco em varejo e M&A, é um desenvolvimento que se alinha com o perfil desejado para o trigger positivo mapeado.",
+    "proximo_passo": "Realizar due diligence aprofundada sobre o histórico de Marcelo Kenji nas empresas anteriores (MOB e La Guapa) e sua reputação no mercado. Agendar call com RI para entender a estratégia da nova gestão e os planos para reverter a queima de caixa. Monitorar os próximos resultados trimestrais para sinais de melhora operacional e financeira.",
+    "_meta": {
+      "event_date": "2022-11-10",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Eleição CFO e DRI",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2022-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20221110_Fato_Relevante_fc4e8613fdd2.json"
+    }
+  },
+  {
+    "evento_vs_tese": "novo_fator",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A entrada de um novo acionista relevante (WNT Gestora) é um fator novo que pode influenciar a governança e a estratégia futura da Companhia. No entanto, os problemas operacionais e de queima de caixa que fundamentam a recomendação 'EVITAR' permanecem inalterados. A WNT declarou não ter intenção de mudar a administração *neste momento*, o que significa que a instabilidade gerencial e a falta de um plano de reestruturação crível ainda são preocupações. É um evento a ser monitorado de perto, mas não justifica uma mudança na recomendação fundamental de evitar o papel."
+    },
+    "alerta": {
+      "titulo": "Novo Acionista Relevante (WNT) Adquire 7,06% da WEST3 - Potencial para Ativismo Futuro",
+      "corpo": "A WNT Gestora de Recursos Ltda. adquiriu uma participação de 7,06% na Westwing. Embora a WNT declare não ter intenção de mudar a administração *neste momento*, esta é uma posição relevante que pode sinalizar interesse em um turnaround ou potencial ativismo futuro. Os problemas operacionais e de queima de caixa da WEST3 persistem, mas a presença de um novo investidor institucional merece atenção.",
+      "impacto_valuation": "Neutro no curto prazo, pois não altera os fundamentos de destruição de valor ou queima de caixa. Pode gerar especulação no preço da ação.",
+      "impacto_governanca": "Potencialmente positivo no médio prazo, introduzindo um novo player com capacidade de influência. Aumenta o risco de ativismo (já mapeado como médio na tese).",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A WNT Gestora De Recursos Ltda. é uma gestora de recursos que adquiriu 7,06% das ações ordinárias da WEST3. Eles declararam não ter intenção de fazer mudanças na estrutura administrativa *neste momento*, mas reservam o direito de voto. Não há acordo de voto ou compra/venda de valores mobiliários.",
+    "proximo_passo": "Monitorar as próximas comunicações da WNT e da WEST3. Pesquisar o histórico da WNT em outras empresas, especialmente em special situations ou turnarounds. Acompanhar de perto os próximos resultados trimestrais da WEST3 para verificar se há qualquer sinal de melhora operacional ou mudança na queima de caixa.",
+    "_meta": {
+      "event_date": "2022-11-17",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "event_severidade_triage": 6,
+      "thesis_date": "2022-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20221117_Comunicado_ao_Mercad_514363b33092.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"confirma\",\n  \"triggers_ativados\": [\n    \"Primeiro resultado trimestral com Geração de Caixa Operacional positiva ou próxima de zero.\"\n  ],\n  \"severidade\": 8,\n  \"acao_recomendada\": \"comprar\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": true,\n    \"de\": \"monitorar\",\n    \"para\": \"comprar\",\n    \"motivo\": \"O resultado do 1T23 confirma a tese de special situation ao demonstrar uma redução drástica (75%) na queima de caixa operacional e um aumento na liquidez total da empresa. Isso estende a pista para a reestruturação e mitiga o principal risco de destruição de valor, tornando a aposta binária mais favorável. A empresa continua negociando com um desconto significativo sobre seu caixa líquido, o que, combinado com a melhora operacional, justifica uma recomendação de compra.\"\n  },\n  \"alerta\": {\n    \"titulo\": \"Westwing: Queima de Caixa Reduzida em 75% e Liquidez Aumenta, Confirmando Tese\",\n    \"corpo\": \"A Westwing reportou uma redução de 75% no consumo de caixa operacional + capex no 1T23, elevando sua liquidez para R$195M. Este desenvolvimento crucial valida a tese de special situation, estendendo a pista para a reestruturação e reduzindo o risco de destruição de valor. A ação, ainda negociando abaixo do caixa, apresenta um upside mais claro.\",\n    \"impacto_valuation\": \"A liquidez aumentou de R$158.2M para R$195M, elevando o piso de valor da empresa. Apesar disso, o Market Cap permaneceu em R$131.1M, implicando um desconto ainda maior sobre o caixa líquido (agora ~32.7%). A redução da queima de caixa diminui a erosão futura do caixa, tornando o desconto atual sobre o caixa mais atrativo e o potencial de re-rating mais evidente.\",\n    \"impacto_governanca\": \"Neutro. O relatório não aborda diretamente questões de governança, mas a melhora operacional pode indiretamente fortalecer a posição do acionista ativista WNT em suas demandas por reestruturação.\",\n    \"urgencia\": \"imediata\"\n  },\n  \"contexto_adicional\": \"A liquidez total da empresa no final do 1T23 foi de ~R",
+    "_meta": {
+      "event_date": "2023-05-16",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "Apresentação Resultados 1T23",
+      "event_especie": "",
+      "event_severidade_triage": 5,
+      "thesis_date": "2023-03-31",
+      "thesis_recomendacao": "monitorar",
+      "source_file": "20230516_Comunicado_ao_Mercad_39c13d924f61.json"
+    }
+  },
+  {
+    "evento_vs_tese": "contradiz",
+    "triggers_ativados": [
+      "[-] Anúncio da renúncia do novo CFO (Marcelo Kenji) ou de outro diretor C-level."
+    ],
+    "severidade": 7,
+    "acao_recomendada": "reduzir",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "monitorar",
+      "para": "reduzir",
+      "motivo": "A saída do Diretor Vice-Presidente e de um membro independente do Conselho, somada à alta rotatividade já mapeada na tese, ativa um trigger negativo de alto impacto. Isso aumenta a incerteza e o risco de falha na reestruturação, tornando o bear case mais provável e justificando uma postura mais cautelosa e a redução da exposição."
+    },
+    "alerta": {
+      "titulo": "WEST3: Nova Rodada de Saídas na Alta Gestão e Conselho Aumenta Risco",
+      "corpo": "A Westwing anunciou a renúncia do Diretor Vice-Presidente e de um membro independente do Conselho. Este evento ativa um trigger negativo da nossa tese, reforçando a preocupação com a alta rotatividade na gestão e a dificuldade de estabilizar a empresa para a reestruturação. Aumenta a probabilidade do bear case, exigindo uma reavaliação da posição.",
+      "impacto_valuation": "A instabilidade gerencial contínua aumenta o risco de aceleração da queima de caixa operacional, erodindo o principal ativo da tese (caixa líquido) e impactando negativamente o valuation implícito da operação.",
+      "impacto_governanca": "Confirma e agrava a baixa governança (score 2/10) devido à persistência da alta rotatividade na alta gestão e no conselho. A acumulação de cargos pelo CEO (Conselho) pode ser vista como centralização de poder, adicionando um novo ponto de atenção.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "Apesar das saídas, a eleição de Felipe Jardim (Diretor de Logística e Inovação com 8 anos de casa) para Diretor Vice-Presidente pode trazer expertise operacional relevante. Contudo, a eleição do CEO (Andres Mutschler) para acumular o cargo de membro do Conselho de Administração pode ser interpretada como uma concentração de poder, o que merece atenção sob a ótica de governança.",
+    "proximo_passo": "Monitorar a reação do mercado e a comunicação da WNT. Buscar mais detalhes sobre os motivos das saídas e o impacto na estratégia de reestruturação. Avaliar a nova composição do conselho e diretoria para entender implicações na governança e execução.",
+    "_meta": {
+      "event_date": "2023-06-13",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Eleição Vice-Presidente e Membro do Conselho de Administração||Renúncia Vice-Presidente e Membro do Conselho de Administração",
+      "event_especie": "",
+      "event_severidade_triage": 6,
+      "thesis_date": "2023-03-31",
+      "thesis_recomendacao": "monitorar",
+      "source_file": "20230613_Fato_Relevante_78fd173d438b.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"confirma\",\n  \"triggers_ativados\": [],\n  \"severidade\": 8,\n  \"acao_recomendada\": \"monitorar\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": false,\n    \"de\": \"MONITORAR\",\n    \"para\": \"MONITORAR\",\n    \"motivo\": \"O evento confirma a tese de ativismo e a intenção da WNT de reestruturar a empresa, mas o desfecho da AGE e o sucesso da reestruturação ainda são incertos. A recomendação 'MONITORAR' continua apropriada para acompanhar os",
+    "_meta": {
+      "event_date": "2023-06-27",
+      "event_categoria": "Assembleia",
+      "event_assunto": "",
+      "event_especie": "Boletim de voto a distância",
+      "event_severidade_triage": 8,
+      "thesis_date": "2023-03-31",
+      "thesis_recomendacao": "monitorar",
+      "source_file": "20230627_Assembleia_93c54b808aca.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"confirma\",\n  \"triggers_ativados\": [\n    \"Primeiro resultado trimestral com Geração de Caixa Operacional positiva ou próxima de zero.\"\n  ],\n  \"severidade\": 8,\n  \"acao_recomendada\": \"investigar\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": true,\n    \"de\": \"MONITORAR\",\n    \"para\": \"INVESTIGAR\",\n    \"motivo\": \"A Companhia reportou geração de R$4.0M em caixa operacional entre Mar-Mai/23, um av",
+    "_meta": {
+      "event_date": "2023-06-27",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Evolução Posição de Caixa",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2023-03-31",
+      "thesis_recomendacao": "monitorar",
+      "source_file": "20230627_Fato_Relevante_2f3d9070ce9a.json"
+    }
+  },
+  {
+    "evento_vs_tese": "novo_fator",
+    "triggers_ativados": [
+      "[-] Anúncio da renúncia do novo CFO (Marcelo Kenji) ou de outro diretor C-level."
+    ],
+    "severidade": 8,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "MONITORAR",
+      "para": "MONITORAR",
+      "motivo": "Apesar da alta rotatividade na gestão ser um ponto negativo e ativar um trigger, a nomeação do CFO como CEO interino, com foco explícito na preservação de caixa, alinha-se com a tese central de estancar a queima de caixa. A situação permanece binária e de alta incerteza, justificando a manutenção da recomendação de MONITORAR enquanto se aguardam mais desenvolvimentos."
+    },
+    "alerta": {
+      "titulo": "WEST3: CEO renuncia, CFO assume interinamente com foco em caixa",
+      "corpo": "O CEO Andres Mutschler renunciou, mas permanecerá no Conselho. O CFO Marcelo Kenji assume como CEO interino, com o Conselho destacando seu papel na redução da queima de caixa. Este evento reforça a alta rotatividade na gestão, um risco mapeado, mas a nomeação do CFO com foco em caixa pode ser um sinal positivo para a tese de estancar a queima. A situação de governança permanece frágil, mas a prioridade no caixa é um ponto a ser observado.",
+      "impacto_valuation": "Neutro no curto prazo. A saída do CEO é um fator de instabilidade, mas a prioridade na preservação de caixa, se bem-sucedida, pode mitigar a destruição de valor e, eventualmente, reduzir o desconto sobre o caixa líquido.",
+      "impacto_governanca": "Negativo. A renúncia do CEO contribui para a alta rotatividade na gestão (já um ponto fraco da governança, score 2/10). A permanência do ex-CEO no conselho pode gerar dinâmicas complexas e potenciais conflitos de interesse ou lentidão na reestruturação.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A permanência do ex-CEO (Andres Mutschler) no Conselho de Administração, apesar de sua renúncia ao cargo executivo, é um novo fator que pode influenciar a dinâmica de governança e a implementação da reestruturação. A justificativa explícita do Conselho para a nomeação do CFO como CEO interino, destacando seu 'ótimo trabalho realizado ao longo dos últimos meses como um dos principais líderes do esforço de redução de consumo de caixa', reforça a prioridade da empresa em estancar a queima de caixa, um ponto central da tese.",
+    "proximo_passo": "Monitorar de perto as declarações e ações do novo CEO interino, Marcelo Kenji, especialmente em relação a planos concretos para redução de custos e otimização operacional. Acompanhar a composição do Conselho de Administração e a relação entre o ex-CEO (agora conselheiro) e a nova gestão. Buscar informações sobre a busca por um CEO permanente e o envolvimento do acionista WNT nesse processo.",
+    "_meta": {
+      "event_date": "2023-06-29",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Mudanças Organizacionais",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2023-03-31",
+      "thesis_recomendacao": "monitorar",
+      "source_file": "20230629_Fato_Relevante_a6bdf27b353d.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"contradiz\",\n  \"triggers_ativados\": [],\n  \"severidade\": 7,\n  \"acao_recomendada\": \"monitorar\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": true,\n    \"de\": \"EVITAR\",\n    \"para\": \"MONITORAR\",\n    \"motivo\": \"A empresa divulgou planos concretos de redução de despesas e melhorias operacionais que, se bem executados, podem mitigar a queima de caixa, um dos principais pontos negativos da tese. Embora os riscos de execução e governança permaneçam altos, a presença de um plano de ação justifica uma postura de monitoramento mais próximo em vez de evitar completamente.\"\n  },\n  \"alerta\": {\n    \"titulo\": \"WEST3: Planos de corte de custos e dados 2T23 preliminares indicam esforço de turnaround\",\n    \"corpo\": \"A Westwing divulgou projeções de redução de despesas",
+    "_meta": {
+      "event_date": "2023-07-19",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Dados Prévios 2T23 e Projeções",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2023-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20230719_Fato_Relevante_0b17f3705c0e.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "O pedido de voto múltiplo confirma a intensificação da crise de governança e o ativismo acionário, elementos centrais da tese de 'special situation' de alto risco. Não há mudança fundamental nos drivers de valor ou risco que justifique uma alteração na recomendação de EVITAR, dado o alto risco de execução e a queima de caixa persistente. A incerteza sobre a composição do novo conselho e a capacidade de estancar a queima de caixa permanece elevada."
+    },
+    "alerta": {
+      "titulo": "WEST3: Pedido de Voto Múltiplo Intensifica Crise de Governança",
+      "corpo": "Acionistas com mais de 5% do capital votante da Westwing solicitaram voto múltiplo para a eleição do novo Conselho de Administração na AGE de 01/08. Este movimento confirma a escalada do ativismo acionário e a crise de gestão, elementos centrais da nossa tese de 'special situation'. A incerteza sobre a futura governança e a capacidade de reverter a queima de caixa permanece alta, reforçando a recomendação de EVITAR.",
+      "impacto_valuation": "Indiretamente, aumenta o risco percebido e a incerteza sobre a capacidade da empresa de estancar a queima de caixa e gerar valor futuro. Não há impacto direto nos múltiplos atuais.",
+      "impacto_governanca": "Impacto direto e significativo. Confirma e intensifica o 'Risco ativismo: alto' e a 'Crise de gestão explícita'. A eleição do conselho com voto múltiplo pode alterar significativamente a composição e o controle da empresa.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "O pedido de voto múltiplo foi feito por acionistas titulares de mais de 5% do capital social com direito a voto, o que indica uma força considerável por trás da iniciativa de mudança na governança. A Assembleia Geral Extraordinária (AGE) está marcada para 01 de agosto de 2023.",
+    "proximo_passo": "Monitorar de perto a AGE de 01/08/2023 para a destituição do conselho atual e a eleição dos novos membros, com foco na composição e nos nomes indicados. Buscar informações sobre os acionistas que solicitaram o voto múltiplo e suas intenções.",
+    "_meta": {
+      "event_date": "2023-07-26",
+      "event_categoria": "Aviso aos Acionistas",
+      "event_assunto": "Pedido de Voto Múltiplo",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2023-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20230726_Aviso_aos_Acionistas_0fdc0d12faa9.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "Apesar do aumento da participação do acionista ativista WNT confirmar sua intenção de liderar o turnaround, os riscos operacionais e de execução, bem como a queima de caixa acelerada, que fundamentam a recomendação 'EVITAR', permanecem inalterados no curto prazo. O evento não resolve os problemas fundamentais da companhia, mas solidifica a presença do agente que pode vir a resolvê-los."
+    },
+    "alerta": {
+      "titulo": "WEST3: WNT aumenta participação para 32.35%, solidificando controle",
+      "corpo": "A WNT Gestora De Recursos Ltda. comunicou ter atingido 32,35% das ações ordinárias da Westwing. Este movimento solidifica a posição do acionista ativista, confirmando a tese de um turnaround liderado por ele. No entanto, os desafios de queima de caixa e governança ainda persistem, mantendo o alto risco de execução.",
+      "impacto_valuation": "Neutro no curto prazo. Potencial positivo no longo prazo se o maior controle da WNT resultar em um turnaround bem-sucedido e estancamento da queima de caixa.",
+      "impacto_governanca": "Reforça o controle do acionista ativista, o que pode ser um passo para resolver a crise de governança e gestão, mas os problemas subjacentes (rotatividade, controles fracos) ainda precisam ser endereçados pela nova gestão.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A WNT declarou que a aquisição visa aumentar a exposição dos fundos sob sua gestão, sem acordos de voto ou compra/venda de valores mobiliários, exceto seu manual de exercício de voto. Isso indica uma intenção de controle e influência direta, sem a formação de um bloco de controle formal com outros acionistas.",
+    "proximo_passo": "Monitorar de perto os próximos anúncios da WNT e da Companhia, especialmente sobre a nomeação de um novo CEO e diretoria, e a divulgação dos resultados do 2T23 para avaliar a evolução da queima de caixa.",
+    "_meta": {
+      "event_date": "2023-08-07",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "event_severidade_triage": 7,
+      "thesis_date": "2023-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20230807_Comunicado_ao_Mercad_6a92b854d3b3.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"confirma\",\n  \"triggers_ativados\": [],\n  \"severidade\": 8,\n  \"acao_recomendada\": \"investigar\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": true,\n    \"de\": \"EVITAR\",\n    \"para\": \"MONITORAR\",\n    \"motivo\": \"O acionista ativista WNT está agindo de forma concreta para influenciar a governança, indicando candidatos para o Conselho de Administração. Embora o turnaround ainda seja incerto e a queima de caixa persista, este é um passo positivo na execução da tese",
+    "_meta": {
+      "event_date": "2023-08-07",
+      "event_categoria": "Aviso aos Acionistas",
+      "event_assunto": "Indicação Candidatos AGE 30/08",
+      "event_especie": "",
+      "event_severidade_triage": 6,
+      "thesis_date": "2023-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20230807_Aviso_aos_Acionistas_b2090d668640.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A alienação de participação relevante por um investidor institucional como a Kapitalo Investimentos reforça a percepção de alto risco e a falta de confiança no turnaround da WEST3, validando a recomendação vigente de EVITAR. Este evento não altera os fundamentos da tese, mas corrobora a visão de cautela."
+    },
+    "alerta": {
+      "titulo": "Kapitalo Investimentos Reduz Participação Relevante em WEST3",
+      "corpo": "A Kapitalo Investimentos Ltda. comunicou a alienação de sua participação relevante em WEST3, reduzindo-a para aproximadamente 2.41%. Este movimento de um investidor institucional em meio à crise de governança e alto risco de execução da empresa reforça a tese de EVITAR, sinalizando uma falta de confiança na capacidade da nova gestão de reverter a queima de caixa.",
+      "impacto_valuation": "Não afeta diretamente o valuation (Market Cap, Caixa Líquido), mas pode gerar pressão vendedora no curto prazo e impactar negativamente a percepção de risco do mercado, o que indiretamente afeta os múltiplos de negociação.",
+      "impacto_governanca": "Neutro a ligeiramente negativo. Embora a Kapitalo afirmasse ter um objetivo estritamente de investimento, sua saída remove um potencial 'olho' institucional sobre a companhia, e é um voto de desconfiança na gestão e no processo de turnaround.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A Kapitalo Investimentos Ltda., juntamente com Kapitalo Ciclo Gestora de Recursos Financeiros Ltda. e Kapitalo Nexo Gestão de Recursos Ltda., reduziu sua participação agregada para 2.41% das ações ordinárias da WEST3. A declaração da Kapitalo reitera que o objetivo de sua participação era estritamente de investimento, sem intenção de alterar o controle societário ou a estrutura administrativa da Companhia, e que não há acordo de acionistas.",
+    "proximo_passo": "Monitorar o fluxo de notícias sobre a nomeação de um novo CEO e diretoria, bem como a divulgação dos resultados do 2T23 para avaliar a persistência da queima de caixa. Observar o comportamento do preço da ação após esta notícia.",
+    "_meta": {
+      "event_date": "2023-08-10",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Alienação de Participação Acionária Relevante - Art.12, §4º, da Instrução CVM nº358/02",
+      "event_severidade_triage": 4,
+      "thesis_date": "2023-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20230810_Comunicado_ao_Mercad_a0824e1986d5.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "Apesar do aumento da participação do acionista ativista WNT, que reforça seu comprometimento com o turnaround, os riscos fundamentais da tese (queima de caixa acelerada, ausência de nova gestão e plano de reestruturação crível) permanecem inalterados. É um passo na direção da consolidação do controle, mas não uma resolução dos problemas operacionais e de governança."
+    },
+    "alerta": {
+      "titulo": "WEST3: WNT Aumenta Participação para 37,60%, Reforçando Controle Acionista",
+      "corpo": "A WNT Gestora de Recursos Ltda. comunicou ter atingido 37,60% das ações ordinárias da Westwing. Este movimento solidifica a posição do acionista ativista, confirmando seu comprometimento com o turnaround da companhia. Embora não resolva os problemas de queima de caixa e governança, indica uma consolidação do controle que pode acelerar futuras decisões estratégicas.",
+      "impacto_valuation": "Nenhum impacto direto imediato nos múltiplos ou no caixa. O impacto será indireto, dependendo da capacidade da WNT em implementar uma gestão eficaz e um plano de reestruturação que estanque a queima de caixa e gere valor.",
+      "impacto_governanca": "Positivamente, consolida o controle do acionista ativista, o que pode levar a uma governança mais estável e focada no turnaround. Negativamente, a crise de gestão e os controles internos fracos ainda não foram resolvidos, e a responsabilidade pelo sucesso recai ainda mais sobre a WNT.",
+      "urgencia": "24h"
+    },
+    "contexto_adicional": "A WNT declara que a aquisição foi para 'aumentar a exposição dos fundos de investimento sob sua gestão à Companhia', sem acordos de voto ou compra/venda de valores mobiliários, exceto o manual de voto da WNT. Isso reforça a intenção de longo prazo e o papel ativo na gestão.",
+    "proximo_passo": "Monitorar de perto os próximos comunicados da companhia e da WNT, especialmente em relação à nomeação de nova diretoria e à apresentação de um plano de reestruturação. Revisar a tese de governança com a consolidação do controle pela WNT.",
+    "_meta": {
+      "event_date": "2023-08-11",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "event_severidade_triage": 8,
+      "thesis_date": "2023-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20230811_Comunicado_ao_Mercad_03c970f86145.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "EVITAR",
+      "para": "MONITORAR",
+      "motivo": "O pedido de voto múltiplo pelo acionista ativista confirma a intensificação da special situation e a busca por maior influência na governança. Embora o risco de execução permaneça alto, este movimento cria um caminho mais claro para a potencial reestruturação, justificando uma mudança de 'EVITAR' para 'MONITORAR' a evolução dos próximos passos."
+    },
+    "alerta": {
+      "titulo": "WEST3: Ativista pede voto múltiplo para eleição do Conselho",
+      "corpo": "O acionista ativista da Westwing (WNT) solicitou a adoção de voto múltiplo para a eleição do Conselho de Administração na AGE de 15/09. Este movimento confirma a tese de special situation e a intenção do ativista em influenciar a governança e a futura gestão. Acompanhar de perto a composição do novo conselho e os próximos passos da reestruturação.",
+      "impacto_valuation": "Neutro no curto prazo, mas aumenta a probabilidade de um turnaround que poderia impactar positivamente o valuation no médio/longo prazo.",
+      "impacto_governanca": "Positivo, pois o voto múltiplo permite maior representatividade de minoritários e do acionista ativista no conselho, o que é crucial para endereçar a crise de gestão e implementar mudanças.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "O pedido de voto múltiplo foi feito por acionista titular de mais de 5% do capital social com direito a voto, confirmando a atuação do acionista ativista (WNT, conforme tese) e sua intenção de influenciar diretamente a composição do Conselho de Administração.",
+    "proximo_passo": "Acompanhar a Assembleia Geral Extraordinária de 15 de setembro de 2023 para verificar a composição do novo Conselho de Administração e a influência do acionista ativista. Buscar informações sobre potenciais candidatos a CEO e plano de reestruturação.",
+    "_meta": {
+      "event_date": "2023-09-06",
+      "event_categoria": "Aviso aos Acionistas",
+      "event_assunto": "Adoção de voto múltiplo",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2023-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20230906_Aviso_aos_Acionistas_11a544a62a75.json"
+    }
+  },
+  {
+    "raw": "{\n  \"evento_vs_tese\": \"confirma\",\n  \"triggers_ativados\": [],\n  \"severidade\": 6,\n  \"acao_recomendada\": \"monitorar\",\n  \"muda_recomendacao\": {\n    \"deve_mudar\": false,\n    \"de\": \"MONITORAR\",\n    \"para\": \"MONITORAR\",\n    \"motivo\": \"O evento, embora relevante para a gestão de custos e a queima de caixa, não altera fundamentalmente a natureza binária da tese de investimento, que permanece dependente do sucesso do investidor ativista WNT. A recomendação de 'MONITORAR' continua adequada para acompanhar os desdobramentos da AGE e as ações do ativista.\"\n  },\n  \"alerta\": {\n    \"titulo\": \"WEST3: Proposta de Remuneração de R$6M+ para Administradores em AGE\",\n    \"corpo\": \"A Westwing convocou uma AGE para 29/11/2023 para aprovar a remuneração global de administradores em até R$6,08M para 2023. Este valor é significativo para uma empresa com Enterprise Value de R$6,2M e que enfrenta forte queima de caixa. Levanta preocupações sobre a gestão de custos e a urgência em estancar a queima de caixa, um ponto central da tese de turnaround.\",\n    \"impacto_valuation\": \"O valor proposto de remuneração (R$6,08M) representa uma parcela considerável do Enterprise Value atual (R$6,2M",
+    "_meta": {
+      "event_date": "2023-10-26",
+      "event_categoria": "Assembleia",
+      "event_assunto": "Remuneração dos Administradores e Conselheiros",
+      "event_especie": "Proposta da Administração",
+      "event_severidade_triage": 5,
+      "thesis_date": "2023-09-30",
+      "thesis_recomendacao": "monitorar",
+      "source_file": "20231026_Assembleia_aea34cb22978.json"
+    }
+  },
+  {
+    "evento_vs_tese": "novo_fator",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "investigar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "Não Definida",
+      "para": "Investigar",
+      "motivo": "A renúncia do CTO, que estava na empresa há mais de 10 anos, é um evento relevante para uma varejista digital como a Westwing. Isso pode indicar descontinuidade na estratégia tecnológica, impactar projetos futuros e levantar questões sobre a estabilidade da gestão. É fundamental uma investigação aprofundada antes de qualquer recomendação formal."
+    },
+    "alerta": {
+      "titulo": "WEST3: CTO Renuncia Após 10 Anos; Risco de Descontinuidade Tecnológica",
+      "corpo": "O CTO da Westwing, Arthur Staudt, renunciou após mais de 10 anos na Companhia. Esta saída é relevante para uma varejista digital e pode indicar descontinuidade na estratégia tecnológica. É crucial investigar o plano de sucessão e o impacto potencial nas operações e projetos futuros.",
+      "impacto_valuation": "Potencial impacto negativo na eficiência operacional, capacidade de inovação e execução de projetos estratégicos, podendo afetar margens e crescimento de longo prazo. Risco de aumento de custos com transição e contratação de novo executivo.",
+      "impacto_governanca": "Saída de executivo chave com longa tenure pode levantar questões sobre a estabilidade da gestão e o alinhamento estratégico. Necessidade de avaliar a profundidade do time de tecnologia e o processo de sucessão para mitigar riscos.",
+      "urgencia": "24h"
+    },
+    "contexto_adicional": "O Sr. Arthur Staudt estava na Companhia há mais de 10 anos, o que sugere um papel fundamental na construção e evolução da plataforma tecnológica da Westwing. A saída é por 'projetos pessoais' e ele permanecerá na posição até o final de fevereiro/2024, o que oferece um período de transição.",
+    "proximo_passo": "Entrar em contato com o Diretor de Relações com Investidores para entender o plano de sucessão, a estrutura do time de tecnologia e os próximos passos para a posição de CTO. Avaliar o histórico recente de saídas de executivos chave na Companhia.",
+    "_meta": {
+      "event_date": "2024-02-05",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Renúncia CTO",
+      "event_especie": "",
+      "event_severidade_triage": 5,
+      "thesis_date": "2023-12-31",
+      "thesis_recomendacao": "?",
+      "source_file": "20240205_Fato_Relevante_89534ca63993.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "O grupamento de ações é uma medida técnica para adequar o preço da ação às regras da B3, não alterando os fundamentos da tese de 'value trap'. A queima de caixa, a instabilidade da gestão e a falta de uma estratégia clara permanecem, justificando a manutenção da recomendação de EVITAR. Este evento apenas reforça a percepção de deterioração do valor da empresa."
+    },
+    "alerta": {
+      "titulo": "WEST3: Grupamento de Ações Confirma Sinais de Dificuldade e 'Value Trap'",
+      "corpo": "A Westwing anunciou um grupamento de ações (10:1) para elevar o preço da ação acima de R$1,00, em conformidade com as regras da B3. Este movimento, embora técnico, reforça a tese de que a empresa enfrenta sérias dificuldades e é uma 'value trap', sem abordar os problemas fundamentais de queima de caixa e governança. A recomendação de EVITAR é mantida, e a situação deve ser monitorada de perto.",
+      "impacto_valuation": "Não altera o Market Cap ou o valor intrínseco da empresa. É uma medida cosmética que não resolve a queima de caixa ou a rentabilidade negativa, mantendo o desconto sobre o caixa de 2022 enganoso e a rápida erosão do balanço como principal preocupação.",
+      "impacto_governanca": "A necessidade de um grupamento para cumprir regras da B3 pode ser vista como mais um sinal de má gestão e deterioração, adicionando um ponto negativo à governança já fraca (score 2/10). Não melhora a rotatividade da gestão ou o conflito com acionistas.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A necessidade de realizar um grupamento para cumprir o Art. 47 do Regulamento de Emissores da B3 (manter a cotação acima de R$1,00) é um forte indicativo da deterioração do valor de mercado da empresa, que já negociava com um desconto sobre o caixa de 2022, mas com uma rápida queima de caixa. O prazo de 31 dias para ajuste de posições e o leilão de frações são procedimentos padrão, mas podem gerar ruído e custos para acionistas minoritários com posições não-múltiplas de 10.",
+    "proximo_passo": "Monitorar a efetivação do grupamento e a negociação das ações 'ex-grupamento'. Aguardar a divulgação de resultados financeiros atualizados (que estão defasados em 1.5 anos) para reavaliar a queima de caixa e a situação do balanço. Continuar acompanhando o ativismo de acionistas e qualquer mudança na gestão.",
+    "_meta": {
+      "event_date": "2024-12-13",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Grupamento de ações",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2024-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20241213_Fato_Relevante_f54ee4cd36ab.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 6,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "O grupamento de ações já estava explicitamente mapeado na tese como um sinal de 'distress' financeiro e um fator negativo de governança. Sua efetivação confirma a fragilidade da situação e a validade da tese de 'value trap', mas não introduz um novo fator que altere a recomendação vigente de EVITAR, que já incorporava esse risco."
+    },
+    "alerta": {
+      "titulo": "WEST3: Grupamento de Ações Concluído - Confirmação de Distress",
+      "corpo": "A Westwing (WEST3) concluiu o grupamento de ações na proporção 10:1, com negociação das ações grupadas a partir de 16 de janeiro de 2025. Este evento, já antecipado e mapeado em nossa tese, reforça o cenário de 'distress' financeiro e os severos problemas de governança da companhia. A recomendação de EVITAR é mantida, pois o caso continua sendo um 'value trap' de alto risco devido à queima de caixa e conflitos.",
+      "impacto_valuation": "Neutro no curto prazo, pois o grupamento não altera o valor de mercado ou o caixa líquido diretamente, mas é um sintoma de fragilidade que corrobora a tese de destruição de valor.",
+      "impacto_governanca": "Confirma a baixa qualidade da governança (score 2/10) e o alto risco de ativismo/distress, conforme já detalhado na tese.",
+      "urgencia": "informativo"
+    },
+    "contexto_adicional": "O documento detalha a proporção exata do grupamento (10 para 1), o número total de ações antes do grupamento (111.093.486) e a data de início da negociação das ações grupadas (16 de janeiro de 2025). Também informa sobre o leilão das frações de ações.",
+    "proximo_passo": "Monitorar os próximos resultados trimestrais para avaliar a queima de caixa e a evolução dos conflitos de governança, que são os fatores mais críticos para a tese de 'value trap'.",
+    "_meta": {
+      "event_date": "2025-01-15",
+      "event_categoria": "Aviso aos Acionistas",
+      "event_assunto": "Grupamento de Ações",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2024-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20250115_Aviso_aos_Acionistas_a535fb6329b1.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 5,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A mudança no conselho de administração, embora seja uma alteração na diretoria, não é acompanhada de um plano claro de alocação de capital ou reestruturação que justifique uma mudança na recomendação de EVITAR. Pelo contrário, reforça a instabilidade de governança e a alta rotatividade já mapeadas na tese, sem ativar o trigger positivo de forma completa."
+    },
+    "alerta": {
+      "titulo": "WEST3: Nova Mudança no Conselho de Administração Reforça Instabilidade de Governança",
+      "corpo": "A Westwing anunciou a renúncia de um membro do Conselho de Administração e a eleição de um novo, com perfil em IA e desenvolvimento. Este evento, embora seja uma alteração na diretoria, não vem acompanhado de um plano claro de alocação de capital para destravar o valor do caixa, conforme esperado pelo trigger positivo. Pelo contrário, reforça a alta rotatividade na gestão e os riscos de governança já mapeados na tese.",
+      "impacto_valuation": "Neutro no curto prazo. O perfil do novo conselheiro pode sinalizar futuras iniciativas de tecnologia, mas sem um plano claro, não altera a tese de valor baseada no desconto sobre o caixa líquido ou a preocupação com a queima de caixa.",
+      "impacto_governanca": "Negativo. A rotatividade no conselho, mesmo que por iniciativa própria, contribui para a percepção de instabilidade e conflitos de governança, mantendo o score baixo (2/10).",
+      "urgencia": "informativo"
+    },
+    "contexto_adicional": "O novo membro do conselho, Sr. Roberto de Oliveira, possui um perfil focado em tecnologia, desenvolvimento e inteligência artificial, o que pode indicar uma futura direção estratégica da companhia. No entanto, a falta de um plano detalhado sobre como essa expertise será utilizada para resolver os problemas de rentabilidade e queima de caixa impede uma avaliação positiva imediata.",
+    "proximo_passo": "Monitorar próximos comunicados da companhia sobre a estratégia do novo conselho e a alocação de capital. Acompanhar os resultados do próximo trimestre para verificar a queima de caixa e a evolução da receita, especialmente à luz de possíveis novas iniciativas tecnológicas.",
+    "_meta": {
+      "event_date": "2025-05-20",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Mudança no Conselho de Administração",
+      "event_especie": "",
+      "event_severidade_triage": 5,
+      "thesis_date": "2024-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20250520_Fato_Relevante_8a2f036ec930.json"
+    }
+  },
+  {
+    "evento_vs_tese": "contradiz",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "investigar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "EVITAR",
+      "para": "INVESTIGAR",
+      "motivo": "A eleição de um novo CEO dedicado, com experiência relevante e foco em rentabilidade e crescimento, endereça diretamente a preocupação com a instabilidade na gestão e a falta de um plano claro para estancar a queima de caixa. Embora a execução seja o desafio, este é um primeiro passo positivo que mitiga parte do risco de governança e abre caminho para um potencial turnaround, justificando uma mudança de 'EVITAR' para 'INVESTIGAR' para acompanhar de perto as próximas ações."
+    },
+    "alerta": {
+      "titulo": "WEST3: Novo CEO eleito, potencial para turnaround e melhoria de governança",
+      "corpo": "A Westwing elegeu André Machado como novo CEO, separando o cargo de CFO/DRI. André possui experiência relevante em Investment Banking e como CEO, com foco declarado em rentabilidade e crescimento. Este movimento é um sinal positivo que endereça a instabilidade na gestão e a pressão ativista, podendo ser o início de um turnaround. É crucial monitorar as primeiras ações e resultados sob a nova liderança.",
+      "impacto_valuation": "Nenhum impacto direto imediato nos múltiplos ou caixa, mas potencialmente positivo a longo prazo se o novo CEO conseguir reverter a queima de caixa e a queda de receita, o que poderia reduzir o desconto sobre o caixa líquido.",
+      "impacto_governanca": "Positivo. A separação dos cargos de CEO, CFO e DRI melhora a estrutura de governança. A entrada de um CEO com experiência externa e foco em rentabilidade pode reduzir a alta rotatividade na gestão e responder à pressão ativista, elevando o score de governança.",
+      "urgencia": "24h"
+    },
+    "contexto_adicional": "O Sr. Marcelo Kenji, que acumulava os cargos de Diretor Presidente, Diretor Financeiro e Diretor de Relações com Investidores, manterá apenas as posições de CFO e DRI. A separação desses cargos é uma melhoria significativa na estrutura de governança e foco da gestão. O novo CEO, André Machado, tem formação em FGV, cursos em Harvard e MIT, e vasta experiência como CEO e em Investment Banking, com objetivos claros de rentabilidade e crescimento de vendas.",
+    "proximo_passo": "Agendar call com o novo DRI (Marcelo Kenji) para entender a visão e os planos iniciais do novo CEO. Monitorar de perto as primeiras comunicações e resultados trimestrais para identificar sinais de mudança na queima de caixa e na estratégia de crescimento.",
+    "_meta": {
+      "event_date": "2025-08-20",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Eleição CEO",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2025-06-30",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20250820_Fato_Relevante_5bf6ef30f140.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A renúncia do Diretor de Operações e Tecnologia confirma a alta rotatividade na gestão, um dos pilares da tese de 'EVITAR' e um dos principais riscos de governança mapeados. O evento reforça a visão negativa existente, mas não altera fundamentalmente a recomendação, apenas a solidifica."
+    },
+    "alerta": {
+      "titulo": "WEST3: Diretor de Operações e Tecnologia Renuncia, Aumentando Instabilidade na Gestão",
+      "corpo": "A renúncia do Diretor de Operações e Tecnologia da Westwing, Sr. Felipe Jardim, reforça a alta rotatividade na gestão, um ponto crítico da nossa tese de 'EVITAR'. O CEO assumir a área de tecnologia adiciona mais responsabilidades em um momento de turnaround, elevando o risco de execução. Este evento aumenta a incerteza sobre a capacidade da empresa de estancar a queima de caixa e reverter o cenário operacional.",
+      "impacto_valuation": "Indireto. Aumenta o risco de execução do turnaround, o que pode acelerar a queima de caixa e erodir o valor do balanço, reforçando a percepção de valor negativo da operação e o risco de destruição de valor.",
+      "impacto_governanca": "Negativo. Confirma a alta rotatividade no C-level, um dos principais pontos de preocupação (score 2/10). Aumenta a percepção de instabilidade e fragilidade da gestão, especialmente com o CEO acumulando funções críticas.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "O CEO, Sr. André Machado, assumirá diretamente a responsabilidade pela área de tecnologia. A área de operações passará a ser liderada por diretoria não estatutária, o que pode indicar uma redução na senioridade formal da liderança dessa área crítica.",
+    "proximo_passo": "Monitorar a comunicação da empresa sobre a reestruturação das áreas de Operações e Tecnologia e a busca por um novo líder estatutário. Avaliar o impacto da acumulação de funções pelo CEO na execução do plano de turnaround e na capacidade de estancar a queima de caixa. Reavaliar a probabilidade do 'Bear Case' dado o aumento da instabilidade gerencial.",
+    "_meta": {
+      "event_date": "2026-01-09",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Renúncia de diretor estatutário",
+      "event_especie": "",
+      "event_severidade_triage": 5,
+      "thesis_date": "2025-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20260109_Fato_Relevante_0186ba83f733.json"
+    }
+  },
+  {
+    "evento_vs_tese": "novo_fator",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "O evento introduz um novo e significativo fator de risco (overhang de ações e incerteza na governança) que reforça a tese original de 'EVITAR' devido à alta instabilidade e risco de destruição de valor, tornando o investimento ainda menos atraente."
+    },
+    "alerta": {
+      "titulo": "Mastercard assume 31.87% de WEST3 via dívida e anuncia venda",
+      "corpo": "Mastercard adquiriu 31.87% das ações de WEST3 via excussão de alienação fiduciária e anunciou que venderá a participação. Este evento cria um overhang significativo no papel, aumentando a incerteza sobre a governança e a realização de valor do caixa, reforçando a tese de EVITAR.",
+      "impacto_valuation": "A venda forçada de um bloco tão grande de ações (31.87%) pode gerar pressão vendedora substancial, potencialmente aumentando o 'desconto sobre caixa' e dificultando a realização de valor do balanço. O Market Cap pode ser pressionado para baixo.",
+      "impacto_governanca": "A entrada e saída forçada de um acionista relevante (mesmo que temporário e passivo) adiciona uma camada de instabilidade à já frágil governança da empresa, aumentando o risco de conflitos ou paralisia estratégica. Reforça o score de governança baixo.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A aquisição das ações pela Mastercard resultou da 'excussão de alienação fiduciária', indicando um default de dívida por parte de um acionista ou da própria empresa, onde as ações de WEST3 serviam como garantia. Mastercard não tem intenção de exercer direitos políticos ou manter a participação, buscando alienar as ações.",
+    "proximo_passo": "Monitorar de perto o processo de venda das ações pela Mastercard e seu impacto no preço de WEST3. Investigar a origem da dívida que levou à alienação fiduciária para entender melhor o contexto financeiro subjacente e potenciais implicações para a empresa ou outros acionistas.",
+    "_meta": {
+      "event_date": "2026-01-20",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Participação Acionária Relevante",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2025-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20260120_Fato_Relevante_bd8e9d1de004.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "investigar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "EVITAR",
+      "para": "INVESTIGAR",
+      "motivo": "A entrada de dois novos acionistas ativistas com participação relevante (totalizando 15.32% do capital) e a intenção explícita de eleger membros para o Conselho de Administração aumentam significativamente a probabilidade de um catalisador para destravar o valor do caixa da empresa. Embora os riscos operacionais persistam, a pressão ativista intensificada pode forçar uma reestruturação ou distribuição de capital, alterando o perfil de risco-retorno da tese de 'special situation' e justificando uma postura mais ativa de investigação."
+    },
+    "alerta": {
+      "titulo": "WEST3: Novos Acionistas Ativistas Adquirem Participação Relevante e Buscam Assento no Conselho",
+      "corpo": "Hix Investimentos (8.70%) e BlueOak Investments Asset (6.62%) declararam aquisição de participação relevante na Westwing, totalizando 15.32% do capital. Ambos manifestaram intenção de colaborar ativamente com a gestão e eleger membros para o Conselho de Administração. Este movimento intensifica o cenário de ativismo acionário, podendo acelerar a busca por soluções para a queima de caixa e o destravamento do valor do balanço.",
+      "impacto_valuation": "Potencialmente positivo, pois a pressão ativista pode reduzir o risco de destruição do caixa operacional e aumentar a probabilidade de distribuição de capital ou reestruturação, o que poderia levar a uma redução do desconto atual sobre o caixa líquido e um Enterprise Value menos negativo.",
+      "impacto_governanca": "Positivo. Aumenta a pressão sobre a gestão e o conselho para endereçar os problemas operacionais e de valor. A entrada de novos acionistas ativistas com intenção de eleger conselheiros pode melhorar a supervisão e a governança, que atualmente possui score baixo (2/10) e alta rotatividade.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A participação combinada de Hix Investimentos e BlueOak Investments Asset é de 15.32% do capital social. A declaração explícita de ambos os fundos de buscar assentos no Conselho de Administração na próxima Assembleia Geral Ordinária é um sinal forte de ativismo coordenado e intenção de influenciar a estratégia da Companhia.",
+    "proximo_passo": "Pesquisar o histórico e a filosofia de investimento da Hix Investimentos e da BlueOak Investments Asset, bem como analisar o potencial de alinhamento ou coordenação com outros acionistas ativistas (e.g., WNT). Monitorar de perto os próximos comunicados e a preparação para a Assembleia Geral Ordinária.",
+    "_meta": {
+      "event_date": "2026-01-27",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "event_severidade_triage": 7,
+      "thesis_date": "2025-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20260127_Comunicado_ao_Mercad_0dafccc4eb83.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 9,
+    "acao_recomendada": "investigar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "EVITAR",
+      "para": "MONITORAR",
+      "motivo": "A entrada de um acionista relevante (Oriz Asset Management) com 32,15% do capital e a intenção de eleger membros para o Conselho de Administração aumenta significativamente a probabilidade de ativismo e de uma reestruturação que possa destravar o valor do caixa, conforme previsto no bull case. Embora os riscos operacionais persistam, a materialização do risco de ativismo muda o perfil de risco-retorno, exigindo uma reavaliação da tese de investimento de 'EVITAR' para 'MONITORAR' de perto os próximos desenvolvimentos."
+    },
+    "alerta": {
+      "titulo": "Oriz Asset adquire 32.15% da Westwing e busca assento no Conselho",
+      "corpo": "Oriz Asset Management se tornou acionista relevante da Westwing, detendo 32,15% das ações e manifestando intenção de eleger conselheiros. Este movimento aumenta significativamente a pressão por mudanças na gestão e estratégia, podendo destravar valor do caixa. Acompanhar de perto os próximos passos da Oriz e a reação da gestão é crucial.",
+      "impacto_valuation": "Não há impacto direto no valuation atual, mas a entrada de um acionista ativista pode aumentar a probabilidade de eventos que destravem valor do caixa (e.g., distribuição, venda de ativos, M&A), impactando positivamente o target do bull case e reduzindo o risco de destruição de valor do balanço.",
+      "impacto_governanca": "Impacto potencialmente positivo na governança. A entrada de um acionista relevante com intenção de participar do conselho pode trazer maior fiscalização e pressão por melhorias na gestão e alocação de capital, mitigando a alta rotatividade e a aparente ausência de 'skin in the game'. O risco de ativismo, já mapeado como alto, se materializa de forma mais concreta.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A Oriz Asset Management adquiriu as ações do Oikos Fundo de Investimento em Participações Multiestratégia. A Oriz declara que a operação tem caráter de investimento e sem o objetivo de alterar a composição do controle ou a estrutura administrativa da Companhia, mas com a intenção de eleger membros para o Conselho de Administração.",
+    "proximo_passo": "Monitorar comunicados subsequentes da Oriz ou da Westwing sobre a eleição de conselheiros. Buscar contato com a Oriz para entender melhor suas intenções e plano para a Westwing. Atualizar o modelo de valuation para incorporar a maior probabilidade do bull case e os cenários de destravamento de valor.",
+    "_meta": {
+      "event_date": "2026-03-18",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "event_severidade_triage": 7,
+      "thesis_date": "2025-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20260318_Comunicado_ao_Mercad_31352c1f42e1.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 8,
+    "acao_recomendada": "investigar",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "A saída de um acionista relevante (25,5%) reforça a percepção de risco e falta de convicção no turnaround, alinhando-se à tese de 'EVITAR' devido à instabilidade e potencial destruição de valor. No entanto, a entrada de um novo player exige investigação aprofundada antes de qualquer mudança na recomendação, pois os fundamentos operacionais e de governança que a embasam não foram alterados por este evento."
+    },
+    "alerta": {
+      "titulo": "WEST3: FIP Oikos aliena 25,5% da participação; novo investidor assume bloco relevante",
+      "corpo": "FIP Oikos vendeu sua participação de 25,5% na Westwing para Oriz Albright FIP. Esta alienação de um bloco relevante de ações por um investidor que não visava controle pode indicar falta de confiança na tese de turnaround e reforça a percepção de risco. É crucial investigar as intenções do novo acionista, Oriz Albright, e seu potencial impacto na governança e estratégia da companhia, especialmente dado o alto risco de ativismo e a queima de caixa.",
+      "impacto_valuation": "Não há impacto direto imediato no valuation, que se baseia no caixa líquido e no EV negativo. No entanto, a percepção de risco pode aumentar, e a entrada de um novo acionista pode influenciar futuras decisões de capital ou reestruturação, potencialmente destravando ou erodindo valor.",
+      "impacto_governanca": "Aumenta a incerteza na governança. Embora o FIP Oikos não fosse ativista, a entrada de um novo acionista com um bloco tão grande pode alterar a dinâmica do conselho e a pressão por mudanças, potencialmente exacerbando ou mitigando o risco de ativismo já mapeado.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "O FIP Oikos detinha 25,5% do capital social e votante da Westwing, o que representa um bloco acionário muito significativo. A venda foi para o ORIZ ALBRIGHT FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES MULTIESTRATÉGIA. O FIP Oikos declarou que sua participação tinha caráter estritamente de investimento e não visava alteração de controle ou estrutura administrativa.",
+    "proximo_passo": "Pesquisar o perfil e histórico da Oriz Asset Management Ltda. e do ORIZ ALBRIGHT FIP para entender suas estratégias de investimento e histórico de ativismo. Monitorar comunicados futuros da CVM e notícias de mercado sobre a Westwing e o novo acionista para identificar quaisquer sinais de intenções estratégicas ou ativismo.",
+    "_meta": {
+      "event_date": "2026-03-18",
+      "event_categoria": "Comunicado ao Mercado",
+      "event_assunto": "",
+      "event_especie": "Declaração de Alienação de Participação Acionária Relevante - Art.12, §4º, da Instrução CVM nº358/02",
+      "event_severidade_triage": 8,
+      "thesis_date": "2025-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20260318_Comunicado_ao_Mercad_0f4c68207877.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [
+      "Anúncio de um programa de recompra de ações ou pagamento de dividendos extraordinários."
+    ],
+    "severidade": 9,
+    "acao_recomendada": "monitorar",
+    "muda_recomendacao": {
+      "deve_mudar": true,
+      "de": "EVITAR",
+      "para": "MONITORAR",
+      "motivo": "A proposta de redução de capital com restituição em dinheiro valida a tese de valor do balanço e o potencial de destravamento de valor para os acionistas, mitigando parcialmente o risco de queima de caixa. Embora os riscos operacionais persistam, a ação direta de retorno de capital justifica uma reavaliação da recomendação de EVITAR para MONITORAR."
+    },
+    "alerta": {
+      "titulo": "WEST3: Proposta de Redução de Capital de R$60M - Destravando Valor do Caixa",
+      "corpo": "Westwing propôs uma redução de capital de R$60M com restituição em dinheiro aos acionistas, citando capital excessivo. Este movimento valida nossa tese de que o valor da empresa reside no balanço e representa um destravamento significativo de valor, mitigando o risco de queima de caixa. A recomendação muda de EVITAR para MONITORAR, mas os riscos operacionais persistem.",
+      "impacto_valuation": "Reduz o caixa líquido da empresa em R$60M, mas deve reduzir o desconto do Market Cap sobre o caixa e o Enterprise Value negativo, refletindo um reconhecimento de valor pelo mercado. O P/PL pode ser impactado positivamente.",
+      "impacto_governanca": "Positivo. Sinaliza um foco na criação de valor para o acionista e pode ser resultado da pressão ativista, melhorando o score de governança. A gestão está agindo para endereçar o capital excessivo.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A redução de capital de R$60M representa aproximadamente 49.4% do caixa líquido atual (R$121.35M), um movimento substancial para destravar valor e que se alinha com o bull case de distribuição de valor aos acionistas.",
+    "proximo_passo": "Atualizar o modelo de valuation para refletir a redução de capital e o novo caixa líquido. Analisar o impacto na estrutura de capital e na capacidade de financiamento de futuras operações. Acompanhar a convocação da AGE e a aprovação da proposta, bem como os termos da restituição.",
+    "_meta": {
+      "event_date": "2026-03-22",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Redução de Capital",
+      "event_especie": "",
+      "event_severidade_triage": 8,
+      "thesis_date": "2025-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20260322_Fato_Relevante_3120f1f69b81.json"
+    }
+  },
+  {
+    "evento_vs_tese": "confirma",
+    "triggers_ativados": [],
+    "severidade": 7,
+    "acao_recomendada": "manter",
+    "muda_recomendacao": {
+      "deve_mudar": false,
+      "de": "EVITAR",
+      "para": "EVITAR",
+      "motivo": "O evento de alta rotatividade na gestão e instabilidade na governança já é um pilar central da tese de 'EVITAR'. Esta nova mudança apenas reforça a premissa negativa, não alterando a recomendação, mas solidificando a visão de alto risco."
+    },
+    "alerta": {
+      "titulo": "WEST3: Nova Mudança na Diretoria Reforça Instabilidade na Gestão",
+      "corpo": "A Westwing anunciou a destituição do CFO/IRO e a nomeação de interinos, com o CEO acumulando a função de RI. Este é mais um sinal de alta rotatividade na gestão, um ponto crítico da nossa tese de 'EVITAR'. A instabilidade na governança aumenta o risco de destruição de valor e dificulta a execução de um turnaround.",
+      "impacto_valuation": "Não há impacto direto no valuation atual, que já precifica um EV negativo e risco de queima de caixa. No entanto, a instabilidade gerencial pode dificultar a reversão do cenário operacional, impactando negativamente o valor do caixa no longo prazo.",
+      "impacto_governanca": "Confirma e agrava a preocupação com a alta rotatividade na gestão e a instabilidade na governança, um dos pilares da recomendação 'EVITAR'. O score de governança de 2/10 é reforçado.",
+      "urgencia": "imediata"
+    },
+    "contexto_adicional": "A tese já apontava para alta rotatividade na gestão. Este evento é uma manifestação direta dessa preocupação, com a destituição do CFO/IRO e a acumulação de funções pelo CEO, além da nomeação de um CFO interino. Embora o novo CFO interino tenha um currículo robusto, a natureza interina e a saída do executivo anterior adicionam incerteza.",
+    "proximo_passo": "Monitorar a performance operacional nos próximos trimestres para verificar se a instabilidade gerencial impacta a queima de caixa. Acompanhar a busca por um CFO e IRO permanentes e a apresentação de um plano estratégico pelo CEO, que seria um trigger positivo.",
+    "_meta": {
+      "event_date": "2026-03-24",
+      "event_categoria": "Fato Relevante",
+      "event_assunto": "Mudanças na Administração",
+      "event_especie": "",
+      "event_severidade_triage": 7,
+      "thesis_date": "2025-12-31",
+      "thesis_recomendacao": "evitar",
+      "source_file": "20260324_Fato_Relevante_8a50c09b4187.json"
+    }
+  }
+]

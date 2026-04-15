@@ -1,0 +1,87 @@
+{
+  "empresa": "Westwing Comércio Varejista S.A.",
+  "ticker": "WEST3",
+  "data_avaliacao": "2022-06-30",
+  "recomendacao": "evitar",
+  "confianca": "alta",
+  "tese_resumo": "A empresa enfrenta uma grave crise de credibilidade e operacional. A queima de caixa, a alta rotatividade da diretoria (CFO e Diretor Comercial) e um M&A fracassado sinalizam riscos elevados, tornando o valuation aparentemente barato (P/PL < 0.5x) uma provável armadilha de valor.",
+  "valuation": {
+    "market_cap_mm": 230.0,
+    "caixa_liquido_mm": 10.13,
+    "desconto_sobre_caixa_pct": null,
+    "pl_por_acao": "42.39",
+    "preco_sobre_pl": "0.49",
+    "ev_ebitda": "N/M",
+    "observacao_valuation": "O múltiplo P/PL de 0.49x parece atrativo, mas é enganoso. A empresa está destruindo valor (EBITDA e Lucro Líquido negativos), o que corrói o PL. O mercado precifica corretamente o alto risco de execução e a falta de visibilidade sobre a lucratividade futura. O EV/EBITDA não é aplicável devido ao resultado operacional negativo. A ausência de dados sobre a dívida bruta é um ponto de atenção."
+  },
+  "tese_bull": {
+    "resumo": "Um turnaround liderado por uma nova gestão ou a entrada de um investidor estratégico poderia destravar o valor da marca. A R$20.7/ação, o mercado oferece um ponto de entrada com desconto significativo sobre o valor patrimonial (R$42.39/ação), gerando um potencial de alta expressivo se a queima de caixa for revertida.",
+    "target_price": null,
+    "upside_pct": null,
+    "probabilidade_estimada": "baixa",
+    "catalalisadores": [
+      "Contratação de um C-level (CFO/CEO) com forte credibilidade no mercado",
+      "Dois trimestres consecutivos com EBITDA positivo",
+      "Entrada de um investidor ativista ou proposta de aquisição",
+      "Apresentação de um plano de reestruturação crível e com metas claras"
+    ]
+  },
+  "tese_bear": {
+    "resumo": "A empresa continuará queimando caixa em um cenário macroeconômico adverso para o e-commerce, erodindo seu PL. A instabilidade na gestão, marcada pela saída do CFO, impede a execução de qualquer plano de recuperação, levando a uma maior destruição de valor para o acionista.",
+    "target_price": null,
+    "downside_pct": null,
+    "probabilidade_estimada": "alta",
+    "riscos": [
+      "Continuidade da queima de caixa operacional",
+      "Incapacidade de reter talentos-chave na diretoria",
+      "Necessidade de um follow-on diluitivo para financiar a operação",
+      "Aumento da concorrência e perda de market share",
+      "Deterioração da marca devido à instabilidade e resultados fracos"
+    ]
+  },
+  "governanca": {
+    "score": "3",
+    "red_flags": [
+      "Renúncia do Diretor Financeiro (CFO) e do Diretor Comercial em um intervalo de 6 meses",
+      "Fracasso na execução da aquisição da Zarpo, expondo falha estratégica ou de due diligence",
+      "Movimentos de venda de participação por gestoras institucionais (Tork Capital)",
+      "Dados de Dívida Bruta e detalhes do estatuto social ausentes no snapshot"
+    ],
+    "pontos_positivos": [
+      "Tag along de 100% para ações ON"
+    ],
+    "rotatividade_management": "alta",
+    "risco_ativismo": "medio",
+    "comentario": "A governança está severamente comprometida. A saída de dois diretores C-level em seis meses, especialmente o CFO, é um sinal clássico de problemas profundos. O fracasso na transação com a Zarpo destrói a credibilidade da gestão em executar sua própria estratégia de crescimento. O único ponto positivo é o tag along, uma proteção estrutural mínima."
+  },
+  "triggers": [
+    {
+      "trigger": "Anúncio da contratação de um novo CFO com reputação sólida e track record comprovado no varejo/e-commerce.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "curto"
+    },
+    {
+      "trigger": "Divulgação de resultado trimestral com EBITDA positivo e um plano claro para manter a lucratividade.",
+      "direcao": "positivo",
+      "impacto_estimado": "alto",
+      "probabilidade": "baixa",
+      "prazo": "medio"
+    },
+    {
+      "trigger": "Anúncio de uma oferta de ações (follow-on) para levantar capital em condições desfavoráveis (preço baixo).",
+      "direcao": "negativo",
+      "impacto_estimado": "alto",
+      "probabilidade": "media",
+      "prazo": "medio"
+    }
+  ],
+  "proximos_passos": [
+    "Monitorar o anúncio do novo Diretor Financeiro e analisar seu perfil",
+    "Analisar o próximo resultado trimestral (2T22) com foco na evolução da margem EBITDA e queima de caixa",
+    "Acompanhar movimentações acionárias da Must Asset Management para sinais de ativismo"
+  ],
+  "nota_final": "Westwing é um caso clássico de 'falling knife'. A destruição de valor de 77% em um ano é um sintoma de problemas estruturais, agora confirmados pela desintegração da alta gestão. O desconto sobre o valor patrimonial não é uma oportunidade, mas um reflexo do risco extremo. Sem um novo time de gestão e um plano de turnaround claro e executável, o capital do investidor está em risco. Evitar a ação é a única recomendação prudente.",
+  "snapshot_used": "============================================================\nSNAPSHOT: WESTWING (WEST3) — Data: 2022-06-30\n============================================================\n\n## DADOS DE MERCADO\nPreco: R$20.7\nVolume medio 30d: 62913\nVariacao 30d: -23.3%\nVariacao 1 ano: -77.5%\nMin/Max 1 ano: R$19.9 / R$101.9\nMarket Cap estimado: R$230.0 milhoes (11,109,348 acoes)\n\n## DADOS FINANCEIROS (R$ mil)\nPeriodo mais recente: 1T22\nCaixa total: R$None mil\nDivida bruta: R$None mil\nPL: R$470914.0 mil\nReceita liquida: R$63968.0 mil\nLucro liquido: R$-9918.0 mil\nEBITDA: R$-11999.0 mil\n\nEvolucao historica:\n  2019: caixa=4404 | LL=383 | rec=127289\n  1T20: caixa=11668 | LL=-2553 | rec=33052\n  2T20: caixa=45623 | LL=13278 | rec=85926\n  2020: caixa=31830 | LL=11701 | rec=245254\n  1T22: caixa=10130.0 | LL=-9918.0 | rec=63968.0\n\n## ESTATUTO SOCIAL\nTag along ON: 100%\nPoison pill: ? (trigger: ?%)\nVoto multiplo: ?\nConselho: ?-? membros\nCapital autorizado: 25000000 acoes\nTotal acoes: 11109348\n\n## COMPOSICAO ACIONARIA (movimentacoes recentes)\n  2021-11-18 | Diretoria                      | alienacao  | None%\n  2021-12-29 | Must Asset Management          | aquisicao  | 5.002%\n    Intencao: Tal participação não tem objetivo de alterar a composição de\n  2021-12-31 | Diretoria                      | posicao    | None%\n  2022-02-01 | Diretoria                      | aquisicao  | None%\n  2022-02-01 | Diretoria                      | aquisicao  | None%\n  2022-02-08 | Diretoria                      | posicao    | None%\n    Intencao: não foram realizadas operações com valores mobiliários e der\n  2022-03-17 | Tork Capital Gestão de Recurso | alienacao  | None%\n    Intencao: Não pretende alterar a composição de controle ou a estrutura\n  2022-03-31 | Diretoria                      | posicao    | None%\n  2022-04-11 | Diretoria                      | aquisicao  | None%\n  2022-05-31 | Diretoria                      | posicao    | None%\n    Intencao: não foram realizadas operações com valores mobiliários e der\n\n## EVENTOS RECENTES (severidade >= 4)\n  [4] 2021-08-10 — A Westwing esclarece notícia do Valor Econômico sobre a busca por um sócio, afirmando que monitora o\n  [7] 2021-08-13 — A Westwing (WEST3) apresentou seus resultados do 2T21, destacando o crescimento acelerado do GMV (+1\n  [7] 2021-09-28 — A Westwing assinou um memorando de entendimentos para adquirir 100% do capital social da Zarpo Viage\n      flags: aquisicao\n  [8] 2021-10-04 — Westwing anuncia a aquisição da Zarpo para expandir sua atuação na categoria de viagens e lifestyle,\n      flags: aquisicao\n  [6] 2021-12-13 — A Westwing comunicou a descontinuidade das negociações para a possível aquisição de 100% do capital \n      flags: aquisição\n  [5] 2021-12-29 — A Must Asset Management adquiriu 5,002% das ações ordinárias da Westwing, declarando que a participa\n      flags: aquisicao\n  [4] 2022-01-26 — A Westwing comunicou a renúncia do Sr. Ricardo Romano ao cargo de Diretor Comercial por questões pes\n      flags: renunciadiretoria\n  [5] 2022-03-17 — A Westwing recebeu um comunicado da Tork Capital Gestão de Recursos Ltda. informando sobre a alienaç\n      flags: alienacao_participacao\n  [7] 2022-05-12 — A WestWing reportou crescimento de 12,7% na Receita Líquida no 1T22, atingindo R$ 68,3 milhões, apes\n  [7] 2022-06-20 — A Westwing comunica a renúncia de Thiago Deiab dos cargos de Diretor Financeiro e de Relações com In\n      flags: renunciadiretoria"
+}

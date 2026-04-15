@@ -1,0 +1,14 @@
+{
+  "data_versao": "2025-10-23",
+  "capital_social": {
+    "valor": 471374907.65,
+    "moeda": "BRL",
+    "acoes_ordinarias": 11109348,
+    "acoes_preferenciais": 0,
+    "total_acoes": 11109348,
+    "capital_autorizado": 25000000
+  },
+  "governanca": {
+    "tag_along_on_pct": 100
+  }
+}
