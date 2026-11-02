@@ -248,7 +248,7 @@
       "divida_bruta": "DFP 2022",
       "queima_caixa_12m": "DFP 2022 lucro liquido (proxy; FCO nao extraido)",
       "preco": "prices.json (yfinance, ajustado)",
-      "acoes": "estatuto_vigente.json 2025-10-23 (confirmar quantidade em 2023)"
+      "acoes": "estatuto_vigente.json 2025-10-23. Houve grupamento em dez/2024 (alerta 2024-12-13); precos do yfinance sao ajustados, logo a quantidade atual e consistente com a serie. Confirmar a razao do grupamento."
     },
     "reproduzir": "python -m arbmaker.examples.westwing_reducao_capital"
   },
@@ -294,17 +294,18 @@
     "Caixa > MC com queima de caixa NAO e tese sozinho: WEST3 caiu de 10,50 (abr/2023) para 6,72 (mar/2026) enquanto o caixa derretia de 158M para 121M.",
     "O gatilho foi a combinacao: participacao relevante com intencao de eleger conselheiros (art. 12) + proposta de distribuicao. O agente deve ligar os dois documentos.",
     "Comunicados de participacao relevante (Oriz 6,65% -> 32,15% num unico comunicado) sao a fonte mais importante e hoje nao sao coletados pelo v3.",
-    "Sem a divida bruta de 2025 nos dados estruturados, o motor se recusou a calcular EV: a extracao por LLM e o gargalo (ver ROADMAP Fase 1)."
+    "Sem a divida bruta de 2025 nos dados estruturados, o motor se recusou a calcular EV: a extracao por LLM e o gargalo (ver ROADMAP Fase 1).",
+    "Grupamento (dez/2024) muda a quantidade de acoes: toda conta as-of precisa da quantidade de acoes da epoca, nao do estatuto vigente. Checar sempre."
   ],
   "dados_que_faltaram": [
     "divida bruta e FCO de 2024/2025 (extracao LLM falhou)",
     "posicao de aluguel antes da AGE",
     "mapa de votacao da AGE da reducao",
-    "quantidade de acoes em 2023 (confirmar grupamento)"
+    "razao do grupamento de dez/2024 (para reconciliar quantidade de acoes pre-2024 com a DFP da epoca)"
   ],
   "confirmar_com_daniel": [
     "valor exato da reducao de capital (R$60M) e a data da AGE",
-    "se houve grupamento de acoes entre 2021 e 2025",
-    "resultado final: a reducao foi homologada e paga? quando?"
+    "resultado final: a reducao foi homologada e paga? quando?",
+    "razao do grupamento de dez/2024"
   ]
 }
