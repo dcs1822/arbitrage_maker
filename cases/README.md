@@ -45,6 +45,6 @@ Regras:
 |---|---|---|---|
 | westwing_2022_2026 | fechado (parcial) | ativismo, caixa > MC, reducao de capital | dados do repo; conta pelo motor |
 | getninjas_2023 | esqueleto | caixa > MC, reducao de capital, ativismo | confirmar valores |
-| viveo_2025 | esqueleto | reestruturacao de divida, conversao | nome da empresa inferido do audio ("Vigio") |
-| energisa_on_pn | esqueleto | paridade de classes | tickers inferidos do audio ("NG3 pra Indy4") |
+| viveo_2025 | esqueleto | reestruturacao de divida, conversao | Viveo (VVEO3), confirmado |
+| energisa_on_pn | esqueleto | paridade de classes | ENGI3 -> ENGI4, confirmado |
 | raizen_spx_2026 | aberto | credito distressed x equity, participacao relevante | lista de dados a pedir |

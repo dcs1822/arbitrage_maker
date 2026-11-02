@@ -1,17 +1,46 @@
 {
   "id": "energisa_on_pn",
   "status": "esqueleto",
-  "empresa": "Energisa S.A. — TICKERS INFERIDOS DO AUDIO ('NG3 pra Indy4'), confirmar",
-  "tickers": ["ENGI3", "ENGI4", "ENGI11"],
+  "empresa": "Energisa S.A.",
+  "tickers": [
+    "ENGI3",
+    "ENGI4",
+    "ENGI11"
+  ],
   "cd_cvm": null,
-  "tipos_evento": ["paridade_classes", "units"],
-  "instrumentos": ["acao ON", "acao PN", "unit"],
-  "resumo": "Troca entre classes (ON x PN) e/ou montagem/desmontagem de Units quando o premio foge do historico ou quando existe mecanismo de conversao. A PREENCHER com datas e precos.",
+  "tipos_evento": [
+    "paridade_classes",
+    "units"
+  ],
+  "instrumentos": [
+    "acao ON",
+    "acao PN",
+    "unit"
+  ],
+  "resumo": "Troca ENGI3 (ON) por ENGI4 (PN) e/ou montagem/desmontagem de ENGI11 quando o premio foge do historico ou quando existe mecanismo de conversao. A PREENCHER com datas e precos.",
   "timeline": [],
-  "momento_detectavel": {"data": null, "documento": "Aviso aos Acionistas / Fato Relevante sobre conversao de classes, ou desvio de paridade no screener", "por_que": "parity.class_parity e parity.unit_parity com aluguel e dividendos"},
-  "conta_no_momento": {"calculo": "arbmaker.calc.parity.class_parity", "inputs": {}, "outputs": {}, "fontes": {}},
+  "momento_detectavel": {
+    "data": null,
+    "documento": "Aviso aos Acionistas / Fato Relevante sobre conversao de classes, ou desvio de paridade no screener",
+    "por_que": "parity.class_parity e parity.unit_parity com aluguel e dividendos"
+  },
+  "conta_no_momento": {
+    "calculo": "arbmaker.calc.parity.class_parity",
+    "inputs": {},
+    "outputs": {},
+    "fontes": {}
+  },
   "resultado": {},
-  "licoes": ["Sem mecanismo de conversao, desvio de paridade e historico, nao arbitragem."],
-  "dados_que_faltaram": ["serie diaria ON/PN/Unit", "taxa de aluguel por classe", "regra estatutaria de conversao e composicao da Unit"],
-  "confirmar_com_daniel": ["quais tickers e qual periodo", "se havia mecanismo de conversao ou so expectativa"]
+  "licoes": [
+    "Sem mecanismo de conversao, desvio de paridade e historico, nao arbitragem."
+  ],
+  "dados_que_faltaram": [
+    "serie diaria ON/PN/Unit",
+    "taxa de aluguel por classe",
+    "regra estatutaria de conversao e composicao da Unit"
+  ],
+  "confirmar_com_daniel": [
+    "qual periodo da troca",
+    "se havia mecanismo de conversao ou so expectativa"
+  ]
 }

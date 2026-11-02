@@ -3,7 +3,7 @@
 > Documento **vivo**. Muda a cada sessão. Quando mudar direção, registre em *Decisões* e em
 > *Histórico* em vez de apagar. Status: `[ ]` a fazer · `[~]` em andamento · `[x]` feito · `[?]` depende do Daniel.
 >
-> Última revisão: 2026-11-02 (sessão 1).
+> Última revisão: 2026-11-02 (sessão 1, escopo confirmado).
 
 ## 1. Objetivo
 
@@ -106,17 +106,17 @@ Objetivo: "trocar ideia" com ferramentas e sem chute.
 | 2026-11-02 | Motor sem LLM e sem estimativas; `MissingInput` obrigatório | pedido explícito: "não ficar chutando valores" |
 | 2026-11-02 | Financeiros via CSV da CVM, não via PDF+LLM | 25/36 períodos falharam no WestWing; CSV é determinístico |
 | 2026-11-02 | Casos históricos como suíte de regressão antes de mexer em prompts | sem ground truth, mudança de prompt é chute |
+| 2026-11-02 | Escopo confirmado pelo Daniel: LatAm (não "OTAN"); casos Viveo (VVEO3) e Energisa ENGI3→ENGI4 | transcrição do áudio |
 | 2026-11-02 | Unidades: motor aceita qualquer unidade, desde que consistente; dados CVM normalizados para R$ mil | evitar erro de escala (UNIDADE vs MIL) |
 
 ## 7. Perguntas abertas para o Daniel
 
-1. "OTAN" no áudio = LatAm? "Vigio" = Viveo? "NG3 pra Indy4" = ENGI3→ENGI4?
-2. Fonte de preços de bonds e debêntures: Bloomberg export? Qual formato/periodicidade?
-3. Formato do export Bloomberg de preços de ações (todas as classes) para substituir yfinance.
-4. Lista inicial de 10–15 casos históricos que você considera "arbitragens claras".
-5. Manter Gemini para o agente ou trocar? (custo, qualidade em português jurídico, tool use).
-6. Raízen/SPX: os dados listados em `cases/raizen_spx_2026.json → dados_a_pedir_ao_daniel`.
-7. Confirmar o valor de R$60M da redução de capital da Westwing no Fato Relevante de 2026-03-22 (hoje vem do alerta do backtest, gerado por LLM).
+1. Fonte de preços de bonds e debêntures: Bloomberg export? Qual formato/periodicidade?
+2. Formato do export Bloomberg de preços de ações (todas as classes) para substituir yfinance.
+3. Lista inicial de 10–15 casos históricos que você considera "arbitragens claras".
+4. Manter Gemini para o agente ou trocar? (custo, qualidade em português jurídico, tool use).
+5. Raízen/SPX: os dados listados em `cases/raizen_spx_2026.json → dados_a_pedir_ao_daniel`.
+6. Confirmar o valor de R$60M da redução de capital da Westwing no Fato Relevante de 2026-03-22 (hoje vem do alerta do backtest, gerado por LLM).
 
 ## 8. Bloqueios de ambiente
 
