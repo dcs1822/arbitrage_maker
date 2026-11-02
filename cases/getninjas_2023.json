@@ -1,0 +1,23 @@
+{
+  "id": "getninjas_2023",
+  "status": "esqueleto",
+  "empresa": "GetNinjas S.A.",
+  "tickers": ["NINJ3"],
+  "cd_cvm": null,
+  "tipos_evento": ["caixa_gt_mc", "ativismo", "reducao_capital"],
+  "instrumentos": ["acao ON"],
+  "resumo": "Empresa pos-IPO com caixa liquido acima do market cap; pressao de acionistas levou a distribuicao de caixa via reducao de capital. A PREENCHER com valores e datas dos documentos CVM.",
+  "timeline": [],
+  "momento_detectavel": {"data": null, "documento": null, "por_que": "primeira DFP/ITR em que caixa liquido > market cap, combinado com comunicado de participacao relevante de fundo ativista"},
+  "conta_no_momento": {"calculo": "arbmaker.calc.capital_ops.cash_vs_market_cap", "inputs": {}, "outputs": {}, "fontes": {}},
+  "resultado": {},
+  "licoes": [
+    "Caixa > MC so vira tese quando aparece o agente da distribuicao (ativista, AGE convocada por 5%, proposta da administracao)."
+  ],
+  "dados_que_faltaram": ["posicao de aluguel antes da AGE", "mapa de votacao da AGE"],
+  "confirmar_com_daniel": [
+    "valor e data da(s) reducao(oes) de capital",
+    "quais fundos cruzaram 5% e quando (Res. CVM 44 art. 12)",
+    "se houve OPA/recompra alem da reducao"
+  ]
+}

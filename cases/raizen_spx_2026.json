@@ -1,0 +1,35 @@
+{
+  "id": "raizen_spx_2026",
+  "status": "aberto",
+  "empresa": "Raizen S.A.",
+  "tickers": ["RAIZ4"],
+  "cd_cvm": null,
+  "tipos_evento": ["participacao_relevante", "credito_distressed", "recuperacao_extrajudicial", "conversao_divida_equity"],
+  "instrumentos": ["acao PN", "bonds offshore", "debentures"],
+  "resumo": "Relato do Daniel (2026-11-02): SPX cruzou 5% do equity; empresa em recuperacao extrajudicial; bonds chegaram a negociar abaixo de 40% do par. Sob prioridade absoluta o equity valeria ~0; o MC positivo e a posicao de 5% precisam ser explicados. NADA AQUI FOI VERIFICADO EM DOCUMENTO AINDA.",
+  "timeline": [
+    {"data": null, "documento": "Comunicado de participacao relevante (Res. CVM 44 art. 12) da SPX", "fonte": "a localizar no IPE/RAD", "o_que_mudou": "SPX > 5%", "severidade_real": null}
+  ],
+  "momento_detectavel": {"data": null, "documento": "comunicado art. 12 + preco do bond no mesmo dia", "por_que": "cross_check_bond_vs_equity: gap entre EV visto pelo equity e EV visto pelo bond"},
+  "conta_no_momento": {"calculo": "arbmaker.calc.capital_structure.cross_check_bond_vs_equity", "inputs": {}, "outputs": {}, "fontes": {}},
+  "hipoteses": [
+    {"h": "opcao barata sobre a recuperacao (equity como call fora do dinheiro)", "confirma": "MC pequeno vs face da divida; sem derivativos no comunicado", "derruba": "MC relevante vs gap"},
+    {"h": "posicao para votar em AGE (diluicao/conversao acima do capital autorizado exige assembleia)", "confirma": "capital autorizado insuficiente para a conversao do plano; edital de AGE", "derruba": "conversao cabe no capital autorizado"},
+    {"h": "complemento de posicao em bond (long bond + long equity = aposta na recuperacao)", "confirma": "comunicado art. 12 declara debentures/bonds ou derivativos", "derruba": "comunicado declara so acoes"},
+    {"h": "expectativa de new money / quebra negociada da prioridade", "confirma": "termos do plano REJ com conversao a preco acima do mercado", "derruba": "plano sem conversao"},
+    {"h": "direitos de minoria que destravam em 5% (convocar AGE, exibicao de livros, acao de responsabilidade) e 10% (voto multiplo, conselho fiscal, com escala CVM)", "confirma": "pedido de convocacao ou de instalacao de conselho fiscal", "derruba": "nenhum uso dos direitos"}
+  ],
+  "dados_a_pedir_ao_daniel": [
+    "comunicado art. 12 da SPX (pdf ou link): data, % exato, se declara derivativos/bonds, objetivo declarado",
+    "estrutura de capital: face de cada bond e debenture, senioridade/garantias, vencimentos",
+    "preco de cada bond (ISIN, data, fonte) e preco das debentures se negociam",
+    "termos do plano de recuperacao extrajudicial: haircut, conversao (preco por acao, parcela), new money",
+    "capital autorizado e total de acoes (estatuto vigente)",
+    "posicao de aluguel e taxa de RAIZ4 nos ultimos 60 dias",
+    "composicao acionaria atual (Cosan, Shell, free float)"
+  ],
+  "resultado": {},
+  "licoes": [],
+  "dados_que_faltaram": [],
+  "confirmar_com_daniel": ["todos os fatos do resumo (REJ, nivel dos bonds, % da SPX)"]
+}

@@ -2,6 +2,27 @@
 
 Sistema de monitoramento de eventos corporativos da CVM para identificar oportunidades de investimento (special situations, arbitragens, ativismo).
 
+> **Direcionamento do projeto:** [ROADMAP.md](ROADMAP.md) (documento vivo: fases, backlog, decisões, perguntas abertas).
+
+## Camada nova: `arbmaker/` (sessão 2026-11-02)
+
+```
+arbmaker/
+  calc/        motor determinístico de finanças corporativas (sem LLM; input faltando -> MissingInput)
+  sources/     conectores: cvm_open_data (DFP/ITR/IPE/FRE/CAD em CSV oficial)
+  examples/    demos com dados reais do repo
+cases/         biblioteca de casos históricos (ground truth para regressão)
+tests/         pytest
+```
+
+```bash
+pip install -r requirements.txt -r requirements-dev.txt
+python -m pytest -q                                   # motor + conector
+python -m arbmaker.examples.westwing_reducao_capital  # demo WestWing
+```
+
+## Camada original: `corporate_events_v3/`
+
 ## Arquitetura
 
 ```

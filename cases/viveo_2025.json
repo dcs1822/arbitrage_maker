@@ -1,0 +1,21 @@
+{
+  "id": "viveo_2025",
+  "status": "esqueleto",
+  "empresa": "Viveo (CM Hospitalar S.A.) — NOME INFERIDO DO AUDIO ('Vigio'), confirmar",
+  "tickers": ["VVEO3"],
+  "cd_cvm": null,
+  "tipos_evento": ["reestruturacao_divida", "conversao_divida_equity", "aumento_capital"],
+  "instrumentos": ["acao ON", "debentures"],
+  "resumo": "Reestruturacao de divida com possivel conversao em equity / aumento de capital. Pergunta do caso: era mais barato entrar pelo equity ou pela divida? A PREENCHER.",
+  "timeline": [],
+  "momento_detectavel": {"data": null, "documento": "Fato Relevante com termos da reestruturacao (preco de conversao, haircut, parcela convertida)", "por_que": "com os termos, conversion.debt_to_equity da o breakeven entre os dois caminhos"},
+  "conta_no_momento": {"calculo": "arbmaker.calc.conversion.debt_to_equity", "inputs": {}, "outputs": {}, "fontes": {}},
+  "resultado": {},
+  "licoes": [],
+  "dados_que_faltaram": ["preco das debentures no secundario (ANBIMA/REUNE)", "escritura e aditamentos"],
+  "confirmar_com_daniel": [
+    "se a empresa e mesmo a Viveo (VVEO3)",
+    "termos da conversao: preco por acao, haircut, parcela, data",
+    "preco das debentures na data do anuncio"
+  ]
+}

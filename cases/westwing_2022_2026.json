@@ -1,0 +1,310 @@
+{
+  "id": "westwing_2022_2026",
+  "status": "fechado",
+  "empresa": "Westwing Comércio Varejista S.A.",
+  "tickers": [
+    "WEST3"
+  ],
+  "cd_cvm": null,
+  "tipos_evento": [
+    "ativismo",
+    "caixa_gt_mc",
+    "reducao_capital",
+    "participacao_relevante"
+  ],
+  "instrumentos": [
+    "acao ON"
+  ],
+  "resumo": "Varejista pos-IPO (fev/2021) queimando caixa; a partir da DFP 2022 o caixa liquido (R$127,7M) ficou ao redor do market cap e cruzou acima dele em abr/2023 com a queda do preco. Ativistas entraram (WNT ate 37,6% em 2023; Oriz 32,15% em mar/2026). Em 2026-03-22 a administracao propos reducao de capital de R$60M com restituicao em dinheiro: R$5,40/acao, 80% do preco pre-anuncio. Acao subiu 15% em 25 dias.",
+  "timeline": [
+    {
+      "data": "2021-02-12",
+      "documento": "inicio da serie de precos (IPO)",
+      "fonte": "data/westwing/structured/prices.json",
+      "o_que_mudou": "primeiro fechamento disponivel",
+      "severidade_backtest": null
+    },
+    {
+      "data": "2021-08-10",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WESTWING: Busca por Sócio Estratégico em Pauta",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2021-09-28",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Aquisição da Zarpo levanta sérias dúvidas sobre estratégia e valuation",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2021-12-13",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Aquisição da Zarpo descontinuada; Reforça riscos de governança e execução",
+      "severidade_backtest": 6
+    },
+    {
+      "data": "2022-01-26",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Diretor Comercial Renuncia, Reforçando Instabilidade Gerencial",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2022-03-17",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "Tork Capital aliena participação relevante em WEST3, eliminando potencial ativismo",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2022-06-20",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: CFO/DRI Renuncia, Reforça Instabilidade de Governança",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2022-08-08",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Descontinua marketplace-out para focar em rentabilidade e caixa",
+      "severidade_backtest": 6
+    },
+    {
+      "data": "2022-08-15",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Reapresentação de DFs por falha em receita agrava crise de credibilidade",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2022-08-18",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Equitas reduz participação, reforçando tese de EVITAR",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2022-11-10",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WESTWING (WEST3): Novo CFO endereça instabilidade na gestão, mas desafios persistem",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2022-11-17",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "Novo Acionista Relevante (WNT) Adquire 7,06% da WEST3 - Potencial para Ativismo Futuro",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2023-06-13",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Nova Rodada de Saídas na Alta Gestão e Conselho Aumenta Risco",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2023-06-29",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: CEO renuncia, CFO assume interinamente com foco em caixa",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2023-07-26",
+      "documento": "Aviso aos Acionistas",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Pedido de Voto Múltiplo Intensifica Crise de Governança",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2023-08-07",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: WNT aumenta participação para 32.35%, solidificando controle",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2023-08-10",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "Kapitalo Investimentos Reduz Participação Relevante em WEST3",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2023-08-11",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: WNT Aumenta Participação para 37,60%, Reforçando Controle Acionista",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2023-09-06",
+      "documento": "Aviso aos Acionistas",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Ativista pede voto múltiplo para eleição do Conselho",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2024-02-05",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: CTO Renuncia Após 10 Anos; Risco de Descontinuidade Tecnológica",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2024-12-13",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Grupamento de Ações Confirma Sinais de Dificuldade e 'Value Trap'",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2025-08-20",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Novo CEO eleito, potencial para turnaround e melhoria de governança",
+      "severidade_backtest": 7
+    },
+    {
+      "data": "2026-01-09",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Diretor de Operações e Tecnologia Renuncia, Aumentando Instabilidade na Gestão",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2026-01-20",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "Mastercard assume 31.87% de WEST3 via dívida e anuncia venda",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2026-01-27",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Novos Acionistas Ativistas Adquirem Participação Relevante e Buscam Assento no Conselho",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2026-03-18",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "Oriz Asset adquire 32.15% da Westwing e busca assento no Conselho",
+      "severidade_backtest": 9
+    },
+    {
+      "data": "2026-03-18",
+      "documento": "Comunicado ao Mercado",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: FIP Oikos aliena 25,5% da participação; novo investidor assume bloco relevante",
+      "severidade_backtest": 8
+    },
+    {
+      "data": "2026-03-22",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Proposta de Redução de Capital de R$60M - Destravando Valor do Caixa",
+      "severidade_backtest": 9
+    },
+    {
+      "data": "2026-03-24",
+      "documento": "Fato Relevante",
+      "fonte": "data/westwing/backtest_integrated/timeline_alertas.txt (alerta gerado por LLM no backtest; conferir no PDF original)",
+      "o_que_mudou": "WEST3: Nova Mudança na Diretoria Reforça Instabilidade na Gestão",
+      "severidade_backtest": 7
+    }
+  ],
+  "momento_detectavel": {
+    "data": "2023-04-03",
+    "documento": "DFP 2022 (caixa R$158,2M, divida R$30,5M) + fechamento de 2023-04-03 (R$10,50)",
+    "por_que": "primeiro dia em que market cap (R$116,6M) ficou abaixo do caixa liquido da DFP 2022 (R$127,7M). Em 2023-03-31 ja estava em 97%. Com queima de R$54M/ano, o desconto era racional ate aparecer um agente de distribuicao (ativista + proposta de reducao)."
+  },
+  "conta_no_momento": {
+    "calculo": "arbmaker.calc.capital_ops.cash_vs_market_cap",
+    "inputs": {
+      "caixa": 158199000,
+      "divida_bruta": 30519000,
+      "market_cap": 131090306,
+      "queima_caixa_12m": 54271000,
+      "preco": 11.8,
+      "acoes": 11109348,
+      "data": "2023-03-31"
+    },
+    "outputs": {
+      "caixa_liquido": 127680000,
+      "caixa_liquido_sobre_mc": 0.974,
+      "ev": 3410306,
+      "anos_de_caixa_na_queima_atual": 2.35
+    },
+    "fontes": {
+      "caixa": "DFP 2022",
+      "divida_bruta": "DFP 2022",
+      "queima_caixa_12m": "DFP 2022 lucro liquido (proxy; FCO nao extraido)",
+      "preco": "prices.json (yfinance, ajustado)",
+      "acoes": "estatuto_vigente.json 2025-10-23 (confirmar quantidade em 2023)"
+    },
+    "reproduzir": "python -m arbmaker.examples.westwing_reducao_capital"
+  },
+  "conta_no_evento": {
+    "calculo": "arbmaker.calc.capital_ops.capital_reduction",
+    "inputs": {
+      "valor_restituido": 60000000,
+      "acoes": 11109348,
+      "preco": 6.72,
+      "caixa_total": 121348000,
+      "divida_bruta": null,
+      "data": "2026-03-20"
+    },
+    "outputs": {
+      "restituicao_por_acao": 5.4009,
+      "restituicao_sobre_preco_pct": 80.37,
+      "preco_ex_teorico": 1.3191,
+      "market_cap_pre": 74654819,
+      "market_cap_ex_teorico": 14654819,
+      "caixa_pos": 61348000,
+      "caixa_pos_sobre_mc_ex": 4.19
+    },
+    "fontes": {
+      "valor_restituido": "alerta do backtest sobre FR 2026-03-22 (LLM) — CONFIRMAR no PDF",
+      "caixa_total": "ITR 4T25",
+      "preco": "prices.json 2026-03-20"
+    },
+    "leitura": "Mercado pagava R$74,7M por R$121,3M de caixa (divida 2025 desconhecida). Devolver R$60M deixa R$61M de caixa contra R$14,7M de equity ex-restituicao: ou o mercado esperava queima forte, ou havia passivo nao capturado, ou era assimetria. Preco foi de 6,72 para 7,75."
+  },
+  "resultado": {
+    "preco_na_deteccao": 10.5,
+    "data_deteccao": "2023-04-03",
+    "preco_pre_evento": 6.72,
+    "data_pre_evento": "2026-03-20",
+    "preco_resultado": 7.75,
+    "data_resultado": "2026-04-14",
+    "retorno_pos_evento_pct": 15.3,
+    "dias_pos_evento": 25,
+    "retorno_desde_deteccao_pct": -26.2,
+    "o_que_resolveu": "proposta de reducao de capital apos entrada de ativista com 32%"
+  },
+  "licoes": [
+    "Caixa > MC com queima de caixa NAO e tese sozinho: WEST3 caiu de 10,50 (abr/2023) para 6,72 (mar/2026) enquanto o caixa derretia de 158M para 121M.",
+    "O gatilho foi a combinacao: participacao relevante com intencao de eleger conselheiros (art. 12) + proposta de distribuicao. O agente deve ligar os dois documentos.",
+    "Comunicados de participacao relevante (Oriz 6,65% -> 32,15% num unico comunicado) sao a fonte mais importante e hoje nao sao coletados pelo v3.",
+    "Sem a divida bruta de 2025 nos dados estruturados, o motor se recusou a calcular EV: a extracao por LLM e o gargalo (ver ROADMAP Fase 1)."
+  ],
+  "dados_que_faltaram": [
+    "divida bruta e FCO de 2024/2025 (extracao LLM falhou)",
+    "posicao de aluguel antes da AGE",
+    "mapa de votacao da AGE da reducao",
+    "quantidade de acoes em 2023 (confirmar grupamento)"
+  ],
+  "confirmar_com_daniel": [
+    "valor exato da reducao de capital (R$60M) e a data da AGE",
+    "se houve grupamento de acoes entre 2021 e 2025",
+    "resultado final: a reducao foi homologada e paga? quando?"
+  ]
+}

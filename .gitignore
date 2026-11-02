@@ -38,3 +38,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# dados brutos baixados (zips CVM, exports Bloomberg)
+data/cvm_raw/
+.pytest_cache/
