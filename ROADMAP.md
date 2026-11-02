@@ -43,6 +43,7 @@ agente de tese trimestral, backtest WestWing (eventos vs. tese). Limitações en
   Testado offline com CSV sintético (3 testes). **Rede bloqueada nesta sessão: validar contra arquivo real.**
 - [x] `cases/` — schema + WestWing (fechado parcial, conta pelo motor) + esqueletos GetNinjas, Viveo, Energisa + caso vivo Raízen/SPX com hipóteses e lista de dados a pedir.
 - [x] `arbmaker/examples/westwing_reducao_capital.py` — demo com dados reais do repo (pede dívida que falta; calcula a redução de capital).
+- [x] `arbmaker/sources/rad_collect.py` + `arbmaker/universe_cases.py` — coletor completo por empresa (cadastro → índice IPE → PDFs → DFP/ITR CSV) para as 5 empresas dos casos. Pronto; não rodou aqui por bloqueio de rede.
 
 ## 4. Fases
 
@@ -92,11 +93,16 @@ Objetivo: "trocar ideia" com ferramentas e sem chute.
 
 ## 5. Backlog imediato (próxima sessão)
 
-1. `[?]` Liberar `dados.cvm.gov.br` no ambiente **ou** subir os zips DFP/ITR/IPE 2021–2026 para `data/cvm_raw/` (gitignored).
-2. Validar `cvm_open_data` com WestWing real; corrigir mapeamento de contas se necessário.
-3. Buscar no IPE o comunicado art. 12 da SPX em Raízen e preencher `cases/raizen_spx_2026.json` com os dados que o Daniel passar.
-4. Preencher `cases/getninjas_2023.json` com documentos reais.
-5. Primeiro screener: caixa líquido vs MC para o universo de 20 empresas já em `company_state`.
+Foco acordado (2026-11-02): **responder bem os 5 casos** (WestWing, GetNinjas, Viveo, Energisa, Raízen) com os
+documentos públicos das próprias empresas antes de escalar para descoberta em universo amplo.
+
+1. `[?]` Liberar rede **ou** rodar `python -m arbmaker.sources.rad_collect` na máquina do Daniel e commitar
+   `data/<slug>/index.csv`, `structured/` e `collect_report.json` (PDFs/textos ficam fora do git).
+   Hosts: `dados.cvm.gov.br` (índice IPE, DFP/ITR, cadastro) e `www.rad.cvm.gov.br` (PDFs).
+2. Validar `cvm_open_data` com WestWing real (comparar com os 11 períodos parseados do v3); corrigir mapeamento de contas.
+3. Raízen: localizar no índice o comunicado art. 12 da SPX, estatuto (capital autorizado), documentos da REJ; preencher o caso.
+4. GetNinjas, Viveo, Energisa: montar timeline a partir do índice, rodar o motor no momento detectável, fechar os casos.
+5. Só depois: screener caixa líquido vs MC no universo de 20 empresas de `company_state`, e expansão do universo.
 
 ## 6. Decisões
 
@@ -107,6 +113,8 @@ Objetivo: "trocar ideia" com ferramentas e sem chute.
 | 2026-11-02 | Financeiros via CSV da CVM, não via PDF+LLM | 25/36 períodos falharam no WestWing; CSV é determinístico |
 | 2026-11-02 | Casos históricos como suíte de regressão antes de mexer em prompts | sem ground truth, mudança de prompt é chute |
 | 2026-11-02 | Escopo confirmado pelo Daniel: LatAm (não "OTAN"); casos Viveo (VVEO3) e Energisa ENGI3→ENGI4 | transcrição do áudio |
+| 2026-11-02 | Foco: fechar os 5 casos com documentos públicos das empresas antes de escalar descoberta | proposta do Daniel; evita otimizar detecção sem ground truth |
+| 2026-11-02 | Coleta por empresa = índice IPE (todas as categorias) + PDFs do RAD + DFP/ITR em CSV; `rad_collect.py` | mesmo caminho que o backtest WestWing já usou, generalizado |
 | 2026-11-02 | Unidades: motor aceita qualquer unidade, desde que consistente; dados CVM normalizados para R$ mil | evitar erro de escala (UNIDADE vs MIL) |
 
 ## 7. Perguntas abertas para o Daniel
@@ -120,8 +128,13 @@ Objetivo: "trocar ideia" com ferramentas e sem chute.
 
 ## 8. Bloqueios de ambiente
 
-- `dados.cvm.gov.br` negado pela política de rede do ambiente (403 no proxy). Liberar em *Network access → Allowed domains* ou trabalhar offline com zips.
-- Sem acesso a Bloomberg/B3 daqui: dados chegam via export do Daniel.
+- Política de rede do ambiente cloud libera só gerenciadores de pacotes e GitHub. Negados com 403 no gateway (testado 2026-11-02):
+  `www.rad.cvm.gov.br`, `rad.cvm.gov.br`, `dados.cvm.gov.br`, `sistemas.cvm.gov.br`, `cvmweb.cvm.gov.br`,
+  `sistemaswebb3-listados.b3.com.br`, `query1.finance.yahoo.com`, `fnet.bmfbovespa.com.br`.
+  Remédio: *Network access → Allowed domains* com `dados.cvm.gov.br` e `www.rad.cvm.gov.br` (mínimo), mais
+  `query1.finance.yahoo.com`/`query2.finance.yahoo.com` para preços e `arquivos.b3.com.br` para aluguel.
+  Alternativa: rodar o coletor na máquina do Daniel e commitar os índices/estruturados.
+- Sem acesso a Bloomberg daqui: preços de bonds/debêntures e exports chegam via arquivos do Daniel.
 
 ## 9. Histórico
 
